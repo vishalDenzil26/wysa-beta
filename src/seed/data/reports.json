@@ -1,0 +1,3899 @@
+[{
+  "_id": {
+    "$oid": "674c0b37819e91172719ede4"
+  },
+  "breadcrumbColor": "text-primary",
+  "relatedArticles": [],
+  "meta": {},
+  "slugLock": true,
+  "breadcrumbs": [
+    {
+      "doc": {
+        "$oid": "674c0b37819e91172719ede4"
+      },
+      "url": "/report-one",
+      "label": "Report One",
+      "id": "67d7d05b111dea0027c8bc2f"
+    }
+  ],
+  "_status": "published",
+  "createdAt": {
+    "$date": "2024-12-01T07:07:35.645Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T07:33:47.034Z"
+  },
+  "__v": 0,
+  "abstract": {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "dsaadas",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
+    }
+  },
+  "author": "Dev",
+  "bannerImage": {
+    "$oid": "6789da353a643084179eb6c0"
+  },
+  "category": {
+    "$oid": "66fe4d546d7e2573e63e2336"
+  },
+  "content": {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "dsadads",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
+    }
+  },
+  "publishedAt": {
+    "$date": "2024-12-01T09:18:30.713Z"
+  },
+  "slug": "report-one",
+  "title": "Report One",
+  "thumbNail": {
+    "$oid": "6789da353a643084179eb6c0"
+  },
+  "duration": 4
+},
+{
+  "_id": {
+    "$oid": "67c130d848c41c3755ac54d1"
+  },
+  "breadcrumbColor": "text-white",
+  "meta": {},
+  "slugLock": true,
+  "breadcrumbs": [
+    {
+      "doc": {
+        "$oid": "67c130d848c41c3755ac54d1"
+      },
+      "url": "/turning-anxiety-into-job-seeking-confidence-with-wysa--debbies-story",
+      "label": "Turning anxiety into job-seeking confidence with Wysa – Debbie’s story",
+      "id": "67e24a5fd9eff1002788aceb"
+    }
+  ],
+  "_status": "published",
+  "createdAt": {
+    "$date": "2025-02-28T03:43:20.377Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-25T06:17:03.815Z"
+  },
+  "__v": 0,
+  "abstract": {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Turning anxiety into job-seeking confidence with Wysa – Debbie’s story",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Debbie’s experience of the NHS Talking Therapy Pathway",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
+    }
+  },
+  "author": "Sarah Baldry, VP Marketing, Wysa",
+  "bannerImage": {
+    "$oid": "67c131d248c41c3755ac5554"
+  },
+  "category": {
+    "$oid": "66fe4d546d7e2573e63e2336"
+  },
+  "content": {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Debbie, age 41, from Leicestershire, UK, was previously employed as a chemist but left her position due to significant stress and anxiety. The demanding work environment had started to affect her mental health, leading her to seek professional support. Enrolled in a Cognitive Behavioral Therapy (CBT) course through NHS Talking Therapies, Debbie was also introduced to Wysa, a digital mental health support app that helps users manage symptoms like anxiety, low mood, and stress. Having completed her CBT course, Debbie continues to use Wysa daily to help manage her anxiety and stay motivated while job hunting for a new role in administration.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": "Experience with Wysa",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "heading",
+          "version": 1,
+          "tag": "h2"
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "When Debbie first started using Wysa, she was immediately drawn to its interactive and friendly nature. “I like the little penguin—it’s like having someone to chat to about your day. And the techniques on there are so useful,” she shared. The app’s conversational style, combined with its inviting mascot, quickly became a source of comfort, allowing her to talk about her day and engage with therapeutic exercises in a relaxed way.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "“There’s nothing on there that I don’t like. I think it’s all pretty helpful and informative,” she remarked, adding that she appreciates how accessible the information and tools are.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "format": "",
+          "type": "block",
+          "version": 2,
+          "fields": {
+            "id": "67c132c53f3f352123a7e243",
+            "blockName": "",
+            "gridItems": [
+              {
+                "id": "67c1330790de57049a22be50",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c1330d90de57049a22be51",
+                      "width": "w-full",
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "dynamicContentBlock",
+                      "alignContent": "left",
+                      "contentWidth": "w-full",
+                      "verticalGutter": "my-0",
+                      "backgroundColor": "bg-none",
+                      "backgroundImage": "67befaf86e6e9bb8618b6348",
+                      "imageGroup": [],
+                      "verticalPadding": "py-5 md:py-14"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "67c1332590de57049a22be52",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c1332990de57049a22be53",
+                      "width": "w-full",
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "dynamicContentBlock",
+                      "alignContent": "left",
+                      "contentWidth": "w-full",
+                      "verticalGutter": "my-5 md:my-20",
+                      "backgroundColor": "bg-none",
+                      "backgroundImage": "67bff5cd48c41c3755abfd5d",
+                      "imageGroup": [],
+                      "verticalPadding": "py-5 md:py-14"
+                    }
+                  ]
+                }
+              }
+            ],
+            "gridLayout": {
+              "rows": 1,
+              "columns": 2,
+              "rowsGap": "gap-y-4",
+              "rounded": "rounded-2xl",
+              "position": "default",
+              "columnsGap": "gap-x-4",
+              "alignItems": "",
+              "background": "bg-none",
+              "grid-padding-y": "py-0",
+              "grid-padding-x": "px-0",
+              "justifyContent": "",
+              "verticalGutter": "my-5 md:my-20"
+            },
+            "blockType": "dynamicGridBlock"
+          }
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": "Managing Anxiety and Practicing Gratitude",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "heading",
+          "version": 1,
+          "tag": "h2"
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "With her anxiety substantially improved, Debbie attributes much of her ongoing progress to using Wysa regularly. “It was mainly anxiety that led me to therapy,” she explained, “and it’s got a lot better now than it was before. It took a lot of work but I’m getting there.” She’s integrated Wysa’s mindfulness and gratitude exercises into her routine, which she finds uplifting. “It makes me smile… there’s this little icon that gives you a hug, and there’s a lot about gratitude and mindfulness on there,” she said. She now considers these practices an essential part of her day.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Debbie uses Wysa almost every day, especially in the morning to set a positive tone. She often finds herself returning to it whenever she feels she could benefit from a particular technique. “I usually go on it in the morning,” she noted. “Sometimes I might open it during the day if I’m thinking, ‘Oh, I could try that technique again.’”",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": "Preference for Wysa Over Other Digital Tools",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "heading",
+          "version": 1,
+          "tag": "h2"
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "In addition to Wysa, Debbie has tried other digital mental health tools, but none had the same impact. “I tried Silver Cloud, but it just didn’t work as well for me,” she explained. “I think this one—Wysa—is a lot better.” When asked why Wysa stands out, she noted that its interactive style, friendly design, and gratitude exercises keep her engaged, all of which she finds more helpful than the alternative digital tools offered to her.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "format": "",
+          "type": "block",
+          "version": 2,
+          "fields": {
+            "id": "67c133583f3f352123a7e244",
+            "blockName": "",
+            "gridItems": [
+              {
+                "id": "67c1337590de57049a22be54",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c133d790de57049a22be56",
+                      "width": "w-full",
+                      "title": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "74%",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "SECONDARY"
+                                  }
+                                }
+                              ],
+                              "direction": null,
+                              "format": "",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h2"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Reported improvements in mood",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "PRIMARY"
+                                  }
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h4"
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "cta",
+                      "links": [
+                        {
+                          "id": "67c1344490de57049a22be5a",
+                          "link": {
+                            "url": "#",
+                            "type": "custom",
+                            "label": "Find out how",
+                            "newTab": true,
+                            "appearance": "secondary-ghost-with-arrow"
+                          }
+                        }
+                      ],
+                      "description": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+                                  "type": "text",
+                                  "version": 1
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "paragraph",
+                              "version": 1,
+                              "textFormat": 0,
+                              "textStyle": ""
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "alignContent": "center",
+                      "contentWidth": "w-full",
+                      "justifyContent": "justify-center",
+                      "verticalGutter": "my-0",
+                      "backgroundColor": "bg-secondary-foreground",
+                      "verticalPadding": "py-5 md:py-14",
+                      "imageGroup": []
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "67c133fa90de57049a22be57",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c1340890de57049a22be58",
+                      "width": "w-full",
+                      "title": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "1.8m",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "SECONDARY"
+                                  }
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h2"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "People involved in our research",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "PRIMARY"
+                                  }
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h4"
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "cta",
+                      "links": [
+                        {
+                          "id": "67c1342d90de57049a22be59",
+                          "link": {
+                            "url": "#",
+                            "type": "custom",
+                            "label": "Find out how",
+                            "newTab": true,
+                            "appearance": "secondary-ghost-with-arrow"
+                          }
+                        }
+                      ],
+                      "description": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+                                  "type": "text",
+                                  "version": 1
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "paragraph",
+                              "version": 1,
+                              "textFormat": 0,
+                              "textStyle": ""
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "alignContent": "center",
+                      "contentWidth": "w-full",
+                      "justifyContent": "justify-center",
+                      "verticalGutter": "my-0",
+                      "backgroundColor": "bg-primary-foreground",
+                      "verticalPadding": "py-5 md:py-14",
+                      "imageGroup": []
+                    }
+                  ]
+                }
+              }
+            ],
+            "gridLayout": {
+              "rows": 1,
+              "columns": 2,
+              "rowsGap": "gap-y-4",
+              "rounded": "rounded-2xl",
+              "position": "default",
+              "columnsGap": "gap-x-4",
+              "alignItems": "",
+              "background": "bg-none",
+              "grid-padding-y": "py-10",
+              "grid-padding-x": "px-0",
+              "justifyContent": "",
+              "verticalGutter": "my-5 md:my-20"
+            },
+            "blockType": "dynamicGridBlock"
+          }
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": "Job-Hunting Motivation",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "heading",
+          "version": 1,
+          "tag": "h2"
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Since leaving her position at the chemist, Debbie has used Wysa to stay motivated in her job search. She finds that the app’s goal-setting feature helps her feel organised and focused during this transitional period. “The goals on there are so helpful for keeping me on track,” she explained. This has been especially useful as she seeks new opportunities in admin work.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": "Encouraging Others to Use Wysa",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "heading",
+          "version": 1,
+          "tag": "h2"
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Debbie is enthusiastic about recommending Wysa to others dealing with anxiety, low mood, or depression. When asked if she would suggest the app to others, she replied without hesitation, “Oh, absolutely. I’d definitely recommend it.”",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": "Exploring the SOS Button",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "heading",
+          "version": 1,
+          "tag": "h2"
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Although Debbie hasn’t needed to use Wysa’s SOS feature, she was reassured upon learning more about it. “I remember hearing about someone with an Apple Watch that automatically rang the police when they needed help,” she said, explaining her previous concerns about emergency features in apps. But after learning that Wysa’s SOS button is designed only for grounding exercises and deep breathing, and providing helplines, she felt more at ease. Knowing it provides accessible exercises in case of moments of panic has given her peace of mind.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "format": "",
+          "type": "block",
+          "version": 2,
+          "fields": {
+            "id": "67c134603f3f352123a7e245",
+            "media": "67c0279148c41c3755ac2516",
+            "rounded": "rounded-2xl",
+            "position": "default",
+            "blockName": "",
+            "blockType": "mediaBlock"
+          }
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": "A Willing Advocate for Mental Health Awareness",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "heading",
+          "version": 1,
+          "tag": "h2"
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Debbie’s positive experience with Wysa has inspired her to share her story to help others overcome the stigma around mental health: “If sharing my experience helps other people, then that’s exactly what I want to do.” She hopes that by sharing her story, she can encourage others facing similar challenges to try Wysa as part of their journey toward better mental health.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "format": "",
+          "type": "block",
+          "version": 2,
+          "fields": {
+            "id": "67c1347b3f3f352123a7e246",
+            "blockName": "",
+            "gridItems": [
+              {
+                "id": "67c134ae90de57049a22be5b",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c134d690de57049a22be5e",
+                      "media": "6789da3c3a643084179eb6e0",
+                      "rounded": "none",
+                      "position": "default",
+                      "blockType": "mediaBlock"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "67c134eb90de57049a22be5f",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c134ef90de57049a22be60",
+                      "width": "default",
+                      "title": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Title goes here",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "PRIMARY"
+                                  }
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h2"
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "dynamicContentBlock",
+                      "description": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+                                  "type": "text",
+                                  "version": 1
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "paragraph",
+                              "version": 1,
+                              "textFormat": 0,
+                              "textStyle": ""
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "alignContent": "left",
+                      "contentWidth": "w-full",
+                      "verticalGutter": "my-0",
+                      "backgroundColor": "bg-none",
+                      "verticalPadding": "py-5 md:py-14"
+                    }
+                  ]
+                }
+              }
+            ],
+            "gridLayout": {
+              "rows": 1,
+              "columns": 2,
+              "rowsGap": "gap-y-4",
+              "rounded": "rounded-2xl",
+              "position": "default",
+              "columnsGap": "gap-x-4",
+              "alignItems": "",
+              "background": "bg-primary-foreground",
+              "grid-padding-y": "py-0",
+              "grid-padding-x": "px-0",
+              "justifyContent": "",
+              "verticalGutter": "my-5 md:my-20",
+              "customClassNames": "grid-cols-1 xl:grid-cols-2 px-0 lg:px-16 lg:flex lg:items-center"
+            },
+            "blockType": "dynamicGridBlock"
+          }
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": "Conclusion",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "heading",
+          "version": 1,
+          "tag": "h2"
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Debbie’s journey illustrates how digital mental health tools like Wysa, when used alongside traditional therapy, can provide ongoing support and empowerment, especially in times of transition like job searching. For Debbie, Wysa is more than just an app; it’s a daily companion that helps her face each day with greater confidence and resilience.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
+    }
+  },
+  "duration": 5,
+  "publishedAt": {
+    "$date": "2025-02-28T04:16:42.402Z"
+  },
+  "relatedArticles": [],
+  "slug": "turning-anxiety-into-job-seeking-confidence-with-wysa--debbies-story",
+  "thumbNail": {
+    "$oid": "67c131d248c41c3755ac5554"
+  },
+  "title": "Turning anxiety into job-seeking confidence with Wysa – Debbie’s story"
+},
+{
+  "_id": {
+    "$oid": "67c1359d48c41c3755ac5f11"
+  },
+  "breadcrumbColor": "text-white",
+  "meta": {},
+  "slugLock": true,
+  "breadcrumbs": [
+    {
+      "doc": {
+        "$oid": "67c1359d48c41c3755ac5f11"
+      },
+      "url": "/navigating-panic-and-anxiety-with-wysa-johns-journey-through-nhs-talking-therapy",
+      "label": "Navigating panic and anxiety with Wysa: John’s journey through NHS Talking Therapy",
+      "id": "67e24a53d9eff1002788acea"
+    }
+  ],
+  "_status": "published",
+  "createdAt": {
+    "$date": "2025-02-28T04:03:41.996Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-25T06:16:51.762Z"
+  },
+  "__v": 0,
+  "abstract": {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Navigating panic and anxiety with Wysa: John’s journey through NHS Talking Therapy",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
+    }
+  },
+  "author": "Sarah Baldry, VP Marketing, Wysa",
+  "bannerImage": {
+    "$oid": "67c135fd48c41c3755ac5f5b"
+  },
+  "category": {
+    "$oid": "66fe4d546d7e2573e63e2336"
+  },
+  "content": {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "For many people facing mental health struggles, the wait for therapy can be agonizing. John, a bar manager from northwest Kent, England, knows this firsthand. As part of his ongoing battle with agoraphobia and panic attacks, he’s been through various treatments over the years. Now, during a particularly tough stretch, he’s found some relief through Wysa’s AI-driven mental health support app offered as part of his NHS Talking Therapy. ",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "“I’ve had talking therapy over the summer, and it’s helped a bit,” John says. “But if I’m really honest, I haven’t found a lot of help out there. I’ve been pushed from pillar to post. I’ve had this condition for a long time, and it’s come and gone over the years. When I self-referred again, I spoke to someone on the phone, and they sent me a link to the Wysa app.”",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "John was initially unsure how useful a digital tool would be for managing his mental health but was willing to give it a try. “I thought, why not? I’ll give it a go and see if it helps,” he says.",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Living with panic attacks at work",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "John’s daily reality involves managing panic attacks while working in a high-pressure environment. “I’ve run pubs all my life. Right now, I’m working in a private members’ bar,” he explains. “But some days, it’s hell. I just got back from work, and it was four or five hours of utter hell. The panic attacks get really bad. You’re on your own, no family around you, stuck at work, thinking you’re going to drop down dead.”",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "When these moments hit, John finds himself needing immediate support, and this is where Wysa helps. “It’s pretty acute, and it wears me down. It has actually worn me down these last couple of weeks,” he admits. “But Wysa is helpful. You’ve got to get your head into the space where you’re talking to a person instead of a computer, it can be strange. But I do use it.”",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "format": "",
+          "type": "block",
+          "version": 2,
+          "fields": {
+            "id": "67c136cf8b611d9bfd567542",
+            "blockName": "",
+            "gridItems": [
+              {
+                "id": "67c136e15617dc886316b533",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c136e85617dc886316b534",
+                      "width": "w-full",
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "dynamicContentBlock",
+                      "alignContent": "left",
+                      "contentWidth": "w-full",
+                      "verticalGutter": "my-0",
+                      "backgroundColor": "bg-none",
+                      "verticalPadding": "py-5 md:py-14",
+                      "backgroundImage": "67befaf86e6e9bb8618b6348",
+                      "imageGroup": []
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "67c137095617dc886316b535",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c1370e5617dc886316b536",
+                      "width": "w-full",
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "dynamicContentBlock",
+                      "alignContent": "left",
+                      "contentWidth": "w-full",
+                      "verticalGutter": "my-5 md:my-20",
+                      "backgroundColor": "bg-none",
+                      "verticalPadding": "py-5 md:py-14",
+                      "backgroundImage": "67bff5cd48c41c3755abfd5d",
+                      "imageGroup": []
+                    }
+                  ]
+                }
+              }
+            ],
+            "gridLayout": {
+              "rows": 1,
+              "columns": 2,
+              "rowsGap": "gap-y-4",
+              "rounded": "rounded-2xl",
+              "position": "default",
+              "columnsGap": "gap-x-4",
+              "alignItems": "",
+              "background": "bg-none",
+              "grid-padding-y": "py-0",
+              "grid-padding-x": "px-0",
+              "justifyContent": "",
+              "verticalGutter": "my-5 md:my-20"
+            },
+            "blockType": "dynamicGridBlock"
+          }
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Wysa’s breathing exercises as a lifeline",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "heading",
+          "version": 1,
+          "tag": "h2"
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "John frequently turns to Wysa’s breathing exercises when he feels overwhelmed. “The breathing stuff is really helpful,” he says. “When I’m at work and feel a panic attack coming on, the first thing I do is open the app and go straight to the breathing exercises. They really help calm me down. It’s quick and easy, which is what you need in those moments.”",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "The ease of accessing these tools has been key for John, especially given the nature of his job. “When you’re in the middle of a busy shift, you can’t stop to write things down or call someone. Wysa is there when I need it. I just type in ‘anxious’ or ‘relief,’ and it helps just by typing stuff out.”",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Daily check-ins for mental health management",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "heading",
+          "version": 1,
+          "tag": "h2"
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "John has also found the daily check-in feature useful in keeping himself engaged with his mental health. “I’ve set a check-in time to make sure I use it regularly. The app asks you to check in twice a day – once in the morning and once in the evening. It reminds me to focus on how I’m feeling,” he says. “I’ve been trying to take it seriously and check in every day, which helps keep me on track. Sometimes I finish work at one or two in the morning, and then I miss my morning check-in. But I make sure to do it when I can.”",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "format": "",
+          "type": "block",
+          "version": 2,
+          "fields": {
+            "id": "67c137328b611d9bfd567543",
+            "blockName": "",
+            "gridItems": [
+              {
+                "id": "67c137445617dc886316b537",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c1374a5617dc886316b538",
+                      "width": "w-full",
+                      "title": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "74%",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "SECONDARY"
+                                  }
+                                }
+                              ],
+                              "direction": null,
+                              "format": "",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h2"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Reported improvements in mood",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "PRIMARY"
+                                  }
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h4"
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "cta",
+                      "links": [
+                        {
+                          "id": "67c137755617dc886316b539",
+                          "link": {
+                            "url": "#",
+                            "type": "custom",
+                            "label": "Find out how",
+                            "newTab": true,
+                            "appearance": "secondary-ghost-with-arrow"
+                          }
+                        }
+                      ],
+                      "description": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+                                  "type": "text",
+                                  "version": 1
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "paragraph",
+                              "version": 1,
+                              "textFormat": 0,
+                              "textStyle": ""
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "alignContent": "center",
+                      "contentWidth": "w-full",
+                      "justifyContent": "justify-center",
+                      "verticalGutter": "my-0",
+                      "backgroundColor": "bg-secondary-foreground",
+                      "imageGroup": [],
+                      "verticalPadding": "py-5 md:py-14"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "67c1378e5617dc886316b53a",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c137965617dc886316b53b",
+                      "width": "w-full",
+                      "title": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "1.8m",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "SECONDARY"
+                                  }
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h2"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "People involved in our research",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "PRIMARY"
+                                  }
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h4"
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "cta",
+                      "links": [
+                        {
+                          "id": "67c137b35617dc886316b53c",
+                          "link": {
+                            "url": "#",
+                            "type": "custom",
+                            "label": "Find out how",
+                            "newTab": true,
+                            "appearance": "secondary-ghost-with-arrow"
+                          }
+                        }
+                      ],
+                      "description": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+                                  "type": "text",
+                                  "version": 1
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "paragraph",
+                              "version": 1,
+                              "textFormat": 0,
+                              "textStyle": ""
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "alignContent": "center",
+                      "contentWidth": "w-full",
+                      "justifyContent": "justify-center",
+                      "verticalGutter": "my-0",
+                      "backgroundColor": "bg-primary-foreground",
+                      "imageGroup": [],
+                      "verticalPadding": "py-5 md:py-14"
+                    }
+                  ]
+                }
+              }
+            ],
+            "gridLayout": {
+              "rows": 1,
+              "columns": 2,
+              "rowsGap": "gap-y-4",
+              "rounded": "rounded-2xl",
+              "position": "default",
+              "columnsGap": "gap-x-4",
+              "alignItems": "",
+              "background": "bg-none",
+              "grid-padding-y": "py-0",
+              "grid-padding-x": "px-0",
+              "justifyContent": "",
+              "verticalGutter": "my-5 md:my-20"
+            },
+            "blockType": "dynamicGridBlock"
+          }
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "A lifeline while waiting for therapy",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "heading",
+          "version": 1,
+          "tag": "h2"
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Like many people waiting for NHS therapy sessions, John faces long delays between appointments. “I’ve been waiting four or five weeks now for my next talking therapy session,” he says. “And it could take up to two months before I actually get it.”",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "In the meantime, Wysa has provided John with a crucial source of support. “At least I’ve got something,” he explains. “It’s not the same as talking to someone face-to-face, but it’s a point of contact when you’re feeling really low, and that’s important.”",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "format": "",
+          "type": "block",
+          "version": 2,
+          "fields": {
+            "id": "67c137e08b611d9bfd567544",
+            "media": "67c0279148c41c3755ac2516",
+            "rounded": "rounded-2xl",
+            "position": "default",
+            "blockName": "",
+            "blockType": "mediaBlock"
+          }
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Recommending Wysa to others",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "heading",
+          "version": 1,
+          "tag": "h2"
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "When asked whether he would recommend Wysa to others dealing with anxiety or depression, John is clear: “Yeah, I would,” he says. “It’s not perfect, but it’s a good support system. If someone told me they were struggling with their anxiety or depression, I’d definitely recommend Wysa to them in the meantime.”",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "For John, Wysa has become an essential part of his mental health toolkit. “I like it. It’s there when you need it. It’s not like you’re totally on your own,” he says. “Even though you’re talking to an app, it’s a point of reference. It’s quick, and it helps, which is all you can ask for sometimes.”",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "format": "",
+          "type": "block",
+          "version": 2,
+          "fields": {
+            "id": "67c137f18b611d9bfd567545",
+            "blockName": "",
+            "gridItems": [
+              {
+                "id": "67c1383c5617dc886316b53f",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c138445617dc886316b540",
+                      "media": "6789da3c3a643084179eb6e0",
+                      "rounded": "none",
+                      "position": "fullscreen",
+                      "blockType": "mediaBlock"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "67c138055617dc886316b53d",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c1380e5617dc886316b53e",
+                      "width": "w-full",
+                      "title": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Title goes here",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "PRIMARY"
+                                  }
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h2"
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "dynamicContentBlock",
+                      "description": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+                                  "type": "text",
+                                  "version": 1
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "paragraph",
+                              "version": 1,
+                              "textFormat": 0,
+                              "textStyle": ""
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "alignContent": "left",
+                      "contentWidth": "w-full",
+                      "verticalGutter": "my-0",
+                      "backgroundColor": "bg-none",
+                      "verticalPadding": "py-5 md:py-14"
+                    }
+                  ]
+                }
+              }
+            ],
+            "gridLayout": {
+              "rows": 1,
+              "columns": 2,
+              "rowsGap": "gap-y-4",
+              "rounded": "rounded-2xl",
+              "position": "default",
+              "columnsGap": "gap-x-4",
+              "alignItems": "",
+              "background": "bg-primary-foreground",
+              "grid-padding-y": "py-0",
+              "grid-padding-x": "px-0",
+              "justifyContent": "",
+              "verticalGutter": "my-5 md:my-20",
+              "customClassNames": "grid-cols-1 lg:grid-cols-2 px-0 lg:px-20 lg:flex lg:items-center"
+            },
+            "blockType": "dynamicGridBlock"
+          }
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Looking forward",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "heading",
+          "version": 1,
+          "tag": "h2"
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "As John continues to navigate his mental health challenges, Wysa offers him an element of control. “I like that it’s always there for me when I need it,” he reflects. “It’s not the same as talking to a therapist, but it’s better than nothing. And when you’re stuck in the middle of a panic attack, having something to rely on – even if it’s an app – makes a huge difference.”",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "For now, Wysa offers John a small, yet meaningful, lifeline in moments of acute anxiety – helping him get through the long days at work and the challenging weeks ahead as he waits for further therapy sessions. And for people like John, who face ongoing mental health battles, that’s no small thing.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "start",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
+    }
+  },
+  "duration": 15,
+  "publishedAt": {
+    "$date": "2025-02-28T04:16:20.959Z"
+  },
+  "relatedArticles": [],
+  "slug": "navigating-panic-and-anxiety-with-wysa-johns-journey-through-nhs-talking-therapy",
+  "thumbNail": {
+    "$oid": "67c135fd48c41c3755ac5f5b"
+  },
+  "title": "Navigating panic and anxiety with Wysa: John’s journey through NHS Talking Therapy"
+},
+{
+  "_id": {
+    "$oid": "67c13d0d48c41c3755ac6c1a"
+  },
+  "breadcrumbColor": "text-white",
+  "meta": {},
+  "slugLock": true,
+  "breadcrumbs": [
+    {
+      "doc": {
+        "$oid": "67c13d0d48c41c3755ac6c1a"
+      },
+      "url": "/from-ceramics-to-barber-cuts-community-based-programs-support-people-skeptical-of-mental-health",
+      "label": "From ceramics to barber cuts, community-based programs support people skeptical of mental health",
+      "id": "67f4f751784fba0027c06372"
+    }
+  ],
+  "_status": "published",
+  "createdAt": {
+    "$date": "2025-02-28T04:35:25.488Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-08T10:15:45.327Z"
+  },
+  "__v": 0,
+  "author": "stacker",
+  "bannerImage": {
+    "$oid": "67c1462d48c41c3755ac7511"
+  },
+  "category": {
+    "$oid": "66ffa1f154f94b1a4fc2849c"
+  },
+  "content": {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Drew Muse witnessed several emotional breakthroughs between Black mothers and daughters—but it wasn’t in a therapist’s office. It was during yoga retreats held by",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " The Black Women’s Yoga Collective",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "link",
+              "version": 3,
+              "fields": {
+                "linkType": "custom",
+                "newTab": true,
+                "url": "https://www.blackwomensyogaco.com/"
+              },
+              "id": "67c143398b611d9bfd567546"
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": ", a women’s wellness group based in Los Angeles and New York City that also offers virtual programming.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "“They were able to have conversations that they’ve never been able to have before with each other,” Muse, the organization’s community coordinator, told Stacker. “Some were able to create a deeper understanding with each other about certain issues in their lives, certain things that they have or have not been able to process.”",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Many people of color and marginalized groups are",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " averse to receiving talk therapy",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "link",
+              "version": 3,
+              "fields": {
+                "linkType": "custom",
+                "newTab": true,
+                "url": "https://www.kff.org/racial-equity-and-health-policy/poll-finding/survey-on-racism-discrimination-and-health/"
+              },
+              "id": "67c143398b611d9bfd567547"
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": ", especially among Hispanic, Black, and Asian adults. This is due to distrust of the medical system, concerns about cost, and the stigma of seeking health in their respective communities, among many other reasons, according to a 2023 survey of over 6,000 adults by KFF. Instead, many people of color are turning to community care options for mental health concerns.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Wysa",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "link",
+              "version": 3,
+              "fields": {
+                "linkType": "custom",
+                "newTab": true,
+                "url": "https://www.wysa.com/"
+              },
+              "id": "67c143398b611d9bfd567548"
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " combined research and expert insights to better understand why talk therapy is stigmatized and distrusted among some demographics and how to bridge the gap with community care.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "A study of 2,328 adults published in 2021 in the journal Annals of Family Medicine found that non-Hispanic Black and Hispanic respondents were respectively",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " 73% and 49% more likely",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "link",
+              "version": 3,
+              "fields": {
+                "linkType": "custom",
+                "newTab": true,
+                "url": "https://www.annfammed.org/content/19/1/4#sec-13"
+              },
+              "id": "67c143398b611d9bfd567549"
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " to report a mistrust of medical professionals compared to non-Hispanic white adults. Regarding mental health, KFF’s 2023 study noted that only 39% of Black respondents and 36% of Hispanic respondents with mental health concerns had received help since 2020. Meanwhile, half of white adults said they sought mental health services, which shows they were more likely to receive therapy than Asian, Hispanic, and Black adults during the same period.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "One reason is that people tend to seek out therapists who are conscious of their background, but 55% of Asian and 46% of Black adults have had difficulty finding a professional who understands their specific experiences, according to KFF. In 2021, the American Psychological Association reported that 4 in 5 psychologists are white, while less than 10% are Black, Asian, Hispanic, or of another racial or ethnic group. American Indian or Alaska Native and Native Hawaiian or Pacific Islander psychologists constituted the least, at 0.13% and 0.03%, respectively.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Another major reason is that communities of color have stigmas surrounding seeking mental health help. For instance, many Hispanic or Latino men see seeking therapy as",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " a sign of weakness",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "link",
+              "version": 3,
+              "fields": {
+                "linkType": "custom",
+                "newTab": true,
+                "url": "https://www.edi.nih.gov/the-EDI-pulse-blog/mental-health-and-latino-men-breaking-barriers-stigma"
+              },
+              "id": "67c143398b611d9bfd56754a"
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": ", according to the National Institutes of Health.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "“In the Filipino community, and overall the [Asian American and Pacific Islander] community, it’s still seen as taboo or not proud to talk about it,” Eddy M. Gana, clinical program manager of mental health at the LA-based nonprofit",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " Search to Involve Pilipino Americans",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "link",
+              "version": 3,
+              "fields": {
+                "linkType": "custom",
+                "newTab": true,
+                "url": "https://www.sipacares.org/"
+              },
+              "id": "67c143398b611d9bfd56754b"
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": ", told Stacker. “There’s a sense of shame when asking for help.”",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "type": "block",
+          "version": 2,
+          "format": "",
+          "fields": {
+            "id": "67c143928b611d9bfd56754f",
+            "media": "67c143c548c41c3755ac6ecb",
+            "rounded": "rounded-2xl",
+            "position": "fullscreen",
+            "blockName": "",
+            "blockType": "mediaBlock"
+          }
+        },
+        {
+          "children": [
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": "Care based on community values",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 1,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Community care helps individuals through mutual support and nurtures the well-being of the larger community. This approach, often used by people of color and LGBTQ+ communities, is usually based on the community’s values, supporting it through mutual aid, healing, and faith.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "It is an effective way to reach underserved communities because of the amount of trust involved—especially since many communities of color distrust the medical system. Community care has also been around for generations, thanks to the wisdom and trust that exists within the community.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Cleveland-based certified nurse practitioner Mary Louise Tatum, who specializes in psychology, has found establishing trust difficult but crucial for community-based programs.",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "type": "block",
+          "version": 2,
+          "format": "",
+          "fields": {
+            "id": "67c143d08b611d9bfd567550",
+            "blockName": "",
+            "gridItems": [
+              {
+                "id": "67c143ea5617dc886316b541",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c143ef5617dc886316b542",
+                      "width": "w-full",
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "dynamicContentBlock",
+                      "alignContent": "left",
+                      "contentWidth": "w-full",
+                      "verticalGutter": "my-0",
+                      "backgroundColor": "bg-none",
+                      "verticalPadding": "py-5 md:py-14",
+                      "backgroundImage": "67befaf86e6e9bb8618b6348",
+                      "imageGroup": []
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "67c144215617dc886316b543",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c144255617dc886316b544",
+                      "width": "w-full",
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "dynamicContentBlock",
+                      "alignContent": "left",
+                      "contentWidth": "w-full",
+                      "verticalGutter": "my-5 md:my-20",
+                      "backgroundColor": "bg-none",
+                      "verticalPadding": "py-5 md:py-14",
+                      "backgroundImage": "67bff5cd48c41c3755abfd5d",
+                      "imageGroup": []
+                    }
+                  ]
+                }
+              }
+            ],
+            "gridLayout": {
+              "rows": 1,
+              "columns": 2,
+              "rowsGap": "gap-y-4",
+              "rounded": "rounded-2xl",
+              "position": "default",
+              "columnsGap": "gap-x-4",
+              "alignItems": "",
+              "background": "bg-none",
+              "grid-padding-y": "py-0",
+              "grid-padding-x": "px-0",
+              "justifyContent": "",
+              "verticalGutter": "my-5 md:my-20"
+            },
+            "blockType": "dynamicGridBlock"
+          }
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "“It’s very slow and very tedious, but once they open up, you got to be ready for the blast of emotion,” Tatum told Stacker. “Because the emotions are there, and you got to realize the emotions aren’t personal. Sometimes that stuff is still bottled up.”",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Through community care initiatives, people of color can find programs and professionals who understand their values, backgrounds, and the history of their culture. In their role at SIPA, Gana counsels many Filipino families through their children coming out as queer or transgender. Gana is Filipino and came out as nonbinary to their own family recently.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "They use that experience to inform their approach to other families seeking care, pointing out that many aspects of Filipino culture are gender-neutral. For instance, there are Filipino Indigenous healers called babaylan who transcend gender. The Tagalog language doesn’t use the pronouns “she” or “he”; instead, it uses the gender-neutral “siya” (pronounced “sha”).",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Gana pointed out that language accessibility is a huge issue for the Filipino and Latino communities that SIPA serves in LA. Although they often work with their patients in Tagalog, they noted that the culture has many other languages, including Ilocano and Kapampangan.",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "type": "block",
+          "version": 2,
+          "format": "",
+          "fields": {
+            "id": "67c144748b611d9bfd567551",
+            "blockName": "",
+            "gridItems": [
+              {
+                "id": "67c144845617dc886316b545",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c144895617dc886316b546",
+                      "width": "w-full",
+                      "title": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "74%",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "SECONDARY"
+                                  }
+                                }
+                              ],
+                              "direction": null,
+                              "format": "left",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h2"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Reported improvements in mood",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "PRIMARY"
+                                  }
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "left",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h4"
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "cta",
+                      "links": [
+                        {
+                          "id": "67c144c95617dc886316b547",
+                          "link": {
+                            "url": "#",
+                            "type": "custom",
+                            "label": "Find out how",
+                            "appearance": "secondary-ghost-with-arrow"
+                          }
+                        }
+                      ],
+                      "imageGroup": 0,
+                      "description": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                  "type": "text",
+                                  "version": 1
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "paragraph",
+                              "version": 1,
+                              "textFormat": 0,
+                              "textStyle": ""
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "alignContent": "center",
+                      "contentWidth": "w-full",
+                      "justifyContent": "justify-center",
+                      "verticalGutter": "my-0",
+                      "backgroundColor": "bg-secondary-foreground",
+                      "verticalPadding": "py-5 md:py-14"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "67c144d85617dc886316b548",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c1451a5617dc886316b549",
+                      "width": "w-full",
+                      "title": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "1.8m",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "SECONDARY"
+                                  }
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "left",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h2"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "People involved in our research",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "PRIMARY"
+                                  }
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "left",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h4"
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "cta",
+                      "links": [
+                        {
+                          "id": "67c145475617dc886316b54a",
+                          "link": {
+                            "url": "#",
+                            "type": "custom",
+                            "label": "Find out how",
+                            "appearance": "secondary-ghost-with-arrow"
+                          }
+                        }
+                      ],
+                      "imageGroup": 0,
+                      "description": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                  "type": "text",
+                                  "version": 1
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "paragraph",
+                              "version": 1,
+                              "textFormat": 0,
+                              "textStyle": ""
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "alignContent": "center",
+                      "contentWidth": "w-full",
+                      "justifyContent": "justify-center",
+                      "verticalGutter": "my-0",
+                      "backgroundColor": "bg-primary-foreground",
+                      "verticalPadding": "py-5 md:py-14"
+                    }
+                  ]
+                }
+              }
+            ],
+            "gridLayout": {
+              "rows": 1,
+              "columns": 2,
+              "rowsGap": "gap-y-4",
+              "rounded": "rounded-2xl",
+              "position": "default",
+              "columnsGap": "gap-x-4",
+              "alignItems": "",
+              "background": "bg-none",
+              "grid-padding-y": "py-0",
+              "grid-padding-x": "px-0",
+              "justifyContent": "",
+              "verticalGutter": "my-5 md:my-20"
+            },
+            "blockType": "dynamicGridBlock"
+          }
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "“We need folks who are culturally competent, who are fluent in the multiple languages that we have,” they said. “There’d be some families that would meet where their first language is Kapampangan, or Bisaya, which is the southern region of the Philippines; their second language is Tagalog; and their third language is English.”",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "type": "block",
+          "version": 2,
+          "format": "",
+          "fields": {
+            "id": "67c145658b611d9bfd567552",
+            "media": "67c1457748c41c3755ac72bc",
+            "rounded": "rounded-2xl",
+            "position": "fullscreen",
+            "blockName": "",
+            "blockType": "mediaBlock"
+          }
+        },
+        {
+          "children": [
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": "The many shapes of showing up for each other",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 1,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Community care takes several forms—and it’s not always formal talk therapy. While Gana counsels families and adolescents, SIPA offers sound baths, meditation, and support groups.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "The nonprofit has also been running a program in LA schools called",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " Walang Hiya",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "link",
+              "version": 3,
+              "fields": {
+                "linkType": "custom",
+                "newTab": true,
+                "url": "https://www.sipacares.org/youth-programs"
+              },
+              "id": "67c143638b611d9bfd56754c"
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": ", or “without shame” in Tagalog, which was originally considered a derogatory term. However, Gana said the program wanted to reclaim it through this program that educates high school-aged youth about depression, anxiety, and the impacts of racism.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "The BWYC holds yoga classes, sound healing events, self-care spaces, and retreats emphasizing community connection. Muse said BWYC keeps the admissions costs low—or free—to ensure the wellness events are accessible to the community.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "“We tailor to the needs of the Black community by addressing certain issues that might not be talked about in different wellness spaces, around Blackness and around the ways that microaggressions happen in the workplace and out in the world,” she said. “[We’re] really just creating a space where Black people can feel heard, seen, and understood.”",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Some versions of community care look unexpected. LA-based",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " POT",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "link",
+              "version": 3,
+              "fields": {
+                "linkType": "custom",
+                "newTab": true,
+                "url": "https://www.potstudiola.com/"
+              },
+              "id": "67c143638b611d9bfd56754d"
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " hosts therapeutic pottery workshops in an inclusive space that aims to uplift communities of color. The National Alliance on Mental Illness started the online resource",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " NAMI Sharing Hope",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "link",
+              "version": 3,
+              "fields": {
+                "linkType": "custom",
+                "newTab": true,
+                "url": "https://www.nami.org/support-education/mental-health-education/nami-sharing-hope-mental-wellness-in-the-black-african-ancestry-communities/"
+              },
+              "id": "67c143638b611d9bfd56754e"
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " to support those of Black and African ancestry.",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "type": "block",
+          "version": 2,
+          "format": "",
+          "fields": {
+            "id": "67c145818b611d9bfd567553",
+            "media": "67c0279148c41c3755ac2516",
+            "rounded": "rounded-2xl",
+            "position": "default",
+            "blockName": "",
+            "blockType": "mediaBlock"
+          }
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Another type of community care is meeting the community where it already goes. For the Black community, Tatum said barbers are “the unofficial therapists. They’re the ministers. They’re unofficial everything.” In 2023, she started Beyond the Cut, a Northwest Ohio program to provide mental health training to barbering students, partnering with LaBarberia Institute in Mayfield Heights, Ohio.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Tatum taught the barber college students about mental health and community issues, such as experiencing homelessness and dealing with health insurance. After these talks, many of the students, predominantly Black men around 18 to 30, came to her for personal advice.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "“I thought I was going to give them a skill set to work with their clients,” she said. “It ended up that a lot of them have traumas, so it was a lot more than what I expected. … I had to help them help themselves first.”",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Tatum brought in a Mental Health First Aid trainer for the students and instructors to learn how to respond to mental health and substance use challenges. At the end of the training, they received a certificate, an accomplishment she noticed the students were particularly proud of.",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "type": "block",
+          "version": 2,
+          "format": "",
+          "fields": {
+            "id": "67c145938b611d9bfd567554",
+            "blockName": "",
+            "gridItems": [
+              {
+                "id": "67c145e05617dc886316b54d",
+                "gridItemGroup": {
+                  "customClassNames": "",
+                  "gridItemBlock": [
+                    {
+                      "id": "67c145e85617dc886316b54e",
+                      "media": "6789da3c3a643084179eb6e0",
+                      "rounded": "none",
+                      "position": "default",
+                      "blockType": "mediaBlock"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "67c145af5617dc886316b54b",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c145b95617dc886316b54c",
+                      "width": "w-full",
+                      "title": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Title goes here",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "PRIMARY"
+                                  }
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h2"
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "dynamicContentBlock",
+                      "description": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+                                  "type": "text",
+                                  "version": 1
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "paragraph",
+                              "version": 1,
+                              "textFormat": 0,
+                              "textStyle": ""
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "alignContent": "left",
+                      "contentWidth": "w-full",
+                      "verticalGutter": "my-0",
+                      "backgroundColor": "bg-none",
+                      "verticalPadding": "py-5 md:py-14",
+                      "imageGroup": []
+                    }
+                  ]
+                }
+              }
+            ],
+            "gridLayout": {
+              "rows": 1,
+              "columns": 2,
+              "rowsGap": "gap-y-4",
+              "rounded": "rounded-2xl",
+              "position": "default",
+              "columnsGap": "gap-x-4",
+              "alignItems": "",
+              "background": "bg-primary-foreground",
+              "grid-padding-y": "py-0",
+              "grid-padding-x": "px-0",
+              "justifyContent": "",
+              "verticalGutter": "my-5 md:my-20",
+              "customClassNames": "grid-cols-1 lg:grid-cols-2 px-0 lg:px-20 lg:flex lg:items-center"
+            },
+            "blockType": "dynamicGridBlock"
+          }
+        },
+        {
+          "children": [
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "“Some of them are putting their certifications out there with their student barber license on the mirror,” Tatum said. “And that gave me pride walking to the barber school and seeing them putting up their Mental Health First Aid certificate. … It’s not easy. It’s a lot of work, but they did it.”",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " ",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": null,
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 2,
+              "mode": "normal",
+              "style": "",
+              "text": "Story written by Mallory Ann Carra, editing by Carren Jao. Copy editing by Paris Close. Photo selection by Lacy Kerrick.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 2,
+          "textStyle": ""
+        },
+        {
+          "children": [],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "type": "block",
+          "version": 2,
+          "format": "",
+          "fields": {
+            "id": "67e38076d424eacf33edacbb",
+            "blockName": "",
+            "gridItems": [
+              {
+                "id": "67e3807782a0dffec1932293",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67e3808582a0dffec1932294",
+                      "width": "default",
+                      "title": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "t",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "SECONDARY"
+                                  }
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "paragraph",
+                              "version": 1,
+                              "textFormat": 0,
+                              "textStyle": ""
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "cta",
+                      "alignContent": "left",
+                      "contentWidth": "w-full",
+                      "justifyContent": "justify-center",
+                      "verticalGutter": "my-5 md:my-20",
+                      "backgroundColor": "bg-none",
+                      "verticalPadding": "py-5 md:py-14",
+                      "imageGroup": [],
+                      "links": []
+                    }
+                  ]
+                }
+              }
+            ],
+            "gridLayout": {
+              "rows": 0,
+              "columns": 0,
+              "rowsGap": "gap-y-0",
+              "rounded": "rounded-2xl",
+              "position": "default",
+              "columnsGap": "gap-x-0",
+              "alignItems": "",
+              "background": "bg-none",
+              "grid-padding-y": "py-0",
+              "grid-padding-x": "px-0",
+              "justifyContent": "",
+              "verticalGutter": "my-5 md:my-20"
+            },
+            "blockType": "dynamicGridBlock"
+          }
+        },
+        {
+          "children": [],
+          "direction": "ltr",
+          "format": "start",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1,
+      "textFormat": 2
+    }
+  },
+  "duration": 5,
+  "publishedAt": {
+    "$date": "2025-02-28T04:36:41.747Z"
+  },
+  "relatedArticles": [
+    {
+      "relatedArticle": {
+        "$oid": "674c0781819e91172719ebae"
+      },
+      "id": "67e23c4f190e07d4a40ee5c0"
+    },
+    {
+      "relatedArticle": {
+        "$oid": "67bff28d6e6e9bb8618b86a2"
+      },
+      "id": "67e23c54190e07d4a40ee5c1"
+    }
+  ],
+  "slug": "from-ceramics-to-barber-cuts-community-based-programs-support-people-skeptical-of-mental-health",
+  "thumbNail": {
+    "$oid": "67befea56e6e9bb8618b6757"
+  },
+  "title": "From ceramics to barber cuts, community-based programs support people skeptical of mental health"
+},
+{
+  "_id": {
+    "$oid": "67d92164d0488faffca7d9cb"
+  },
+  "breadcrumbColor": "text-primary",
+  "meta": {},
+  "slugLock": true,
+  "breadcrumbs": [
+    {
+      "doc": {
+        "$oid": "67d92164d0488faffca7d9cb"
+      },
+      "url": "/report-two",
+      "label": "Report two",
+      "id": "67d93aa260c18e00270d8aa4"
+    }
+  ],
+  "_status": "published",
+  "createdAt": {
+    "$date": "2025-03-18T07:31:48.345Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-18T09:19:30.181Z"
+  },
+  "__v": 0,
+  "abstract": {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Hybrid AI-Human Therapy Platform Enhances Patient Engagement ",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
+    }
+  },
+  "author": "Sarah Baldry, VP Marketing, Wysa",
+  "bannerImage": {
+    "$oid": "67befea56e6e9bb8618b6757"
+  },
+  "category": {
+    "$oid": "66fe50316d7e2573e63e2481"
+  },
+  "content": {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Wysa, the global leader in AI-driven mental health support, is proud to announce the launch of ",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 2,
+              "mode": "normal",
+              "style": "",
+              "text": "Wysa Copilot",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": ", its cutting-edge Hybrid Digital and Human Therapy Platform. Selected by Talking Therapy services within the UK’s National Health Service (NHS), ",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 2,
+              "mode": "normal",
+              "style": "",
+              "text": "Wysa Copilot",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " is designed to enhance clinical care by seamlessly integrating AI and human support, offering secure, real-time and asynchronous messaging, personalized digital tools, and automated patient tracking.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 2,
+              "mode": "normal",
+              "style": "",
+              "text": "Wysa Copilot",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " aims to address key challenges faced by mental health services, including increasing patient engagement, efficient tracking of therapeutic p",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 2,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "rogress, and the prevention of relapse. This solution allows clinicians to extend their reach beyond in-session therapy by providing patients with safe, interactive, AI-guided tools and personalized support.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Nicole Main, Clinical Lead at Wysa said: “Wysa Copilot allows clinicians and patients to communicate with each other easily, quickly and effectively. The AI helps to contain and manage risk as well as providing patients with a listening ear 24/7. Prescribed exercises and audios are easy for patients to access and twice daily check-ins by Wysa helps them stay engaged and motivated in working towards recovery. We are excited to see how the platform impacts services.”",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
+    }
+  },
+  "duration": 4,
+  "publishedAt": {
+    "$date": "2025-03-18T07:37:04.604Z"
+  },
+  "relatedArticles": [],
+  "slug": "report-two",
+  "thumbNail": {
+    "$oid": "67bf003a6e6e9bb8618b69ee"
+  },
+  "title": "Report two"
+},
+{
+  "_id": {
+    "$oid": "67f29c880e19f7c570668a97"
+  },
+  "createdAt": {
+    "$date": "2025-04-06T15:23:52.222Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-06T15:23:52.222Z"
+  },
+  "breadcrumbColor": "text-white",
+  "meta": {},
+  "slugLock": true,
+  "breadcrumbs": [
+    {
+      "url": "/undefined",
+      "id": "67f29c888c4c620fd7900ed0"
+    }
+  ],
+  "_status": "draft",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f759cf744cb408e43da051"
+  },
+  "createdAt": {
+    "$date": "2025-04-10T05:40:31.275Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T05:40:31.275Z"
+  },
+  "breadcrumbColor": "text-white",
+  "meta": {},
+  "slugLock": true,
+  "breadcrumbs": [
+    {
+      "url": "/undefined",
+      "id": "67f759cfa5a6ba002780e136"
+    }
+  ],
+  "_status": "draft",
+  "__v": 0
+}]

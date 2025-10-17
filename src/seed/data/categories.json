@@ -1,0 +1,329 @@
+[{
+  "_id": {
+    "$oid": "66fe4d296d7e2573e63e22d5"
+  },
+  "title": "News",
+  "breadcrumbs": [
+    {
+      "doc": "67385bb88cd03c4f81582914",
+      "label": "Resources",
+      "id": "67385cbb17360ff299762381"
+    },
+    {
+      "doc": "66fe4d296d7e2573e63e22d5",
+      "label": "News",
+      "id": "67385cbb17360ff299762382"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-03T07:52:09.251Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-16T08:50:03.460Z"
+  },
+  "__v": 0,
+  "parent": {
+    "$oid": "67385bb88cd03c4f81582914"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fe4d546d7e2573e63e2336"
+  },
+  "title": "Report",
+  "breadcrumbs": [
+    {
+      "doc": "66fe4d546d7e2573e63e2336",
+      "label": "Report",
+      "id": "66fe4d55bee4bb0831db7cb5"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-03T07:52:52.980Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-03T07:52:53.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fe4d746d7e2573e63e2391"
+  },
+  "title": "Video",
+  "breadcrumbs": [
+    {
+      "doc": "66fe4d746d7e2573e63e2391",
+      "label": "Video",
+      "id": "66fe4d74bee4bb0831db7cb9"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-03T07:53:24.406Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-03T07:53:24.612Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fe501c6d7e2573e63e2453"
+  },
+  "title": "Research",
+  "parent": {
+    "$oid": "66fe4d296d7e2573e63e22d5"
+  },
+  "breadcrumbs": [
+    {
+      "doc": "67385bb88cd03c4f81582914",
+      "label": "Resources",
+      "id": "67385cbb17360ff299762386"
+    },
+    {
+      "doc": "66fe4d296d7e2573e63e22d5",
+      "label": "News",
+      "id": "67385cbb17360ff299762387"
+    },
+    {
+      "doc": "66fe501c6d7e2573e63e2453",
+      "label": "Research",
+      "id": "67385cbb17360ff299762388"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-03T08:04:44.094Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-16T08:50:04.027Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fe50316d7e2573e63e2481"
+  },
+  "title": "App",
+  "parent": {
+    "$oid": "66fe4d296d7e2573e63e22d5"
+  },
+  "breadcrumbs": [
+    {
+      "doc": "67385bb88cd03c4f81582914",
+      "label": "Resources",
+      "id": "67385cbb17360ff299762383"
+    },
+    {
+      "doc": "66fe4d296d7e2573e63e22d5",
+      "label": "News",
+      "id": "67385cbb17360ff299762384"
+    },
+    {
+      "doc": "66fe50316d7e2573e63e2481",
+      "label": "App",
+      "id": "67385cbb17360ff299762385"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-03T08:05:05.541Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-16T08:50:03.740Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ffa1f154f94b1a4fc2849c"
+  },
+  "title": "Therapists",
+  "parent": {
+    "$oid": "66ffa1b254f94b1a4fc283f0"
+  },
+  "breadcrumbs": [
+    {
+      "doc": "66ffa1b254f94b1a4fc283f0",
+      "label": "FAQ",
+      "id": "66ffa1f1d8096241e5fb5621"
+    },
+    {
+      "doc": "66ffa1f154f94b1a4fc2849c",
+      "label": "Therapists",
+      "id": "66ffa1f1d8096241e5fb5622"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-04T08:06:09.028Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T08:06:09.760Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fe4d656d7e2573e63e2368"
+  },
+  "title": "Whitepaper",
+  "breadcrumbs": [
+    {
+      "doc": "66fe4d656d7e2573e63e2368",
+      "label": "Whitepaper",
+      "id": "66fe4d66bee4bb0831db7cb7"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-03T07:53:09.954Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-03T07:53:10.156Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ffa1d654f94b1a4fc2842b"
+  },
+  "title": "Data & Privacy",
+  "breadcrumbs": [
+    {
+      "doc": "66ffa1b254f94b1a4fc283f0",
+      "label": "FAQ",
+      "id": "66ffa1dcd8096241e5fb561d"
+    },
+    {
+      "doc": "66ffa1d654f94b1a4fc2842b",
+      "label": "Data & Privacy",
+      "id": "66ffa1dcd8096241e5fb561e"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-04T08:05:42.055Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T08:05:48.709Z"
+  },
+  "__v": 0,
+  "parent": {
+    "$oid": "66ffa1b254f94b1a4fc283f0"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fe4d496d7e2573e63e2307"
+  },
+  "title": "Blog",
+  "breadcrumbs": [
+    {
+      "doc": "66fe4d496d7e2573e63e2307",
+      "label": "Blog",
+      "id": "66fe4d4abee4bb0831db7cb3"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-03T07:52:41.798Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-03T07:52:42.141Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fe4fd26d7e2573e63e23ed"
+  },
+  "title": "Press release",
+  "parent": {
+    "$oid": "66fe4d296d7e2573e63e22d5"
+  },
+  "breadcrumbs": [
+    {
+      "doc": "67385bb88cd03c4f81582914",
+      "label": "Resources",
+      "id": "67385cbc17360ff29976238c"
+    },
+    {
+      "doc": "66fe4d296d7e2573e63e22d5",
+      "label": "News",
+      "id": "67385cbc17360ff29976238d"
+    },
+    {
+      "doc": "66fe4fd26d7e2573e63e23ed",
+      "label": "Press release",
+      "id": "67385cbc17360ff29976238e"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-03T08:03:30.974Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-16T08:50:04.597Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fe4ffe6d7e2573e63e241f"
+  },
+  "title": "Company",
+  "parent": {
+    "$oid": "66fe4d296d7e2573e63e22d5"
+  },
+  "breadcrumbs": [
+    {
+      "doc": "67385bb88cd03c4f81582914",
+      "label": "Resources",
+      "id": "67385cbc17360ff299762389"
+    },
+    {
+      "doc": "66fe4d296d7e2573e63e22d5",
+      "label": "News",
+      "id": "67385cbc17360ff29976238a"
+    },
+    {
+      "doc": "66fe4ffe6d7e2573e63e241f",
+      "label": "Company",
+      "id": "67385cbc17360ff29976238b"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-03T08:04:14.570Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-16T08:50:04.297Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ffa1b254f94b1a4fc283f0"
+  },
+  "title": "FAQ",
+  "breadcrumbs": [
+    {
+      "doc": "66ffa1b254f94b1a4fc283f0",
+      "label": "FAQ",
+      "id": "66ffa1b3d8096241e5fb561a"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-04T08:05:06.380Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T08:05:07.118Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67385bb88cd03c4f81582914"
+  },
+  "title": "Resources",
+  "createdAt": {
+    "$date": "2024-11-16T08:45:44.273Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-16T08:45:44.273Z"
+  },
+  "__v": 0
+}]

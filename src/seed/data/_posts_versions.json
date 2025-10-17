@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "66f3dd847d1fc08ada89cbf5"
+  },
+  "parent": "66f3dd827d1fc08ada89cbbc",
+  "version": {
+    "meta": {},
+    "populatedAuthors": [],
+    "slug": "",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2024-09-25T09:53:06.758Z"
+    },
+    "createdAt": {
+      "$date": "2024-09-25T09:53:06.758Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2024-09-25T09:53:06.758Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-25T09:53:08.409Z"
+  },
+  "latest": true,
+  "autosave": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f3dd827d1fc08ada89cbbe"
+  },
+  "parent": "66f3dd827d1fc08ada89cbbc",
+  "version": {
+    "meta": {},
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2024-09-25T09:53:06.758Z"
+    },
+    "createdAt": {
+      "$date": "2024-09-25T09:53:06.758Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2024-09-25T09:53:06.758Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-25T09:53:06.758Z"
+  },
+  "autosave": false,
+  "__v": 0
+}]

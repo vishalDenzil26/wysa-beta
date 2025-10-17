@@ -1,0 +1,3790 @@
+[{
+  "_id": {
+    "$oid": "674c0544819e91172719e779"
+  },
+  "breadcrumbColor": "text-primary",
+  "relatedArticles": [
+    {
+      "relatedArticle": {
+        "$oid": "67bff28d6e6e9bb8618b86a2"
+      },
+      "id": "67f4eec2210612d80c4be1b1"
+    },
+    {
+      "relatedArticle": {
+        "$oid": "67bffcbe48c41c3755ac05c6"
+      },
+      "id": "67f4eed1210612d80c4be1b2"
+    }
+  ],
+  "meta": {},
+  "slugLock": true,
+  "breadcrumbs": [
+    {
+      "doc": {
+        "$oid": "674c0544819e91172719e779"
+      },
+      "url": "/article-two",
+      "label": "Article two",
+      "id": "67f4eed6002a9e00279eaa0d"
+    }
+  ],
+  "_status": "published",
+  "createdAt": {
+    "$date": "2024-12-01T06:42:12.270Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-08T09:39:34.321Z"
+  },
+  "__v": 0,
+  "abstract": {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "dssdad",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
+    }
+  },
+  "author": "Dev",
+  "bannerImage": {
+    "$oid": "6789da353a643084179eb6c0"
+  },
+  "category": {
+    "$oid": "66fe50316d7e2573e63e2481"
+  },
+  "content": {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "dasdads",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
+    }
+  },
+  "publishedAt": {
+    "$date": "2024-12-01T06:42:43.678Z"
+  },
+  "slug": "article-two",
+  "title": "Article two",
+  "thumbNail": {
+    "$oid": "67bf003a6e6e9bb8618b69ee"
+  },
+  "duration": 4
+},
+{
+  "_id": {
+    "$oid": "674c0781819e91172719ebae"
+  },
+  "breadcrumbColor": "text-primary",
+  "relatedArticles": [
+    {
+      "relatedArticle": {
+        "$oid": "67bff28d6e6e9bb8618b86a2"
+      },
+      "id": "67c009382afa1c995ec12a7a"
+    },
+    {
+      "relatedArticle": {
+        "$oid": "67c0071848c41c3755ac0ec0"
+      },
+      "id": "67f4fc87d60e7f28bdb5d60e"
+    },
+    {
+      "relatedArticle": {
+        "$oid": "67bff28d6e6e9bb8618b86a2"
+      },
+      "id": "67f4fc8cd60e7f28bdb5d60f"
+    }
+  ],
+  "meta": {},
+  "slugLock": true,
+  "breadcrumbs": [
+    {
+      "doc": {
+        "$oid": "674c0781819e91172719ebae"
+      },
+      "url": "/wise-up---final-issue-of-2024",
+      "label": "Wise Up - Final issue of 2024!",
+      "id": "67f4fc9230f43500275df6cd"
+    }
+  ],
+  "_status": "published",
+  "createdAt": {
+    "$date": "2024-12-01T06:51:45.866Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-08T10:38:10.130Z"
+  },
+  "__v": 0,
+  "abstract": {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Explore the latest in AI and mental health",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
+    }
+  },
+  "author": "Dev M",
+  "bannerImage": {
+    "$oid": "6789da353a643084179eb6c0"
+  },
+  "category": {
+    "$oid": "66fe4fd26d7e2573e63e23ed"
+  },
+  "content": {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "The final Wise Up of the year is here! Explore mental health rankings, chatbots tackling tough topics, and AI-powered pets. Discover Wysa’s impact in India, the NHS, and Singapore’s digital solutions. Plus, tips on overcoming barriers, holiday challenges, and team wellbeing, alongside an inspiring user story.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "format": "",
+          "type": "block",
+          "version": 2,
+          "fields": {
+            "id": "6768e6607235ffc8d607dc80",
+            "media": "67078a72db44085590f07d0e",
+            "rounded": "none",
+            "position": "default",
+            "blockName": "",
+            "blockType": "mediaBlock"
+          }
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
+    }
+  },
+  "publishedAt": {
+    "$date": "2024-12-02T11:30:01.000Z"
+  },
+  "slug": "wise-up---final-issue-of-2024",
+  "title": "Wise Up - Final issue of 2024!",
+  "thumbNail": {
+    "$oid": "6789da353a643084179eb6c0"
+  },
+  "duration": 4
+},
+{
+  "_id": {
+    "$oid": "67bff28d6e6e9bb8618b86a2"
+  },
+  "breadcrumbColor": "text-white",
+  "meta": {},
+  "slugLock": true,
+  "breadcrumbs": [
+    {
+      "doc": {
+        "$oid": "67bff28d6e6e9bb8618b86a2"
+      },
+      "url": "/introducing-wysa-copilot",
+      "label": "Introducing Wysa Copilot",
+      "id": "67e24a20d9eff1002788ace8"
+    }
+  ],
+  "_status": "published",
+  "createdAt": {
+    "$date": "2025-02-27T05:05:17.856Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-25T06:16:00.619Z"
+  },
+  "__v": 0,
+  "abstract": {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Hybrid AI-Human Therapy Platform Enhances Patient Engagement ",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
+    }
+  },
+  "author": "Sarah Baldry, VP Marketing, Wysa",
+  "bannerImage": {
+    "$oid": "67bff5cd48c41c3755abfd5d"
+  },
+  "category": {
+    "$oid": "66fe4ffe6d7e2573e63e241f"
+  },
+  "content": {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Wysa, the global leader in AI-driven mental health support, is proud to announce the launch of ",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 2,
+              "mode": "normal",
+              "style": "",
+              "text": "Wysa Copilot",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": ", its cutting-edge Hybrid Digital and Human Therapy Platform. Selected by Talking Therapy services within the UK’s National Health Service (NHS), ",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 2,
+              "mode": "normal",
+              "style": "",
+              "text": "Wysa Copilot",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " is designed to enhance clinical care by seamlessly integrating AI and human support, offering secure, real-time and asynchronous messaging, personalized digital tools, and automated patient tracking.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 2,
+              "mode": "normal",
+              "style": "",
+              "text": "Wysa Copilot",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " aims to address key challenges faced by mental health services, including increasing patient engagement, efficient tracking of therapeutic p",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 2,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "rogress, and the prevention of relapse. This solution allows clinicians to extend their reach beyond in-session therapy by providing patients with safe, interactive, AI-guided tools and personalized support.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Nicole Main, Clinical Lead at Wysa said: “Wysa Copilot allows clinicians and patients to communicate with each other easily, quickly and effectively. The AI helps to contain and manage risk as well as providing patients with a listening ear 24/7. Prescribed exercises and audios are easy for patients to access and twice daily check-ins by Wysa helps them stay engaged and motivated in working towards recovery. We are excited to see how the platform impacts services.”",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "format": "",
+          "type": "block",
+          "version": 2,
+          "fields": {
+            "id": "67c01fcf8197dec8a0a6e5e7",
+            "blockName": "",
+            "gridItems": [
+              {
+                "id": "67c01fd20983d85eaefb94ec",
+                "gridItemGroup": {
+                  "customClassNames": "",
+                  "gridItemBlock": [
+                    {
+                      "id": "67c01fd90983d85eaefb94ed",
+                      "width": "w-full",
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "dynamicContentBlock",
+                      "alignContent": "left",
+                      "contentWidth": "w-full",
+                      "verticalGutter": "my-0",
+                      "backgroundColor": "bg-none",
+                      "backgroundImage": "67befaf86e6e9bb8618b6348",
+                      "imageGroup": [],
+                      "verticalPadding": "py-5 md:py-14"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "67c0200e0983d85eaefb94ee",
+                "gridItemGroup": {
+                  "customClassNames": "",
+                  "gridItemBlock": [
+                    {
+                      "id": "67c020120983d85eaefb94ef",
+                      "width": "w-full",
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "dynamicContentBlock",
+                      "alignContent": "left",
+                      "contentWidth": "w-full",
+                      "verticalGutter": "my-5 md:my-20",
+                      "backgroundColor": "bg-none",
+                      "backgroundImage": "67bff5cd48c41c3755abfd5d",
+                      "imageGroup": [],
+                      "verticalPadding": "py-5 md:py-14"
+                    }
+                  ]
+                }
+              }
+            ],
+            "gridLayout": {
+              "rows": 1,
+              "columns": 2,
+              "rowsGap": "gap-y-2",
+              "rounded": "rounded-2xl",
+              "position": "default",
+              "columnsGap": "gap-x-2",
+              "alignItems": "",
+              "background": "bg-none",
+              "grid-padding-y": "py-0",
+              "grid-padding-x": "px-0",
+              "justifyContent": "",
+              "verticalGutter": "my-5 md:my-20"
+            },
+            "blockType": "dynamicGridBlock"
+          }
+        },
+        {
+          "children": [
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": "Key Features and Benefits for Clinicians:",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 1,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": "Engaging Digital Tools:",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " Therapists can search for and prescribe AI-guided cognitive-behavioral therapy (CBT) tools and psychoeducational materials, empowering patients to manage their mental health symptoms between sessions. Clinicians can monitor progress through the completion of these exercises, allowing for the creation of personalized treatment plans tailored to the patient’s needs.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 1,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": "Secure, Real-Time Messaging:",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " ",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 2,
+              "mode": "normal",
+              "style": "",
+              "text": "Wysa Copilot",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " enables therapists and patients to communicate securely through live text-based therapy or asynchronous messages. This ensures continuous care and attention to patient needs, while providing the flexibility to address issues as they arise between scheduled appointments.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 1,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": "AI-Driven Crisis Detection:",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "AI monitors patient interactions for signs of crisis and encourages users to seek immediate help through emergency lines if necessary. This additional layer of safety is integrated within both the Wysa app and Wysa Copilot, enhancing crisis prevention and ensuring timely intervention.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 1,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": "Automated Assessments and Progress Tracking:",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " Automated assessments and mood screenings reduce clinician workload, while keeping a detailed screening history. This ensures patients receive appropriate treatment at the right time, allowing therapists to focus on providing care rather than managing administrative tasks.",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 1,
+          "textStyle": ""
+        },
+        {
+          "format": "",
+          "type": "block",
+          "version": 2,
+          "fields": {
+            "id": "67c024b98197dec8a0a6e5e8",
+            "blockName": "",
+            "gridItems": [
+              {
+                "id": "67c025660983d85eaefb94f0",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c025770983d85eaefb94f1",
+                      "width": "w-full",
+                      "title": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "74%",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "SECONDARY"
+                                  }
+                                }
+                              ],
+                              "direction": null,
+                              "format": "",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h2"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Reported improvements in mood",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "PRIMARY"
+                                  }
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h4"
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "cta",
+                      "links": [
+                        {
+                          "id": "67c025b20983d85eaefb94f2",
+                          "link": {
+                            "url": "#",
+                            "type": "custom",
+                            "label": "Find out how",
+                            "newTab": true,
+                            "appearance": "secondary-ghost-with-arrow"
+                          }
+                        }
+                      ],
+                      "description": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+                                  "type": "text",
+                                  "version": 1
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "paragraph",
+                              "version": 1,
+                              "textFormat": 0,
+                              "textStyle": ""
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "alignContent": "center",
+                      "contentWidth": "w-full",
+                      "justifyContent": "justify-center",
+                      "verticalGutter": "my-0",
+                      "backgroundColor": "bg-secondary-foreground",
+                      "imageGroup": [],
+                      "verticalPadding": "py-5 md:py-14"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "67c025f10983d85eaefb94f3",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c025fe0983d85eaefb94f4",
+                      "width": "w-full",
+                      "title": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "1.8m",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "SECONDARY"
+                                  }
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h2"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "People involved in our research",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "PRIMARY"
+                                  }
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h4"
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "cta",
+                      "links": [
+                        {
+                          "id": "67c0263a0983d85eaefb94f5",
+                          "link": {
+                            "url": "#",
+                            "type": "custom",
+                            "label": "Find out how",
+                            "newTab": true,
+                            "appearance": "secondary-ghost-with-arrow"
+                          }
+                        }
+                      ],
+                      "description": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+                                  "type": "text",
+                                  "version": 1
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "paragraph",
+                              "version": 1,
+                              "textFormat": 0,
+                              "textStyle": ""
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "alignContent": "center",
+                      "contentWidth": "w-full",
+                      "justifyContent": "justify-center",
+                      "verticalGutter": "my-0",
+                      "backgroundColor": "bg-primary-foreground",
+                      "imageGroup": [],
+                      "verticalPadding": "py-5 md:py-14"
+                    }
+                  ]
+                }
+              }
+            ],
+            "gridLayout": {
+              "rows": 1,
+              "columns": 2,
+              "rowsGap": "gap-y-0",
+              "rounded": "rounded-2xl",
+              "position": "default",
+              "columnsGap": "gap-x-6",
+              "alignItems": "",
+              "background": "bg-none",
+              "grid-padding-y": "py-6",
+              "grid-padding-x": "px-0",
+              "justifyContent": "",
+              "verticalGutter": "my-5 md:my-20"
+            },
+            "blockType": "dynamicGridBlock"
+          }
+        },
+        {
+          "children": [
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": "Seamless Collaboration and Patient Transfers:",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " Patients and clinicians can set recovery goals, add tasks, and share session summaries, promoting a collaborative therapeutic relationship. Wysa Copilot allows seamless patient transfer of Wysa case history, ensuring continuity of care and preventing any delay in treatment.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 1,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": "Relapse Prevention and Post-Discharge Support:",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " Patients can continue to use Wysa’s self-help tools after discharge, helping them maintain their mental health and reduce the risk of relapse. This feature provides long-term benefits for patients even after formal therapy concludes.",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": "Anonymity and a Safe Space for Patients: ",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Wysa’s secure platform fosters openness, allowing patients to engage in difficult conversations with the AI chatbot. With patient consent, clinicians can review these interactions, enabling a deeper understanding of the patient.",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 1,
+          "textStyle": ""
+        },
+        {
+          "children": [],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "format": "",
+          "type": "block",
+          "version": 2,
+          "fields": {
+            "id": "67c026f38197dec8a0a6e5e9",
+            "media": "67c0279148c41c3755ac2516",
+            "rounded": "rounded-2xl",
+            "position": "default",
+            "blockName": "",
+            "blockType": "mediaBlock"
+          }
+        },
+        {
+          "children": [
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": "Increased Clinical Capacity:",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " With Wysa Copilot, each therapist can manage larger caseloads effectively, thanks to automated workflows, and the AI helping to ensure self-regulation for the patient in between sessions.",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "“We are thrilled to introduce ",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 2,
+              "mode": "normal",
+              "style": "",
+              "text": "Wysa Copilot",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " to clinical practices, bridging the gap between digital and human therapy,” said Smriti Joshi, Wysa’s Chief of Clinical Operations. “This platform is the result of five years of development and over 125,000 hours of human coaching, designed to empower therapists with a comprehensive, hybrid solution that enhances patient engagement and therapeutic outcomes.”",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 1,
+          "textStyle": ""
+        },
+        {
+          "format": "",
+          "type": "block",
+          "version": 2,
+          "fields": {
+            "id": "67c028958197dec8a0a6e5ea",
+            "blockName": "",
+            "gridItems": [
+              {
+                "id": "67c03ec2bfdf45e0b03e70f6",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c03ec7bfdf45e0b03e70f7",
+                      "media": "6789da3c3a643084179eb6e0",
+                      "rounded": "none",
+                      "position": "default",
+                      "blockType": "mediaBlock"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "67c028f80983d85eaefb94f6",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c029060983d85eaefb94f7",
+                      "width": "default",
+                      "title": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Title goes here",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "PRIMARY"
+                                  }
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h2"
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "dynamicContentBlock",
+                      "description": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+                                  "type": "text",
+                                  "version": 1
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "paragraph",
+                              "version": 1,
+                              "textFormat": 0,
+                              "textStyle": ""
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "alignContent": "left",
+                      "contentWidth": "w-full",
+                      "verticalGutter": "my-0",
+                      "backgroundColor": "bg-none",
+                      "verticalPadding": "py-5 md:py-14"
+                    }
+                  ]
+                }
+              }
+            ],
+            "gridLayout": {
+              "rows": 1,
+              "columns": 2,
+              "rowsGap": "gap-y-4",
+              "rounded": "rounded-2xl",
+              "position": "default",
+              "columnsGap": "gap-x-4",
+              "alignItems": "",
+              "background": "bg-primary-foreground",
+              "grid-padding-y": "py-0",
+              "grid-padding-x": "px-20",
+              "justifyContent": "",
+              "verticalGutter": "my-5 md:my-20",
+              "customClassNames": "grid-cols-1 lg:grid-cols-2 px-0 lg:px-20 lg:flex lg:items-center"
+            },
+            "blockType": "dynamicGridBlock"
+          }
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 2,
+              "mode": "normal",
+              "style": "",
+              "text": "Wysa Copilot",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " is now available to large practices, offering a scalable, innovative solution that transforms how mental health services are delivered.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 2,
+          "textStyle": ""
+        },
+        {
+          "children": [],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
+    }
+  },
+  "duration": 4,
+  "publishedAt": {
+    "$date": "2025-02-27T05:05:28.936Z"
+  },
+  "relatedArticles": [
+    {
+      "relatedArticle": {
+        "$oid": "67c0071848c41c3755ac0ec0"
+      },
+      "id": "67c029a60983d85eaefb94f8"
+    },
+    {
+      "relatedArticle": {
+        "$oid": "67bff28d6e6e9bb8618b86a2"
+      },
+      "id": "67c029d29bbf88eab6a7b021"
+    }
+  ],
+  "slug": "introducing-wysa-copilot",
+  "thumbNail": {
+    "$oid": "67bff5cd48c41c3755abfd5d"
+  },
+  "title": "Introducing Wysa Copilot"
+},
+{
+  "_id": {
+    "$oid": "67bffcbe48c41c3755ac05c6"
+  },
+  "breadcrumbColor": "text-primary",
+  "meta": {},
+  "slugLock": true,
+  "breadcrumbs": [
+    {
+      "doc": {
+        "$oid": "67bffcbe48c41c3755ac05c6"
+      },
+      "url": "/massmutual-becomes-first-us-insurer-to-offer-free-access-to-wysa-assure",
+      "label": "MassMutual becomes first U.S. insurer to offer free access to Wysa Assure",
+      "id": "67e249e0d9eff1002788ace4"
+    }
+  ],
+  "_status": "published",
+  "createdAt": {
+    "$date": "2025-02-27T05:48:46.259Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-25T06:14:56.250Z"
+  },
+  "__v": 0,
+  "abstract": {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "MassMutual becomes first U.S. insurer to offer policyowners free access to Wysa’s AI-guided mental health support",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": " ",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
+    }
+  },
+  "author": "Wysa",
+  "bannerImage": {
+    "$oid": "6789da3b3a643084179eb6dc"
+  },
+  "category": {
+    "$oid": "66fe4ffe6d7e2573e63e241f"
+  },
+  "content": {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Free access to Wysa Assure available to eligible MassMutual policyowners.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "heading",
+          "version": 1,
+          "tag": "h5"
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Company Also Expands Availability of Other Health and Wellness Program Tools and Offerings to Help More Policyowners Better Understand and Protect their Health.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "heading",
+          "version": 1,
+          "tag": "h5"
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": "SPRINGFIELD and BOSTON, Mass., October 17, 2024",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " – ",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "MassMutual",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "link",
+              "version": 3,
+              "fields": {
+                "doc": null,
+                "linkType": "custom",
+                "newTab": true,
+                "url": "https://www.massmutual.com/"
+              },
+              "id": "67bfff0f806ef62f8ce01d9e"
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " today announced it is the first insurer in the U.S. to offer eligible policyowners free access to Wysa Assure, an AI-powered conversational mental health app created by ",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Wysa",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "link",
+              "version": 3,
+              "fields": {
+                "doc": null,
+                "linkType": "custom",
+                "newTab": true,
+                "url": "https://www.wysa.com/"
+              },
+              "id": "67bfff0f806ef62f8ce01d9f"
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " and ",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Swiss Re",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "link",
+              "version": 3,
+              "fields": {
+                "doc": null,
+                "linkType": "custom",
+                "newTab": true,
+                "url": "https://www.swissre.com/reinsurance/life-and-health/solutions.html"
+              },
+              "id": "67bfff0f806ef62f8ce01da0"
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": ". This offering is the latest addition to MassMutual’s Health and Wellness Program, which provides policyowners with knowledge about their health, empowers them to seek out appropriate interventions and motivates healthy behaviors and lifestyles.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Data shows that ",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "more than one in five U.S. adults live with a mental illness",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "link",
+              "version": 3,
+              "fields": {
+                "doc": null,
+                "linkType": "custom",
+                "newTab": true,
+                "url": "https://www.nimh.nih.gov/health/statistics/mental-illness"
+              },
+              "id": "67bfff0f806ef62f8ce01da1"
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": ". Wysa Assure makes every day mental health support accessible through its clinically validated, AI-guided chat support, available 24/7. In addition to a free subscription, eligible policyowners get access to more than 150 evidence-based tools to address day-to-day challenges like anxiety, motivation, stress, sleep, and productivity. Another notable feature includes a well-being score to help users stay focused on their mental and emotional health.",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "format": "",
+          "type": "block",
+          "version": 2,
+          "fields": {
+            "id": "67c03322806ef62f8ce01da7",
+            "blockName": "",
+            "gridItems": [
+              {
+                "id": "67c03341a22158950ddfee89",
+                "gridItemGroup": {
+                  "customClassNames": "",
+                  "gridItemBlock": [
+                    {
+                      "id": "67c03367a22158950ddfee8a",
+                      "width": "w-full",
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "dynamicContentBlock",
+                      "alignContent": "left",
+                      "contentWidth": "w-full",
+                      "verticalGutter": "my-0",
+                      "backgroundColor": "bg-none",
+                      "verticalPadding": "py-5 md:py-14",
+                      "backgroundImage": "67befaf86e6e9bb8618b6348",
+                      "imageGroup": []
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "67c03385a22158950ddfee8b",
+                "gridItemGroup": {
+                  "customClassNames": "",
+                  "gridItemBlock": [
+                    {
+                      "id": "67c03399a22158950ddfee8c",
+                      "width": "w-full",
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "dynamicContentBlock",
+                      "alignContent": "left",
+                      "contentWidth": "w-full",
+                      "verticalGutter": "my-5 md:my-20",
+                      "backgroundColor": "bg-none",
+                      "verticalPadding": "py-5 md:py-14",
+                      "backgroundImage": "67bff5cd48c41c3755abfd5d",
+                      "imageGroup": []
+                    }
+                  ]
+                }
+              }
+            ],
+            "gridLayout": {
+              "rows": 1,
+              "columns": 2,
+              "rowsGap": "gap-y-2",
+              "rounded": "rounded-2xl",
+              "position": "default",
+              "columnsGap": "gap-x-2",
+              "alignItems": "",
+              "background": "bg-none",
+              "grid-padding-y": "py-6",
+              "grid-padding-x": "px-0",
+              "justifyContent": "",
+              "verticalGutter": "my-5 md:my-20"
+            },
+            "blockType": "dynamicGridBlock"
+          }
+        },
+        {
+          "children": [
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "“At MassMutual, we recognize the interconnectedness of mental and physical health and how both can influence our policyowners’ longevity,” said Sears Merritt, head of Enterprise Technology and Experience at MassMutual. “That’s why we are expanding our Health and Wellness Program to include mental health support, complementing our current offerings that focus on identifying potential health risks and rewarding healthy behaviors. By improving access to mental health support and continuing to invest in our policyowners’ well-being, we hope to help them better understand their overall health and take steps toward a happier, healthier, and longer life.”",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "MassMutual’s Health and Wellness Program has expanded significantly over the past year. Most recently, MassMutual broadened its partnership with GRAIL, building on its initial pilot where eligible policyowners were provided with access to GRAIL’s Galleri ® multi-cancer early detection test. The first phase of the GRAIL program generated tremendous early interest, with more than 2,200 policyowners ordering the test in 2023. Following the program’s recent expansion, more than 10,000 policyowners are expected to participate in the program by the end of this year. To date, many individuals have received information from the test that has allowed them to better understand and protect their health, and 96% of those participating have indicated a positive overall experience with their testing.",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "format": "",
+          "type": "block",
+          "version": 2,
+          "fields": {
+            "id": "67c033c1806ef62f8ce01da8",
+            "blockName": "",
+            "gridItems": [
+              {
+                "id": "67c033e4a22158950ddfee8d",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c033eea22158950ddfee8e",
+                      "width": "w-full",
+                      "title": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "74%",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "SECONDARY"
+                                  }
+                                }
+                              ],
+                              "direction": null,
+                              "format": "",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h2"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Reported improvements in mood",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "PRIMARY"
+                                  }
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h4"
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "cta",
+                      "links": [
+                        {
+                          "id": "67c0344ea22158950ddfee8f",
+                          "link": {
+                            "url": "#",
+                            "type": "custom",
+                            "label": "Find out how",
+                            "appearance": "secondary-ghost-with-arrow"
+                          }
+                        }
+                      ],
+                      "description": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                  "type": "text",
+                                  "version": 1
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "paragraph",
+                              "version": 1,
+                              "textFormat": 0,
+                              "textStyle": ""
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "alignContent": "center",
+                      "contentWidth": "w-full",
+                      "justifyContent": "justify-center",
+                      "verticalGutter": "my-0",
+                      "backgroundColor": "bg-secondary-foreground",
+                      "imageGroup": [],
+                      "verticalPadding": "py-5 md:py-14"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "67c03463a22158950ddfee90",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c03467a22158950ddfee91",
+                      "width": "w-full",
+                      "title": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "1.8m",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "SECONDARY"
+                                  }
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h2"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "People involved in our research",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "PRIMARY"
+                                  }
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h4"
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "cta",
+                      "links": [
+                        {
+                          "id": "67c0349da22158950ddfee92",
+                          "link": {
+                            "url": "#",
+                            "type": "custom",
+                            "label": "Find out how",
+                            "newTab": true,
+                            "appearance": "secondary-ghost-with-arrow"
+                          }
+                        }
+                      ],
+                      "description": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+                                  "type": "text",
+                                  "version": 1
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "paragraph",
+                              "version": 1,
+                              "textFormat": 0,
+                              "textStyle": ""
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "alignContent": "center",
+                      "contentWidth": "w-full",
+                      "justifyContent": "justify-center",
+                      "verticalGutter": "my-0",
+                      "backgroundColor": "bg-primary-foreground",
+                      "imageGroup": [],
+                      "verticalPadding": "py-5 md:py-14"
+                    }
+                  ]
+                }
+              }
+            ],
+            "gridLayout": {
+              "rows": 1,
+              "columns": 2,
+              "rowsGap": "gap-y-2",
+              "rounded": "rounded-2xl",
+              "position": "default",
+              "columnsGap": "gap-x-6",
+              "alignItems": "",
+              "background": "bg-none",
+              "grid-padding-y": "py-6",
+              "grid-padding-x": "px-0",
+              "justifyContent": "",
+              "verticalGutter": "my-5 md:my-20"
+            },
+            "blockType": "dynamicGridBlock"
+          }
+        },
+        {
+          "children": [
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Earlier this year, MassMutual also ",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "announced",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "link",
+              "version": 3,
+              "fields": {
+                "doc": null,
+                "linkType": "custom",
+                "newTab": true,
+                "url": "https://www.massmutual.com/about-us/news-and-press-releases/press-releases/2024/04/genomics-plc-and-massmutuals-program-enables-more-policyowners-to-understand-health"
+              },
+              "id": "67bfff69806ef62f8ce01da2"
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " its expanded partnership with Genomics plc and expanded the availability of the MassMutual Wellness-Enhanced Lifestyle &amp; Longevity (WELL) Rider offering to certain current term life policyowners in addition to new term life policyowners.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "The MassMutual Health and Wellness Program employs a test-and-learn approach, with the development of the platform guided by policyowner interest and other learnings. Participation in MassMutual Health and Wellness Program initiatives is voluntary for policyowners. Results do not impact policyowners’ current policies or premiums. MassMutual only receives high-level, anonymized data from the Genomics, GRAIL and Wysa offerings and leverages policyowner information strictly to facilitate providing benefits associated with using the LivingWELL by MassMutual app. Anonymized, aggregate data allows the company to better understand policyowners’ health and behaviors as well as their interest in these types of offerings. Eligibility is based on factors including age, geography, and type of individual MassMutual policy.",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": "About MassMutual",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "MassMutual is a leading mutual life insurance company that is run for the benefit of its members and participating policyowners. Founded in 1851, the company has been continually guided by one consistent purpose: we help people secure their future and protect the ones they love. With a focus on delivering long-term value, MassMutual offers a wide range of protection, accumulation, wealth management and retirement products and services. For more information, visit ",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "autolink",
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "www.massmutual.com",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "fields": {
+                "linkType": "custom",
+                "url": "https://www.massmutual.com"
+              },
+              "format": "",
+              "indent": 0,
+              "version": 2
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": ".",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "format": "",
+          "type": "block",
+          "version": 2,
+          "fields": {
+            "id": "67c034cd806ef62f8ce01da9",
+            "media": "67c0279148c41c3755ac2516",
+            "rounded": "rounded-2xl",
+            "position": "default",
+            "blockName": "",
+            "blockType": "mediaBlock"
+          }
+        },
+        {
+          "children": [
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": "About Wysa",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Wysa is a global leader in AI-driven mental health support, available to individuals, through employers, insurers and healthcare services. Wysa supports individuals with the help of an “emotionally intelligent” conversational agent which guides users through evidence-based cognitive-behavioral techniques (CBT) and brief interventions to help build mental resilience skills. For healthcare, Wysa offers an end-to-end solution for patients and providers which can triage and deliver the first level of care. Currently, Wysa has facilitated over 550 million conversations with 6 million users in 95 countries. Wysa’s 50+ clients and partners include Travelers Insurance, the National Health Services (UK), Ministry of Health in Singapore, Swiss Re, L’Oreal, Bosch, Colgate-Palmolive, Aetna International, and Cincinnati Children’s Hospital Medical Center.",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 1,
+          "textStyle": ""
+        },
+        {
+          "format": "",
+          "type": "block",
+          "version": 2,
+          "fields": {
+            "id": "67c034ff806ef62f8ce01daa",
+            "blockName": "",
+            "gridItems": [
+              {
+                "id": "67c03de75135760c61ccd8f4",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c03ded5135760c61ccd8f5",
+                      "media": "6789da3c3a643084179eb6e0",
+                      "rounded": "none",
+                      "position": "default",
+                      "blockType": "mediaBlock"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "67c03554a22158950ddfee93",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c03569a22158950ddfee94",
+                      "width": "default",
+                      "title": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Title goes here",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "PRIMARY"
+                                  }
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h2"
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "dynamicContentBlock",
+                      "description": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+                                  "type": "text",
+                                  "version": 1
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "paragraph",
+                              "version": 1,
+                              "textFormat": 0,
+                              "textStyle": ""
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "alignContent": "left",
+                      "contentWidth": "w-full",
+                      "verticalGutter": "my-0",
+                      "backgroundColor": "bg-none",
+                      "verticalPadding": "py-5 md:py-14"
+                    }
+                  ]
+                }
+              }
+            ],
+            "gridLayout": {
+              "rows": 1,
+              "columns": 2,
+              "rowsGap": "gap-y-4",
+              "rounded": "rounded-2xl",
+              "position": "default",
+              "columnsGap": "gap-x-4",
+              "alignItems": "",
+              "background": "bg-primary-foreground",
+              "grid-padding-y": "py-0",
+              "grid-padding-x": "px-0",
+              "justifyContent": "",
+              "verticalGutter": "my-5 md:my-20",
+              "customClassNames": "grid-cols-1 lg:grid-cols-2 px-0 lg:px-20 lg:flex lg:items-center"
+            },
+            "blockType": "dynamicGridBlock"
+          }
+        },
+        {
+          "children": [
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": "About Swiss Re",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "The Swiss Re Group is one of the world’s leading providers of reinsurance, insurance and other forms of insurance-based risk transfer, working to make the world more resilient. It anticipates and manages risk – from natural catastrophes to climate change, from ageing populations to cybercrime. The aim of the Swiss Re Group is to enable society to thrive and progress, creating new opportunities and solutions for its clients. Headquartered in Zurich, Switzerland, where it was founded in 1863, the Swiss Re Group operates through a network of around 80 offices globally.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 1,
+          "textStyle": ""
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
+    }
+  },
+  "duration": 5,
+  "publishedAt": {
+    "$date": "2025-02-27T05:53:40.267Z"
+  },
+  "relatedArticles": [
+    {
+      "relatedArticle": {
+        "$oid": "67bff28d6e6e9bb8618b86a2"
+      },
+      "id": "67c035a1a22158950ddfee95"
+    },
+    {
+      "relatedArticle": {
+        "$oid": "67c0071848c41c3755ac0ec0"
+      },
+      "id": "67c035a6a22158950ddfee96"
+    }
+  ],
+  "slug": "massmutual-becomes-first-us-insurer-to-offer-free-access-to-wysa-assure",
+  "thumbNail": {
+    "$oid": "67c0325548c41c3755ac33be"
+  },
+  "title": "MassMutual becomes first U.S. insurer to offer free access to Wysa Assure"
+},
+{
+  "_id": {
+    "$oid": "67c0071848c41c3755ac0ec0"
+  },
+  "breadcrumbColor": "text-primary",
+  "meta": {},
+  "slugLock": true,
+  "breadcrumbs": [
+    {
+      "doc": {
+        "$oid": "67c0071848c41c3755ac0ec0"
+      },
+      "url": "/one-mans-personal-experience-with-wysa",
+      "label": "One man’s personal experience with Wysa",
+      "id": "68142b9e5fd20378c8c63318"
+    }
+  ],
+  "_status": "published",
+  "createdAt": {
+    "$date": "2025-02-27T06:32:56.933Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-02T02:19:10.741Z"
+  },
+  "__v": 0,
+  "abstract": {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "One man’s personal experience with Wysa",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
+    }
+  },
+  "author": "Wysa",
+  "bannerImage": {
+    "$oid": "67c02b4f48c41c3755ac28c4"
+  },
+  "category": {
+    "$oid": "66fe4ffe6d7e2573e63e241f"
+  },
+  "content": {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Navigating Mental Health in a Modern World",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "heading",
+          "version": 1,
+          "tag": "h3"
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Wysa launched eight years ago with a simple mission: to provide accessible, compassionate mental health support to people when they need it most. What began as an idea has since grown into a globally recognized AI-driven mental health platform that helps millions worldwide. Last week, journalist ",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Nicholas Fearn",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "link",
+              "version": 3,
+              "fields": {
+                "linkType": "custom",
+                "newTab": true,
+                "url": "https://www.linkedin.com/in/nicholas-fearn-8a68b253/"
+              },
+              "id": "67c02b9fa485943a3cbbf7e0"
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " published an independent review of Wysa in a raw and deeply personal piece in The Metro titled, ",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 2,
+              "mode": "normal",
+              "style": "",
+              "text": "“I Spent a Month with an AI Therapist – This is What Happened.”",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " This review couldn’t have come at a more significant time.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "For a company dedicated to improving mental health support through AI, an independent review like this is more than a test of technology—it’s a test of trust.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "When Nicholas asked to independently review Wysa for The Metro, I felt a mix of excitement and anxiety. This review was different. Nicholas wasn’t reviewing Wysa as a theoretical product test—he was using it in real life, during deeply vulnerable moments. And we had no direct contact with him throughout the process. We couldn’t intervene if something went wrong or if he misunderstood a feature. He used the app exactly as any user would—unprompted, unfiltered, and unaided.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "In his article, Nicholas shared his struggles with mental health, including lifelong battles with anxiety, OCD, and even suicidal thoughts. It was eye-opening to see how Wysa interacted with him during some of these dark moments. At one point, he admits,",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 2,
+              "mode": "normal",
+              "style": "",
+              "text": "“Crying my eyes out, I told Wysa I didn’t want to be alive anymore. Its response was utterly heartwarming: ‘Nic, you are worth life. You are loved, cherished, and cared for, even though you may not feel that way right now.’”",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 2,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Reading this was deeply moving because it encapsulates everything we strive for—creating an AI that doesn’t just respond to users, but offers genuine empathy and comfort during moments when they might not have anyone else to turn to. In fact, over time, 438 people have reached out to us with similar stories of how Wysa has been there for them in their darkest hours—moments where they felt their lives were on the line. Wysa is not intended as a suicide prevention tool, yet time and time again, we hear that it has helped avert the worst in moments of crisis.",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "type": "block",
+          "version": 2,
+          "format": "",
+          "fields": {
+            "id": "67c02bf1a485943a3cbbf7e2",
+            "blockName": "",
+            "gridItems": [
+              {
+                "id": "67c02c0c0d109b0e280f27b7",
+                "gridItemGroup": {
+                  "customClassNames": "",
+                  "gridItemBlock": [
+                    {
+                      "id": "67c02c1c0d109b0e280f27b8",
+                      "width": "w-full",
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "dynamicContentBlock",
+                      "alignContent": "left",
+                      "contentWidth": "w-full",
+                      "verticalGutter": "my-0",
+                      "backgroundColor": "bg-none",
+                      "verticalPadding": "py-5 md:py-14",
+                      "backgroundImage": "67befaf86e6e9bb8618b6348",
+                      "imageGroup": []
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "67c02c3d0d109b0e280f27b9",
+                "gridItemGroup": {
+                  "customClassNames": "",
+                  "gridItemBlock": [
+                    {
+                      "id": "67c02c450d109b0e280f27ba",
+                      "width": "w-full",
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "dynamicContentBlock",
+                      "alignContent": "left",
+                      "contentWidth": "w-full",
+                      "verticalGutter": "my-5 md:my-20",
+                      "backgroundColor": "bg-none",
+                      "verticalPadding": "py-5 md:py-14",
+                      "backgroundImage": "67bff5cd48c41c3755abfd5d",
+                      "imageGroup": []
+                    }
+                  ]
+                }
+              }
+            ],
+            "gridLayout": {
+              "rows": 1,
+              "columns": 2,
+              "rowsGap": "gap-y-4",
+              "rounded": "rounded-2xl",
+              "position": "default",
+              "columnsGap": "gap-x-4",
+              "alignItems": "",
+              "background": "bg-none",
+              "grid-padding-y": "py-0",
+              "grid-padding-x": "px-0",
+              "justifyContent": "",
+              "verticalGutter": "my-5 md:my-20"
+            },
+            "blockType": "dynamicGridBlock"
+          }
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": "Real-Life Context: The Ultimate Test",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 1,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "One of the most nerve-wracking aspects of this review was that Nicholas wasn’t just “testing” Wysa in a controlled environment. He was using it during real, raw moments of emotional distress. As he wrote,",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 2,
+              "mode": "normal",
+              "style": "",
+              "text": "“After admitting I never seem to sleep at a regular time due to my anxiety, Wysa suggested a thought-reframing exercise… and while the connection cut out mid-conversation, it was clear to me that I was overthinking.”",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 2,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "This highlights both Wysa’s strengths and its areas for improvement. Nicholas wasn’t just engaging in a short test or quick demo—he was relying on Wysa during difficult, anxious nights, when sleep evaded him and his thoughts spiraled.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "As a team, we couldn’t predict how Wysa would perform in these unpredictable, highly personal circumstances. We couldn’t fix anything mid-review, clarify features, or provide support. The independence of this review was crucial because it pushed Wysa to operate exactly as it would for any user. It was the ",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": "real world",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " testing our product in ways no laboratory or clinical trial can replicate.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "In Nicholas’ own words,",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 2,
+              "mode": "normal",
+              "style": "",
+              "text": "“I never thought I’d be telling my insecurities to a robot, but Wysa was incredibly empathetic, asking thoughtful questions and offering exercises that helped me manage.”",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 2,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "His experience reinforces our core belief that AI, when carefully designed and tested, can play a critical role in mental health care.",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "type": "block",
+          "version": 2,
+          "format": "",
+          "fields": {
+            "id": "67c02c66a485943a3cbbf7e3",
+            "blockName": "",
+            "gridItems": [
+              {
+                "id": "67c02c8f0d109b0e280f27bb",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c02c9f0d109b0e280f27bc",
+                      "width": "w-full",
+                      "title": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "74%",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "SECONDARY"
+                                  }
+                                }
+                              ],
+                              "direction": null,
+                              "format": "",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h2"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Reported improvements in mood",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "PRIMARY"
+                                  }
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h4"
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "cta",
+                      "links": [
+                        {
+                          "id": "67c02cba0d109b0e280f27bd",
+                          "link": {
+                            "url": "#",
+                            "type": "custom",
+                            "label": "Find out how",
+                            "appearance": "secondary"
+                          }
+                        }
+                      ],
+                      "imageGroup": [],
+                      "description": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                  "type": "text",
+                                  "version": 1
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "paragraph",
+                              "version": 1,
+                              "textFormat": 0,
+                              "textStyle": ""
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "alignContent": "center",
+                      "contentWidth": "w-full",
+                      "justifyContent": "justify-center",
+                      "verticalGutter": "my-0",
+                      "backgroundColor": "bg-secondary-foreground",
+                      "verticalPadding": "py-5 md:py-14"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "67c02cce0d109b0e280f27be",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c02cd60d109b0e280f27bf",
+                      "width": "w-full",
+                      "title": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "1.8m",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "SECONDARY"
+                                  }
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h2"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "People involved in our research",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "PRIMARY"
+                                  }
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h4"
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "cta",
+                      "links": [
+                        {
+                          "id": "67c02cf20d109b0e280f27c0",
+                          "link": {
+                            "url": "#",
+                            "type": "custom",
+                            "label": "Find out how",
+                            "newTab": true,
+                            "appearance": "secondary-ghost-with-arrow"
+                          }
+                        }
+                      ],
+                      "imageGroup": [],
+                      "description": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+                                  "type": "text",
+                                  "version": 1
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "paragraph",
+                              "version": 1,
+                              "textFormat": 0,
+                              "textStyle": ""
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "alignContent": "center",
+                      "contentWidth": "w-full",
+                      "justifyContent": "justify-center",
+                      "verticalGutter": "my-0",
+                      "backgroundColor": "bg-primary-foreground",
+                      "verticalPadding": "py-5 md:py-14"
+                    }
+                  ]
+                }
+              }
+            ],
+            "gridLayout": {
+              "rows": 1,
+              "columns": 2,
+              "rowsGap": "gap-y-2",
+              "rounded": "rounded-2xl",
+              "position": "default",
+              "columnsGap": "gap-x-6",
+              "alignItems": "",
+              "background": "bg-none",
+              "grid-padding-y": "py-6",
+              "grid-padding-x": "px-0",
+              "justifyContent": "",
+              "verticalGutter": "my-5 md:my-20"
+            },
+            "blockType": "dynamicGridBlock"
+          }
+        },
+        {
+          "children": [
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": "The Importance of Independent Validation",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 1,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "The significance of Nicholas’ review is also a reminder of the importance of independent validation. As a company, we spend months refining features, testing safety protocols, and seeking feedback, but there’s something different about handing your product over to someone who has complete freedom to use it as they need.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "In his review, Nicholas talks about his battle with social anxiety, writing,",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 2,
+              "mode": "normal",
+              "style": "",
+              "text": "“While I’m okay seeing family and friends, the thought of encountering neighbours frightens me. The advice Wysa gave—just a smile or hello—was surprisingly simple and helpful. It showed me that I didn’t need to engage in long conversations, just small steps.”",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 2,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "This resonates because it shows that even the simplest AI suggestions can have a profound impact when given at the right moment.",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "type": "block",
+          "version": 2,
+          "format": "",
+          "fields": {
+            "id": "67c02d4ba485943a3cbbf7e4",
+            "media": "67c0279148c41c3755ac2516",
+            "rounded": "rounded-2xl",
+            "position": "default",
+            "blockName": "",
+            "customImageClassName": "rounded-8",
+            "blockType": "mediaBlock"
+          }
+        },
+        {
+          "children": [
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 1,
+              "mode": "normal",
+              "style": "",
+              "text": "A Step Forward",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 1,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "As I look back on Nicholas’ review and the countless hours our team has poured into Wysa, I feel both proud and motivated. The stakes are high when dealing with people’s mental health, and independent reviews like Nicholas’ are the real test of whether we’re meeting that challenge.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "When Nicholas concluded his review by saying, ",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 2,
+              "mode": "normal",
+              "style": "",
+              "text": "“The bot’s words were a comfort to me,”",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": " it was a reminder of why we do what we do. As we move forward, we aim to ensure that people from all corners of the world, no matter what language they speak, can find that same comfort, support, and safety. More to come soon, with open-source discoveries.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Image: Nicholas Fearn",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "type": "block",
+          "version": 2,
+          "format": "",
+          "fields": {
+            "id": "67c02d83a485943a3cbbf7e6",
+            "blockName": "",
+            "gridItems": [
+              {
+                "id": "67c03a65a22158950ddfee98",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c03a6fa22158950ddfee99",
+                      "media": "6789da3c3a643084179eb6e0",
+                      "rounded": "rounded-2xl",
+                      "position": "default",
+                      "blockType": "mediaBlock"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "67c02ddb0d109b0e280f27c1",
+                "gridItemGroup": {
+                  "gridItemBlock": [
+                    {
+                      "id": "67c02de50d109b0e280f27c2",
+                      "width": "default",
+                      "title": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Title goes here",
+                                  "type": "textColor",
+                                  "version": 1,
+                                  "fields": {
+                                    "color": "PRIMARY"
+                                  }
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "heading",
+                              "version": 1,
+                              "tag": "h2"
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "height": "h-full",
+                      "rounded": "rounded-2xl",
+                      "blockType": "dynamicContentBlock",
+                      "description": {
+                        "root": {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "detail": 0,
+                                  "format": 0,
+                                  "mode": "normal",
+                                  "style": "",
+                                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+                                  "type": "text",
+                                  "version": 1
+                                }
+                              ],
+                              "direction": "ltr",
+                              "format": "",
+                              "indent": 0,
+                              "type": "paragraph",
+                              "version": 1,
+                              "textFormat": 0,
+                              "textStyle": ""
+                            }
+                          ],
+                          "direction": "ltr",
+                          "format": "",
+                          "indent": 0,
+                          "type": "root",
+                          "version": 1
+                        }
+                      },
+                      "alignContent": "left",
+                      "contentWidth": "w-full",
+                      "verticalGutter": "my-0",
+                      "backgroundColor": "bg-none",
+                      "verticalPadding": "py-5 md:py-14",
+                      "imageGroup": []
+                    }
+                  ]
+                }
+              }
+            ],
+            "gridLayout": {
+              "rows": 1,
+              "columns": 2,
+              "rowsGap": "gap-y-4",
+              "rounded": "rounded-2xl",
+              "position": "default",
+              "columnsGap": "gap-x-4",
+              "alignItems": "",
+              "background": "bg-primary-foreground",
+              "grid-padding-y": "py-0",
+              "grid-padding-x": "px-0",
+              "justifyContent": "",
+              "verticalGutter": "my-5 md:my-20",
+              "customClassNames": "grid-cols-1 lg:grid-cols-2 px-0 lg:px-20 lg:flex lg:items-center"
+            },
+            "blockType": "dynamicGridBlock"
+          }
+        },
+        {
+          "children": [
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Please take a moment to reach Nicholas’ full review in ",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "The Metro",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "link",
+              "version": 3,
+              "fields": {
+                "linkType": "custom",
+                "newTab": false,
+                "url": "https://metro.co.uk/2024/09/29/spent-a-month-ai-therapist-this-happened-21667970/"
+              },
+              "id": "67c02b9fa485943a3cbbf7e1"
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": ".",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Sarah Baldry",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "heading",
+          "version": 1,
+          "tag": "h4"
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Chief Marketing Officer at Wysa",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "left",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "type": "linebreak",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "start",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
+    }
+  },
+  "duration": 5,
+  "publishedAt": {
+    "$date": "2025-02-27T06:33:50.626Z"
+  },
+  "relatedArticles": [
+    {
+      "relatedArticle": {
+        "$oid": "67bffcbe48c41c3755ac05c6"
+      },
+      "id": "67c035bb0d109b0e280f27c3"
+    },
+    {
+      "relatedArticle": {
+        "$oid": "67bff28d6e6e9bb8618b86a2"
+      },
+      "id": "67c035cbd8162789498e2347"
+    }
+  ],
+  "slug": "one-mans-personal-experience-with-wysa",
+  "thumbNail": {
+    "$oid": "67c02b4f48c41c3755ac28c4"
+  },
+  "title": "One man’s personal experience with Wysa",
+  "parent": {
+    "$oid": "673845cd2e0f7d3d1cd61867"
+  }
+}]

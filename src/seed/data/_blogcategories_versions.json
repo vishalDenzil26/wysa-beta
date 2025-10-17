@@ -1,0 +1,6508 @@
+[{
+  "_id": {
+    "$oid": "683e7b167615f4d3fd44df17"
+  },
+  "parent": {
+    "$oid": "683e7b177615f4d3fd44df14"
+  },
+  "version": {
+    "meta": {},
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-06-03T04:33:27.180Z"
+    },
+    "createdAt": {
+      "$date": "2025-06-03T04:33:27.180Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-06-03T04:33:26.286Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-03T04:33:26.286Z"
+  },
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683e7b187615f4d3fd44df3f"
+  },
+  "parent": {
+    "$oid": "683e7b177615f4d3fd44df14"
+  },
+  "version": {
+    "title": "COVID",
+    "meta": {},
+    "publishedAt": {
+      "$date": "2025-06-03T04:33:39.394Z"
+    },
+    "slug": "covid",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-06-03T04:33:39.395Z"
+    },
+    "createdAt": {
+      "$date": "2025-06-03T04:33:27.180Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-06-03T04:33:28.056Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-03T04:33:39.395Z"
+  },
+  "autosave": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683e7b2a7615f4d3fd44df7a"
+  },
+  "parent": {
+    "$oid": "683e7b177615f4d3fd44df14"
+  },
+  "version": {
+    "title": "COVID",
+    "meta": {},
+    "publishedAt": {
+      "$date": "2025-06-03T04:33:46.351Z"
+    },
+    "slug": "covid",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-06-03T04:33:46.354Z"
+    },
+    "createdAt": {
+      "$date": "2025-06-03T04:33:27.180Z"
+    },
+    "_status": "published"
+  },
+  "createdAt": {
+    "$date": "2025-06-03T04:33:46.393Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-03T04:33:46.393Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683e891c339471684d199551"
+  },
+  "parent": {
+    "$oid": "683e891c339471684d19954e"
+  },
+  "version": {
+    "meta": {},
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-06-03T05:33:16.319Z"
+    },
+    "createdAt": {
+      "$date": "2025-06-03T05:33:16.319Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-06-03T05:33:16.362Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-03T05:33:16.362Z"
+  },
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683e891d339471684d19957b"
+  },
+  "parent": {
+    "$oid": "683e891c339471684d19954e"
+  },
+  "version": {
+    "title": "STRESS",
+    "meta": {},
+    "publishedAt": {
+      "$date": "2025-06-03T05:33:37.698Z"
+    },
+    "slug": "stress",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-06-03T05:33:37.698Z"
+    },
+    "createdAt": {
+      "$date": "2025-06-03T05:33:16.319Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-06-03T05:33:17.961Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-03T05:33:37.698Z"
+  },
+  "autosave": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683e8934339471684d1995e1"
+  },
+  "parent": {
+    "$oid": "683e891c339471684d19954e"
+  },
+  "version": {
+    "title": "STRESS",
+    "meta": {},
+    "publishedAt": {
+      "$date": "2025-06-03T05:33:40.034Z"
+    },
+    "slug": "stress",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-06-03T05:33:40.036Z"
+    },
+    "createdAt": {
+      "$date": "2025-06-03T05:33:16.319Z"
+    },
+    "_status": "published"
+  },
+  "createdAt": {
+    "$date": "2025-06-03T05:33:40.077Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-03T05:33:40.077Z"
+  },
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6847d3b583b2e497a953e8fa"
+  },
+  "parent": {
+    "$oid": "683e891c339471684d19954e"
+  },
+  "version": {
+    "title": "STRESS",
+    "meta": {
+      "title": "stresss category",
+      "description": "stress category description"
+    },
+    "publishedAt": {
+      "$date": "2025-06-03T05:33:40.034Z"
+    },
+    "slug": "stress",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-06-10T06:42:13.132Z"
+    },
+    "createdAt": {
+      "$date": "2025-06-03T05:33:16.319Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-06-10T06:41:57.179Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T06:42:13.132Z"
+  },
+  "autosave": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6847d3c883b2e497a953e9e5"
+  },
+  "parent": {
+    "$oid": "683e891c339471684d19954e"
+  },
+  "version": {
+    "title": "STRESS",
+    "meta": {
+      "title": "stresss category",
+      "description": "stress category description"
+    },
+    "publishedAt": {
+      "$date": "2025-06-03T05:33:40.034Z"
+    },
+    "slug": "stress",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-06-10T06:42:16.234Z"
+    },
+    "createdAt": {
+      "$date": "2025-06-03T05:33:16.319Z"
+    },
+    "_status": "published"
+  },
+  "createdAt": {
+    "$date": "2025-06-10T06:42:16.275Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T06:42:16.275Z"
+  },
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6849197ad7223f3423003bba"
+  },
+  "parent": {
+    "$oid": "683e891c339471684d19954e"
+  },
+  "version": {
+    "title": "STRESS",
+    "meta": {
+      "title": "stresss category",
+      "description": "stress category description"
+    },
+    "publishedAt": {
+      "$date": "2025-06-03T05:33:40.034Z"
+    },
+    "slug": "stress",
+    "slugLock": true,
+    "customScripts": "<script>\n  (function () {\n    console.log(\"✅ Custom injection script loaded successfully!\");\n\n    const banner = document.createElement(\"div\");\n    banner.textContent = \"🔧 Custom Script Injected!\";\n    banner.style.position = \"fixed\";\n    banner.style.top = 0;\n    banner.style.left = 0;\n    banner.style.right = 0;\n    banner.style.backgroundColor = \"#4caf50\";\n    banner.style.color = \"#fff\";\n    banner.style.textAlign = \"center\";\n    banner.style.padding = \"10px\";\n    banner.style.fontSize = \"16px\";\n    banner.style.zIndex = 9999;\n    document.body.appendChild(banner);\n\n    setTimeout(() => {\n      banner.remove();\n    }, 3000);\n  })();\n</script>\n",
+    "updatedAt": {
+      "$date": "2025-06-11T05:51:54.975Z"
+    },
+    "createdAt": {
+      "$date": "2025-06-03T05:33:16.319Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-06-11T05:51:54.215Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T05:51:54.975Z"
+  },
+  "autosave": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6849197dd7223f3423003bcd"
+  },
+  "parent": {
+    "$oid": "683e891c339471684d19954e"
+  },
+  "version": {
+    "title": "STRESS",
+    "meta": {
+      "title": "stresss category",
+      "description": "stress category description"
+    },
+    "publishedAt": {
+      "$date": "2025-06-03T05:33:40.034Z"
+    },
+    "slug": "stress",
+    "slugLock": true,
+    "customScripts": "<script>\n  (function () {\n    console.log(\"✅ Custom injection script loaded successfully!\");\n\n    const banner = document.createElement(\"div\");\n    banner.textContent = \"🔧 Custom Script Injected!\";\n    banner.style.position = \"fixed\";\n    banner.style.top = 0;\n    banner.style.left = 0;\n    banner.style.right = 0;\n    banner.style.backgroundColor = \"#4caf50\";\n    banner.style.color = \"#fff\";\n    banner.style.textAlign = \"center\";\n    banner.style.padding = \"10px\";\n    banner.style.fontSize = \"16px\";\n    banner.style.zIndex = 9999;\n    document.body.appendChild(banner);\n\n    setTimeout(() => {\n      banner.remove();\n    }, 3000);\n  })();\n</script>\n",
+    "updatedAt": {
+      "$date": "2025-06-11T05:51:57.226Z"
+    },
+    "createdAt": {
+      "$date": "2025-06-03T05:33:16.319Z"
+    },
+    "_status": "published"
+  },
+  "createdAt": {
+    "$date": "2025-06-11T05:51:57.276Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T05:51:57.276Z"
+  },
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68491991d7223f3423003bfb"
+  },
+  "parent": {
+    "$oid": "683e891c339471684d19954e"
+  },
+  "version": {
+    "title": "STRESS",
+    "meta": {
+      "title": "stresss category",
+      "description": "stress category description"
+    },
+    "publishedAt": {
+      "$date": "2025-06-03T05:33:40.034Z"
+    },
+    "slug": "stress",
+    "slugLock": true,
+    "customScripts": "",
+    "updatedAt": {
+      "$date": "2025-06-11T05:52:20.318Z"
+    },
+    "createdAt": {
+      "$date": "2025-06-03T05:33:16.319Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-06-11T05:52:17.241Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T05:52:20.318Z"
+  },
+  "autosave": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68491996d7223f3423003c20"
+  },
+  "parent": {
+    "$oid": "683e891c339471684d19954e"
+  },
+  "version": {
+    "title": "STRESS",
+    "meta": {
+      "title": "stresss category",
+      "description": "stress category description"
+    },
+    "publishedAt": {
+      "$date": "2025-06-03T05:33:40.034Z"
+    },
+    "slug": "stress",
+    "slugLock": true,
+    "customScripts": "",
+    "updatedAt": {
+      "$date": "2025-06-11T05:52:22.884Z"
+    },
+    "createdAt": {
+      "$date": "2025-06-03T05:33:16.319Z"
+    },
+    "_status": "published"
+  },
+  "createdAt": {
+    "$date": "2025-06-11T05:52:22.921Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T05:52:22.921Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bb58d4211816b2c478f6c"
+  },
+  "parent": {
+    "$oid": "684bb58d4211816b2c478f69"
+  },
+  "version": {
+    "meta": {},
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-06-13T05:22:21.789Z"
+    },
+    "createdAt": {
+      "$date": "2025-06-13T05:22:21.789Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-06-13T05:22:21.811Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T05:22:21.811Z"
+  },
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bb58f4211816b2c478f86"
+  },
+  "parent": {
+    "$oid": "684bb58d4211816b2c478f69"
+  },
+  "version": {
+    "title": "Test",
+    "meta": {},
+    "publishedAt": {
+      "$date": "2025-06-13T05:22:24.353Z"
+    },
+    "slug": "test",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-06-13T05:23:25.081Z"
+    },
+    "createdAt": {
+      "$date": "2025-06-13T05:22:21.789Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-06-13T05:22:23.535Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T05:23:25.081Z"
+  },
+  "autosave": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bb5ef4211816b2c479052"
+  },
+  "parent": {
+    "$oid": "684bb58d4211816b2c478f69"
+  },
+  "version": {
+    "title": "Test",
+    "meta": {},
+    "publishedAt": {
+      "$date": "2025-06-13T05:22:24.353Z"
+    },
+    "slug": "test",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-06-13T05:23:59.463Z"
+    },
+    "createdAt": {
+      "$date": "2025-06-13T05:22:21.789Z"
+    },
+    "_status": "published"
+  },
+  "createdAt": {
+    "$date": "2025-06-13T05:23:59.480Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T05:23:59.480Z"
+  },
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c02cb4211816b2c479e1d"
+  },
+  "parent": {
+    "$oid": "684bb58d4211816b2c478f69"
+  },
+  "version": {
+    "title": "Test one ",
+    "meta": {},
+    "publishedAt": {
+      "$date": "2025-06-13T05:22:24.353Z"
+    },
+    "slug": "test-one-",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-06-13T10:52:04.557Z"
+    },
+    "createdAt": {
+      "$date": "2025-06-13T05:22:21.789Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-06-13T10:51:55.474Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T10:52:04.557Z"
+  },
+  "autosave": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c02d64211816b2c479e7b"
+  },
+  "parent": {
+    "$oid": "684bb58d4211816b2c478f69"
+  },
+  "version": {
+    "title": "Test one ",
+    "meta": {},
+    "publishedAt": {
+      "$date": "2025-06-13T05:22:24.353Z"
+    },
+    "slug": "test-one-",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-06-13T10:52:06.100Z"
+    },
+    "createdAt": {
+      "$date": "2025-06-13T05:22:21.789Z"
+    },
+    "_status": "published"
+  },
+  "createdAt": {
+    "$date": "2025-06-13T10:52:06.125Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T10:52:06.125Z"
+  },
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c03b54211816b2c479f52"
+  },
+  "parent": {
+    "$oid": "684bb58d4211816b2c478f69"
+  },
+  "version": {
+    "title": "Test one ",
+    "meta": {
+      "title": "test-one"
+    },
+    "publishedAt": {
+      "$date": "2025-06-13T05:22:24.353Z"
+    },
+    "slug": "test-one-",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-06-13T10:55:56.986Z"
+    },
+    "createdAt": {
+      "$date": "2025-06-13T05:22:21.789Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-06-13T10:55:49.542Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T10:55:56.986Z"
+  },
+  "autosave": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c03bf4211816b2c479fdc"
+  },
+  "parent": {
+    "$oid": "684bb58d4211816b2c478f69"
+  },
+  "version": {
+    "title": "Test one ",
+    "meta": {
+      "title": "test-one"
+    },
+    "publishedAt": {
+      "$date": "2025-06-13T05:22:24.353Z"
+    },
+    "slug": "test-one-",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-06-13T10:55:59.599Z"
+    },
+    "createdAt": {
+      "$date": "2025-06-13T05:22:21.789Z"
+    },
+    "_status": "published"
+  },
+  "createdAt": {
+    "$date": "2025-06-13T10:55:59.622Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T10:55:59.622Z"
+  },
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c03e24211816b2c479ff7"
+  },
+  "parent": {
+    "$oid": "684bb58d4211816b2c478f69"
+  },
+  "version": {
+    "title": "Test one",
+    "meta": {
+      "title": "test-one"
+    },
+    "publishedAt": {
+      "$date": "2025-06-13T05:22:24.353Z"
+    },
+    "slug": "test-one",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-06-13T10:56:55.580Z"
+    },
+    "createdAt": {
+      "$date": "2025-06-13T05:22:21.789Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-06-13T10:56:34.035Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T10:56:55.580Z"
+  },
+  "autosave": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c03f84211816b2c47a01c"
+  },
+  "parent": {
+    "$oid": "684bb58d4211816b2c478f69"
+  },
+  "version": {
+    "title": "Test one",
+    "meta": {
+      "title": "test-one"
+    },
+    "publishedAt": {
+      "$date": "2025-06-13T05:22:24.353Z"
+    },
+    "slug": "test-one",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-06-13T10:56:56.673Z"
+    },
+    "createdAt": {
+      "$date": "2025-06-13T05:22:21.789Z"
+    },
+    "_status": "published"
+  },
+  "createdAt": {
+    "$date": "2025-06-13T10:56:56.696Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T10:56:56.696Z"
+  },
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c040a4211816b2c47a027"
+  },
+  "parent": {
+    "$oid": "684bb58d4211816b2c478f69"
+  },
+  "version": {
+    "title": "Test",
+    "meta": {
+      "title": "test-one"
+    },
+    "publishedAt": {
+      "$date": "2025-06-13T05:22:24.353Z"
+    },
+    "slug": "test",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-06-13T10:57:15.472Z"
+    },
+    "createdAt": {
+      "$date": "2025-06-13T05:22:21.789Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-06-13T10:57:14.026Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T10:57:15.472Z"
+  },
+  "autosave": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c040d4211816b2c47a041"
+  },
+  "parent": {
+    "$oid": "684bb58d4211816b2c478f69"
+  },
+  "version": {
+    "title": "Test",
+    "meta": {
+      "title": "test-one"
+    },
+    "publishedAt": {
+      "$date": "2025-06-13T05:22:24.353Z"
+    },
+    "slug": "test",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-06-13T10:57:17.789Z"
+    },
+    "createdAt": {
+      "$date": "2025-06-13T05:22:21.789Z"
+    },
+    "_status": "published"
+  },
+  "createdAt": {
+    "$date": "2025-06-13T10:57:17.812Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T10:57:17.812Z"
+  },
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c041e4211816b2c47a05f"
+  },
+  "parent": {
+    "$oid": "684bb58d4211816b2c478f69"
+  },
+  "version": {
+    "title": "Test one",
+    "meta": {
+      "title": "test-one"
+    },
+    "publishedAt": {
+      "$date": "2025-06-13T05:22:24.353Z"
+    },
+    "slug": "test-one",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-06-13T10:57:34.886Z"
+    },
+    "createdAt": {
+      "$date": "2025-06-13T05:22:21.789Z"
+    },
+    "_status": "published"
+  },
+  "createdAt": {
+    "$date": "2025-06-13T10:57:34.908Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T10:57:34.908Z"
+  },
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c04824211816b2c47a116"
+  },
+  "parent": {
+    "$oid": "684bb58d4211816b2c478f69"
+  },
+  "version": {
+    "title": "Test",
+    "meta": {
+      "title": "test-one"
+    },
+    "publishedAt": {
+      "$date": "2025-06-13T05:22:24.353Z"
+    },
+    "slug": "test",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-06-13T10:59:16.394Z"
+    },
+    "createdAt": {
+      "$date": "2025-06-13T05:22:21.789Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-06-13T10:59:14.906Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T10:59:16.394Z"
+  },
+  "autosave": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c04854211816b2c47a138"
+  },
+  "parent": {
+    "$oid": "684bb58d4211816b2c478f69"
+  },
+  "version": {
+    "title": "Test",
+    "meta": {
+      "title": "test-one"
+    },
+    "publishedAt": {
+      "$date": "2025-06-13T05:22:24.353Z"
+    },
+    "slug": "test",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-06-13T10:59:17.311Z"
+    },
+    "createdAt": {
+      "$date": "2025-06-13T05:22:21.789Z"
+    },
+    "_status": "published"
+  },
+  "createdAt": {
+    "$date": "2025-06-13T10:59:17.332Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T10:59:17.332Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864bdc1a98ffc66abd32a20"
+  },
+  "parent": {
+    "$oid": "6864bdc1a98ffc66abd32a1e"
+  },
+  "version": {
+    "meta": {},
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T05:04:01.722Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T05:04:01.722Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T05:04:01.780Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T05:04:01.780Z"
+  },
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864bdc2a98ffc66abd32a30"
+  },
+  "parent": {
+    "$oid": "6864bdc1a98ffc66abd32a1e"
+  },
+  "version": {
+    "meta": {},
+    "publishedAt": {
+      "$date": "2025-07-02T05:04:02.401Z"
+    },
+    "slug": "",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T05:04:02.402Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T05:04:01.722Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T05:04:02.402Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T05:04:02.402Z"
+  },
+  "latest": true,
+  "autosave": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d4ff27be5e4fbfee7909"
+  },
+  "parent": {
+    "$oid": "6864d4fe27be5e4fbfee78f2"
+  },
+  "version": {
+    "title": "coping with depression",
+    "meta": {},
+    "slug": "coping-with-depression",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:10.819Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:10.819Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:11.012Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:11.012Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d4ff27be5e4fbfee7946"
+  },
+  "parent": {
+    "$oid": "6864d4ff27be5e4fbfee7940"
+  },
+  "version": {
+    "title": "depression",
+    "meta": {},
+    "slug": "depression",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:11.437Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:11.437Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:11.471Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:11.471Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50027be5e4fbfee7965"
+  },
+  "parent": {
+    "$oid": "6864d50027be5e4fbfee7962"
+  },
+  "version": {
+    "title": "Depression",
+    "meta": {},
+    "slug": "depression",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:12.269Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:12.269Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:12.304Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:12.304Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50027be5e4fbfee796d"
+  },
+  "parent": {
+    "$oid": "6864d50027be5e4fbfee796b"
+  },
+  "version": {
+    "title": "family",
+    "meta": {},
+    "slug": "family",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:12.496Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:12.496Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:12.530Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:12.530Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50027be5e4fbfee7975"
+  },
+  "parent": {
+    "$oid": "6864d50027be5e4fbfee7973"
+  },
+  "version": {
+    "title": "mental health disorders",
+    "meta": {},
+    "slug": "mental-health-disorders",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:12.722Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:12.722Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:12.757Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:12.757Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50027be5e4fbfee797d"
+  },
+  "parent": {
+    "$oid": "6864d50027be5e4fbfee797b"
+  },
+  "version": {
+    "title": "mental health tips",
+    "meta": {},
+    "slug": "mental-health-tips",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:12.945Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:12.945Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:12.979Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:12.979Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50127be5e4fbfee7985"
+  },
+  "parent": {
+    "$oid": "6864d50127be5e4fbfee7983"
+  },
+  "version": {
+    "title": "mental illness",
+    "meta": {},
+    "slug": "mental-illness",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:13.165Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:13.165Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:13.200Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:13.200Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50127be5e4fbfee798d"
+  },
+  "parent": {
+    "$oid": "6864d50127be5e4fbfee798b"
+  },
+  "version": {
+    "title": "overcoming depression",
+    "meta": {},
+    "slug": "overcoming-depression",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:13.392Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:13.392Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:13.428Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:13.428Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50127be5e4fbfee7995"
+  },
+  "parent": {
+    "$oid": "6864d50127be5e4fbfee7993"
+  },
+  "version": {
+    "title": "Parenting",
+    "meta": {},
+    "slug": "parenting",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:13.620Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:13.620Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:13.655Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:13.655Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50127be5e4fbfee799d"
+  },
+  "parent": {
+    "$oid": "6864d50127be5e4fbfee799b"
+  },
+  "version": {
+    "title": "teens",
+    "meta": {},
+    "slug": "teens",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:13.845Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:13.845Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:13.878Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:13.878Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50227be5e4fbfee79a5"
+  },
+  "parent": {
+    "$oid": "6864d50227be5e4fbfee79a3"
+  },
+  "version": {
+    "title": "Teens",
+    "meta": {},
+    "slug": "teens",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:14.069Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:14.069Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:14.250Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:14.250Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50227be5e4fbfee79ad"
+  },
+  "parent": {
+    "$oid": "6864d50227be5e4fbfee79ab"
+  },
+  "version": {
+    "title": "tips",
+    "meta": {},
+    "slug": "tips",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:14.438Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:14.438Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:14.473Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:14.473Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50227be5e4fbfee79b5"
+  },
+  "parent": {
+    "$oid": "6864d50227be5e4fbfee79b3"
+  },
+  "version": {
+    "title": "understanding depressions",
+    "meta": {},
+    "slug": "understanding-depressions",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:14.661Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:14.661Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:14.698Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:14.698Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50227be5e4fbfee79bd"
+  },
+  "parent": {
+    "$oid": "6864d50227be5e4fbfee79bb"
+  },
+  "version": {
+    "title": "understanding mental health",
+    "meta": {},
+    "slug": "understanding-mental-health",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:14.887Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:14.887Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:14.921Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:14.921Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50327be5e4fbfee79c5"
+  },
+  "parent": {
+    "$oid": "6864d50327be5e4fbfee79c3"
+  },
+  "version": {
+    "title": "digital mental health",
+    "meta": {},
+    "slug": "digital-mental-health",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:15.110Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:15.110Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:15.145Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:15.145Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50327be5e4fbfee79cd"
+  },
+  "parent": {
+    "$oid": "6864d50327be5e4fbfee79cb"
+  },
+  "version": {
+    "title": "Digital mental health solutions",
+    "meta": {},
+    "slug": "digital-mental-health-solutions",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:15.331Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:15.331Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:15.365Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:15.365Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50327be5e4fbfee79d5"
+  },
+  "parent": {
+    "$oid": "6864d50327be5e4fbfee79d3"
+  },
+  "version": {
+    "title": "mental health solutions",
+    "meta": {},
+    "slug": "mental-health-solutions",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:15.554Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:15.554Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:15.588Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:15.588Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50327be5e4fbfee79dd"
+  },
+  "parent": {
+    "$oid": "6864d50327be5e4fbfee79db"
+  },
+  "version": {
+    "title": "mental health treatment",
+    "meta": {},
+    "slug": "mental-health-treatment",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:15.775Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:15.775Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:15.810Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:15.810Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50427be5e4fbfee79e5"
+  },
+  "parent": {
+    "$oid": "6864d50327be5e4fbfee79e3"
+  },
+  "version": {
+    "title": "Therapy",
+    "meta": {},
+    "slug": "therapy",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:15.997Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:15.997Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:16.031Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:16.031Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50427be5e4fbfee79ed"
+  },
+  "parent": {
+    "$oid": "6864d50427be5e4fbfee79eb"
+  },
+  "version": {
+    "title": "therapy",
+    "meta": {},
+    "slug": "therapy",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:16.218Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:16.218Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:16.252Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:16.252Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50427be5e4fbfee79f7"
+  },
+  "parent": {
+    "$oid": "6864d50427be5e4fbfee79f5"
+  },
+  "version": {
+    "title": "self",
+    "meta": {},
+    "slug": "self",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:16.479Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:16.479Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:16.514Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:16.514Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50427be5e4fbfee79ff"
+  },
+  "parent": {
+    "$oid": "6864d50427be5e4fbfee79fd"
+  },
+  "version": {
+    "title": "Self",
+    "meta": {},
+    "slug": "self",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:16.702Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:16.702Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:16.736Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:16.736Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50427be5e4fbfee7a07"
+  },
+  "parent": {
+    "$oid": "6864d50427be5e4fbfee7a05"
+  },
+  "version": {
+    "title": "self improvement",
+    "meta": {},
+    "slug": "self-improvement",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:16.925Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:16.925Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:16.961Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:16.961Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50527be5e4fbfee7a17"
+  },
+  "parent": {
+    "$oid": "6864d50527be5e4fbfee7a15"
+  },
+  "version": {
+    "title": "self help tips",
+    "meta": {},
+    "slug": "self-help-tips",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:17.294Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:17.294Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:17.329Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:17.329Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50527be5e4fbfee7a21"
+  },
+  "parent": {
+    "$oid": "6864d50527be5e4fbfee7a1f"
+  },
+  "version": {
+    "title": "sleep",
+    "meta": {},
+    "slug": "sleep",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:17.553Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:17.553Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:17.589Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:17.589Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50527be5e4fbfee7a29"
+  },
+  "parent": {
+    "$oid": "6864d50527be5e4fbfee7a27"
+  },
+  "version": {
+    "title": "Sleep",
+    "meta": {},
+    "slug": "sleep",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:17.773Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:17.773Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:17.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:17.807Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50627be5e4fbfee7a31"
+  },
+  "parent": {
+    "$oid": "6864d50527be5e4fbfee7a2f"
+  },
+  "version": {
+    "title": "sleep health",
+    "meta": {},
+    "slug": "sleep-health",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:17.996Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:17.996Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:18.032Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:18.032Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50627be5e4fbfee7a43"
+  },
+  "parent": {
+    "$oid": "6864d50627be5e4fbfee7a41"
+  },
+  "version": {
+    "title": "parenting",
+    "meta": {},
+    "slug": "parenting",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:18.402Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:18.402Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:18.437Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:18.437Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50627be5e4fbfee7a51"
+  },
+  "parent": {
+    "$oid": "6864d50627be5e4fbfee7a4f"
+  },
+  "version": {
+    "title": "Atypical",
+    "meta": {},
+    "slug": "atypical",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:18.736Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:18.736Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:18.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:18.771Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50627be5e4fbfee7a59"
+  },
+  "parent": {
+    "$oid": "6864d50627be5e4fbfee7a57"
+  },
+  "version": {
+    "title": "body shaming",
+    "meta": {},
+    "slug": "body-shaming",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:18.960Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:18.960Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:18.998Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:18.998Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50727be5e4fbfee7a61"
+  },
+  "parent": {
+    "$oid": "6864d50727be5e4fbfee7a5f"
+  },
+  "version": {
+    "title": "mental health concerns",
+    "meta": {},
+    "slug": "mental-health-concerns",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:19.187Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:19.187Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:19.222Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:19.222Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50727be5e4fbfee7a6b"
+  },
+  "parent": {
+    "$oid": "6864d50727be5e4fbfee7a69"
+  },
+  "version": {
+    "title": "self help",
+    "meta": {},
+    "slug": "self-help",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:19.450Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:19.450Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:19.483Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:19.483Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50727be5e4fbfee7a79"
+  },
+  "parent": {
+    "$oid": "6864d50727be5e4fbfee7a77"
+  },
+  "version": {
+    "title": "Anxiety",
+    "meta": {},
+    "slug": "anxiety",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:19.775Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:19.775Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:19.803Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:19.803Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50827be5e4fbfee7a81"
+  },
+  "parent": {
+    "$oid": "6864d50727be5e4fbfee7a7f"
+  },
+  "version": {
+    "title": "holiday stress",
+    "meta": {},
+    "slug": "holiday-stress",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:19.969Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:19.969Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:20.002Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:20.002Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50827be5e4fbfee7a8b"
+  },
+  "parent": {
+    "$oid": "6864d50827be5e4fbfee7a89"
+  },
+  "version": {
+    "title": "Stress",
+    "meta": {},
+    "slug": "stress",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:20.227Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:20.227Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:20.262Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:20.262Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50827be5e4fbfee7a93"
+  },
+  "parent": {
+    "$oid": "6864d50827be5e4fbfee7a91"
+  },
+  "version": {
+    "title": "stress",
+    "meta": {},
+    "slug": "stress",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:20.450Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:20.450Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:20.485Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:20.485Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50827be5e4fbfee7a9b"
+  },
+  "parent": {
+    "$oid": "6864d50827be5e4fbfee7a99"
+  },
+  "version": {
+    "title": "stress management",
+    "meta": {},
+    "slug": "stress-management",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:20.669Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:20.669Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:20.702Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:20.702Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50927be5e4fbfee7aaf"
+  },
+  "parent": {
+    "$oid": "6864d50927be5e4fbfee7aad"
+  },
+  "version": {
+    "title": "undertanding mental health",
+    "meta": {},
+    "slug": "undertanding-mental-health",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:21.100Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:21.100Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:21.133Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:21.133Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50927be5e4fbfee7ab9"
+  },
+  "parent": {
+    "$oid": "6864d50927be5e4fbfee7ab7"
+  },
+  "version": {
+    "title": "employee mental health",
+    "meta": {},
+    "slug": "employee-mental-health",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:21.361Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:21.361Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:21.395Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:21.395Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50927be5e4fbfee7ac1"
+  },
+  "parent": {
+    "$oid": "6864d50927be5e4fbfee7abf"
+  },
+  "version": {
+    "title": "Employee Wellness",
+    "meta": {},
+    "slug": "employee-wellness",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:21.584Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:21.584Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:21.619Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:21.619Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50a27be5e4fbfee7ad3"
+  },
+  "parent": {
+    "$oid": "6864d50927be5e4fbfee7ad1"
+  },
+  "version": {
+    "title": "tips for employees",
+    "meta": {},
+    "slug": "tips-for-employees",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:21.986Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:21.986Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:22.021Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:22.021Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50a27be5e4fbfee7adb"
+  },
+  "parent": {
+    "$oid": "6864d50a27be5e4fbfee7ad9"
+  },
+  "version": {
+    "title": "Uncategorized",
+    "meta": {},
+    "slug": "uncategorized",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:22.211Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:22.211Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:22.245Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:22.245Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50a27be5e4fbfee7ae3"
+  },
+  "parent": {
+    "$oid": "6864d50a27be5e4fbfee7ae1"
+  },
+  "version": {
+    "title": "Company News",
+    "meta": {},
+    "slug": "company-news",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:22.432Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:22.432Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:22.466Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:22.466Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50a27be5e4fbfee7aeb"
+  },
+  "parent": {
+    "$oid": "6864d50a27be5e4fbfee7ae9"
+  },
+  "version": {
+    "title": "Inside Wysa",
+    "meta": {},
+    "slug": "inside-wysa",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:22.655Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:22.655Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:22.689Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:22.689Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50b27be5e4fbfee7b07"
+  },
+  "parent": {
+    "$oid": "6864d50b27be5e4fbfee7b05"
+  },
+  "version": {
+    "title": "self care",
+    "meta": {},
+    "slug": "self-care",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:23.234Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:23.234Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:23.267Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:23.267Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50b27be5e4fbfee7b19"
+  },
+  "parent": {
+    "$oid": "6864d50b27be5e4fbfee7b17"
+  },
+  "version": {
+    "title": "Most read",
+    "meta": {},
+    "slug": "most-read",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:23.635Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:23.635Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:23.669Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:23.669Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50b27be5e4fbfee7b27"
+  },
+  "parent": {
+    "$oid": "6864d50b27be5e4fbfee7b25"
+  },
+  "version": {
+    "title": "anxiety",
+    "meta": {},
+    "slug": "anxiety",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:23.964Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:23.964Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:23.997Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:23.997Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50c27be5e4fbfee7b2f"
+  },
+  "parent": {
+    "$oid": "6864d50c27be5e4fbfee7b2d"
+  },
+  "version": {
+    "title": "anxiety relief",
+    "meta": {},
+    "slug": "anxiety-relief",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:24.184Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:24.184Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:24.218Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:24.218Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50c27be5e4fbfee7b37"
+  },
+  "parent": {
+    "$oid": "6864d50c27be5e4fbfee7b35"
+  },
+  "version": {
+    "title": "coping with anxiety",
+    "meta": {},
+    "slug": "coping-with-anxiety",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:24.414Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:24.414Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:24.448Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:24.448Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50c27be5e4fbfee7b3f"
+  },
+  "parent": {
+    "$oid": "6864d50c27be5e4fbfee7b3d"
+  },
+  "version": {
+    "title": "dealing with anxiety",
+    "meta": {},
+    "slug": "dealing-with-anxiety",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:24.634Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:24.634Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:24.670Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:24.670Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50c27be5e4fbfee7b4b"
+  },
+  "parent": {
+    "$oid": "6864d50c27be5e4fbfee7b49"
+  },
+  "version": {
+    "title": "tips to deal with anxiety",
+    "meta": {},
+    "slug": "tips-to-deal-with-anxiety",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:24.931Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:24.931Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:24.965Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:24.965Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50d27be5e4fbfee7b6f"
+  },
+  "parent": {
+    "$oid": "6864d50d27be5e4fbfee7b6d"
+  },
+  "version": {
+    "title": "stress relief",
+    "meta": {},
+    "slug": "stress-relief",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:25.655Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:25.655Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:25.690Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:25.690Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50d27be5e4fbfee7b7b"
+  },
+  "parent": {
+    "$oid": "6864d50d27be5e4fbfee7b79"
+  },
+  "version": {
+    "title": "relationship concerns",
+    "meta": {},
+    "slug": "relationship-concerns",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:25.944Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:25.944Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:25.978Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:25.978Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50e27be5e4fbfee7b83"
+  },
+  "parent": {
+    "$oid": "6864d50e27be5e4fbfee7b81"
+  },
+  "version": {
+    "title": "Relationships",
+    "meta": {},
+    "slug": "relationships",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:26.165Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:26.165Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:26.200Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:26.200Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50e27be5e4fbfee7b8b"
+  },
+  "parent": {
+    "$oid": "6864d50e27be5e4fbfee7b89"
+  },
+  "version": {
+    "title": "relationships",
+    "meta": {},
+    "slug": "relationships",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:26.389Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:26.389Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:26.423Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:26.423Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50f27be5e4fbfee7baf"
+  },
+  "parent": {
+    "$oid": "6864d50f27be5e4fbfee7bad"
+  },
+  "version": {
+    "title": "overcoming anxiety",
+    "meta": {},
+    "slug": "overcoming-anxiety",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:27.107Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:27.107Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:27.141Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:27.141Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50f27be5e4fbfee7bbb"
+  },
+  "parent": {
+    "$oid": "6864d50f27be5e4fbfee7bb9"
+  },
+  "version": {
+    "title": "tips for anxiety relief",
+    "meta": {},
+    "slug": "tips-for-anxiety-relief",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:27.409Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:27.409Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:27.444Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:27.444Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50f27be5e4fbfee7bc3"
+  },
+  "parent": {
+    "$oid": "6864d50f27be5e4fbfee7bc1"
+  },
+  "version": {
+    "title": "digital mental health apps",
+    "meta": {},
+    "slug": "digital-mental-health-apps",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:27.633Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:27.633Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:27.666Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:27.666Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d50f27be5e4fbfee7bcb"
+  },
+  "parent": {
+    "$oid": "6864d50f27be5e4fbfee7bc9"
+  },
+  "version": {
+    "title": "employee mental health statistics",
+    "meta": {},
+    "slug": "employee-mental-health-statistics",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:27.855Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:27.855Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:27.889Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:27.889Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51027be5e4fbfee7bd3"
+  },
+  "parent": {
+    "$oid": "6864d51027be5e4fbfee7bd1"
+  },
+  "version": {
+    "title": "employee wellness solutions",
+    "meta": {},
+    "slug": "employee-wellness-solutions",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:28.081Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:28.081Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:28.115Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:28.115Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51027be5e4fbfee7be7"
+  },
+  "parent": {
+    "$oid": "6864d51027be5e4fbfee7be5"
+  },
+  "version": {
+    "title": "wysa solutions",
+    "meta": {},
+    "slug": "wysa-solutions",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:28.512Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:28.512Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:28.546Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:28.546Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51027be5e4fbfee7bf5"
+  },
+  "parent": {
+    "$oid": "6864d51027be5e4fbfee7bf3"
+  },
+  "version": {
+    "title": "SAD",
+    "meta": {},
+    "slug": "sad",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:28.840Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:28.840Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:28.875Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:28.875Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51127be5e4fbfee7c13"
+  },
+  "parent": {
+    "$oid": "6864d51127be5e4fbfee7c11"
+  },
+  "version": {
+    "title": "types of anxiety",
+    "meta": {},
+    "slug": "types-of-anxiety",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:29.452Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:29.452Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:29.486Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:29.486Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51127be5e4fbfee7c1d"
+  },
+  "parent": {
+    "$oid": "6864d51127be5e4fbfee7c1b"
+  },
+  "version": {
+    "title": "everyday mental health",
+    "meta": {},
+    "slug": "everyday-mental-health",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:29.716Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:29.716Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:29.750Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:29.750Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51127be5e4fbfee7c25"
+  },
+  "parent": {
+    "$oid": "6864d51127be5e4fbfee7c23"
+  },
+  "version": {
+    "title": "mental health stigma",
+    "meta": {},
+    "slug": "mental-health-stigma",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:29.942Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:29.942Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:29.977Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:29.977Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51227be5e4fbfee7c2d"
+  },
+  "parent": {
+    "$oid": "6864d51227be5e4fbfee7c2b"
+  },
+  "version": {
+    "title": "stigma",
+    "meta": {},
+    "slug": "stigma",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:30.167Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:30.167Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:30.202Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:30.202Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51327be5e4fbfee7c65"
+  },
+  "parent": {
+    "$oid": "6864d51327be5e4fbfee7c63"
+  },
+  "version": {
+    "title": "media",
+    "meta": {},
+    "slug": "media",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:31.250Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:31.250Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:31.285Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:31.285Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51327be5e4fbfee7c6f"
+  },
+  "parent": {
+    "$oid": "6864d51327be5e4fbfee7c6d"
+  },
+  "version": {
+    "title": "news",
+    "meta": {},
+    "slug": "news",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:31.509Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:31.509Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:31.544Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:31.544Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51327be5e4fbfee7c7b"
+  },
+  "parent": {
+    "$oid": "6864d51327be5e4fbfee7c79"
+  },
+  "version": {
+    "title": "user stories",
+    "meta": {},
+    "slug": "user-stories",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:31.804Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:31.804Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:31.838Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:31.838Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51427be5e4fbfee7c83"
+  },
+  "parent": {
+    "$oid": "6864d51427be5e4fbfee7c81"
+  },
+  "version": {
+    "title": "User Story",
+    "meta": {},
+    "slug": "user-story",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:32.025Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:32.025Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:32.059Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:32.059Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51427be5e4fbfee7c8b"
+  },
+  "parent": {
+    "$oid": "6864d51427be5e4fbfee7c89"
+  },
+  "version": {
+    "title": "user story",
+    "meta": {},
+    "slug": "user-story",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:32.246Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:32.246Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:32.280Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:32.280Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51427be5e4fbfee7c95"
+  },
+  "parent": {
+    "$oid": "6864d51427be5e4fbfee7c93"
+  },
+  "version": {
+    "title": "wysa updates",
+    "meta": {},
+    "slug": "wysa-updates",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:32.505Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:32.505Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:32.546Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:32.546Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51627be5e4fbfee7d05"
+  },
+  "parent": {
+    "$oid": "6864d51627be5e4fbfee7d03"
+  },
+  "version": {
+    "title": "employee wellbeing strategies",
+    "meta": {},
+    "slug": "employee-wellbeing-strategies",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:34.825Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:34.825Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:34.859Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:34.859Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51727be5e4fbfee7d0d"
+  },
+  "parent": {
+    "$oid": "6864d51727be5e4fbfee7d0b"
+  },
+  "version": {
+    "title": "employee wellness",
+    "meta": {},
+    "slug": "employee-wellness",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:35.048Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:35.048Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:35.082Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:35.082Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51727be5e4fbfee7d1b"
+  },
+  "parent": {
+    "$oid": "6864d51727be5e4fbfee7d19"
+  },
+  "version": {
+    "title": "workplace challenges",
+    "meta": {},
+    "slug": "workplace-challenges",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:35.376Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:35.376Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:35.409Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:35.409Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51727be5e4fbfee7d23"
+  },
+  "parent": {
+    "$oid": "6864d51727be5e4fbfee7d21"
+  },
+  "version": {
+    "title": "workplace stress",
+    "meta": {},
+    "slug": "workplace-stress",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:35.601Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:35.601Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:35.636Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:35.636Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51827be5e4fbfee7d3f"
+  },
+  "parent": {
+    "$oid": "6864d51827be5e4fbfee7d3d"
+  },
+  "version": {
+    "title": "trauma",
+    "meta": {},
+    "slug": "trauma",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:36.173Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:36.173Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:36.207Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:36.207Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51827be5e4fbfee7d4b"
+  },
+  "parent": {
+    "$oid": "6864d51827be5e4fbfee7d49"
+  },
+  "version": {
+    "title": "cbt",
+    "meta": {},
+    "slug": "cbt",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:36.462Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:36.462Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:36.496Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:36.496Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51827be5e4fbfee7d59"
+  },
+  "parent": {
+    "$oid": "6864d51827be5e4fbfee7d57"
+  },
+  "version": {
+    "title": "substance use",
+    "meta": {},
+    "slug": "substance-use",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:36.789Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:36.789Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:36.823Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:36.823Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51927be5e4fbfee7d8d"
+  },
+  "parent": {
+    "$oid": "6864d51927be5e4fbfee7d8b"
+  },
+  "version": {
+    "title": "grief",
+    "meta": {},
+    "slug": "grief",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:37.785Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:37.785Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:37.820Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:37.820Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51a27be5e4fbfee7d95"
+  },
+  "parent": {
+    "$oid": "6864d51a27be5e4fbfee7d93"
+  },
+  "version": {
+    "title": "Grief",
+    "meta": {},
+    "slug": "grief",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:38.014Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:38.014Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:38.049Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:38.049Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51b27be5e4fbfee7dcb"
+  },
+  "parent": {
+    "$oid": "6864d51b27be5e4fbfee7dc9"
+  },
+  "version": {
+    "title": "unhealthy relationships",
+    "meta": {},
+    "slug": "unhealthy-relationships",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:39.049Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:39.049Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:39.084Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:39.084Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51c27be5e4fbfee7dfb"
+  },
+  "parent": {
+    "$oid": "6864d51c27be5e4fbfee7df9"
+  },
+  "version": {
+    "title": "employer guides",
+    "meta": {},
+    "slug": "employer-guides",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:40.215Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:40.215Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:40.251Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:40.251Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51c27be5e4fbfee7e03"
+  },
+  "parent": {
+    "$oid": "6864d51c27be5e4fbfee7e01"
+  },
+  "version": {
+    "title": "supporting employee mental health",
+    "meta": {},
+    "slug": "supporting-employee-mental-health",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:40.442Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:40.442Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:40.476Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:40.476Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51c27be5e4fbfee7e0b"
+  },
+  "parent": {
+    "$oid": "6864d51c27be5e4fbfee7e09"
+  },
+  "version": {
+    "title": "tips for employers",
+    "meta": {},
+    "slug": "tips-for-employers",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:40.670Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:40.670Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:40.705Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:40.705Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51c27be5e4fbfee7e13"
+  },
+  "parent": {
+    "$oid": "6864d51c27be5e4fbfee7e11"
+  },
+  "version": {
+    "title": "understanding employee mental health",
+    "meta": {},
+    "slug": "understanding-employee-mental-health",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:40.895Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:40.895Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:40.929Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:40.929Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51d27be5e4fbfee7e1b"
+  },
+  "parent": {
+    "$oid": "6864d51d27be5e4fbfee7e19"
+  },
+  "version": {
+    "title": "workplace wellbeing",
+    "meta": {},
+    "slug": "workplace-wellbeing",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:41.117Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:41.117Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:41.151Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:41.151Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51d27be5e4fbfee7e23"
+  },
+  "parent": {
+    "$oid": "6864d51d27be5e4fbfee7e21"
+  },
+  "version": {
+    "title": "workplace wellbeing strategies",
+    "meta": {},
+    "slug": "workplace-wellbeing-strategies",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:41.341Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:41.341Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:41.375Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:41.375Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51e27be5e4fbfee7e45"
+  },
+  "parent": {
+    "$oid": "6864d51e27be5e4fbfee7e43"
+  },
+  "version": {
+    "title": "remote working",
+    "meta": {},
+    "slug": "remote-working",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:42.023Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:42.023Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:42.056Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:42.056Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51f27be5e4fbfee7e79"
+  },
+  "parent": {
+    "$oid": "6864d51f27be5e4fbfee7e77"
+  },
+  "version": {
+    "title": "B2B Partnerships",
+    "meta": {},
+    "slug": "b2b-partnerships",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:43.021Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:43.021Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:43.054Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:43.054Z"
+  },
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d51f27be5e4fbfee7e85"
+  },
+  "parent": {
+    "$oid": "6864d51f27be5e4fbfee7e83"
+  },
+  "version": {
+    "title": "wysa partnerships",
+    "meta": {},
+    "slug": "wysa-partnerships",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:43.309Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:43.309Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:43.343Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:43.343Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d52027be5e4fbfee7ec7"
+  },
+  "parent": {
+    "$oid": "6864d52027be5e4fbfee7ec5"
+  },
+  "version": {
+    "title": "mental health trends",
+    "meta": {},
+    "slug": "mental-health-trends",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:44.556Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:44.556Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:44.590Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:44.590Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d52127be5e4fbfee7eff"
+  },
+  "parent": {
+    "$oid": "6864d52127be5e4fbfee7efd"
+  },
+  "version": {
+    "title": "employee wellness strategies",
+    "meta": {},
+    "slug": "employee-wellness-strategies",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:45.620Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:45.620Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:45.654Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:45.654Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d52127be5e4fbfee7f0b"
+  },
+  "parent": {
+    "$oid": "6864d52127be5e4fbfee7f09"
+  },
+  "version": {
+    "title": "burnout",
+    "meta": {},
+    "slug": "burnout",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:45.911Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:45.911Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:45.947Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:45.947Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d52327be5e4fbfee7f49"
+  },
+  "parent": {
+    "$oid": "6864d52327be5e4fbfee7f47"
+  },
+  "version": {
+    "title": "research",
+    "meta": {},
+    "slug": "research",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:47.093Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:47.093Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:47.126Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:47.126Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d52327be5e4fbfee7f51"
+  },
+  "parent": {
+    "$oid": "6864d52327be5e4fbfee7f4f"
+  },
+  "version": {
+    "title": "Research",
+    "meta": {},
+    "slug": "research",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:47.323Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:47.323Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:47.356Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:47.356Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d52327be5e4fbfee7f6f"
+  },
+  "parent": {
+    "$oid": "6864d52327be5e4fbfee7f6d"
+  },
+  "version": {
+    "title": "workplace wellness",
+    "meta": {},
+    "slug": "workplace-wellness",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:47.929Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:47.929Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:47.965Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:47.965Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d52527be5e4fbfee7fad"
+  },
+  "parent": {
+    "$oid": "6864d52527be5e4fbfee7fab"
+  },
+  "version": {
+    "title": "challenges in the workplace",
+    "meta": {},
+    "slug": "challenges-in-the-workplace",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:49.107Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:49.107Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:49.141Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:49.141Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d52527be5e4fbfee7fd5"
+  },
+  "parent": {
+    "$oid": "6864d52527be5e4fbfee7fd3"
+  },
+  "version": {
+    "title": "suicide",
+    "meta": {},
+    "slug": "suicide",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:49.896Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:49.896Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:49.930Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:49.930Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d52627be5e4fbfee7fdd"
+  },
+  "parent": {
+    "$oid": "6864d52627be5e4fbfee7fdb"
+  },
+  "version": {
+    "title": "suicide prevention",
+    "meta": {},
+    "slug": "suicide-prevention",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:50.117Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:50.117Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:50.151Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:50.151Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d52627be5e4fbfee7ff3"
+  },
+  "parent": {
+    "$oid": "6864d52627be5e4fbfee7ff1"
+  },
+  "version": {
+    "title": "case studies",
+    "meta": {},
+    "slug": "case-studies",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:50.585Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:50.585Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:50.619Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:50.619Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d52627be5e4fbfee7fff"
+  },
+  "parent": {
+    "$oid": "6864d52627be5e4fbfee7ffd"
+  },
+  "version": {
+    "title": "Events",
+    "meta": {},
+    "slug": "events",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:50.876Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:50.876Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:50.910Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:50.910Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d52727be5e4fbfee8007"
+  },
+  "parent": {
+    "$oid": "6864d52727be5e4fbfee8005"
+  },
+  "version": {
+    "title": "UK",
+    "meta": {},
+    "slug": "uk",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:51.099Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:51.099Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:51.133Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:51.133Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d52727be5e4fbfee800f"
+  },
+  "parent": {
+    "$oid": "6864d52727be5e4fbfee800d"
+  },
+  "version": {
+    "title": "webinars",
+    "meta": {},
+    "slug": "webinars",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:51.321Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:51.321Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:51.356Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:51.356Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d52727be5e4fbfee801b"
+  },
+  "parent": {
+    "$oid": "6864d52727be5e4fbfee8019"
+  },
+  "version": {
+    "title": "mental health disorder",
+    "meta": {},
+    "slug": "mental-health-disorder",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:51.618Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:51.618Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:51.654Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:51.654Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d52827be5e4fbfee8035"
+  },
+  "parent": {
+    "$oid": "6864d52827be5e4fbfee8033"
+  },
+  "version": {
+    "title": "mental health events",
+    "meta": {},
+    "slug": "mental-health-events",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:52.167Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:52.167Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:52.201Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:52.201Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d52827be5e4fbfee8041"
+  },
+  "parent": {
+    "$oid": "6864d52827be5e4fbfee803f"
+  },
+  "version": {
+    "title": "prioritizing mental health",
+    "meta": {},
+    "slug": "prioritizing-mental-health",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:52.460Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:52.460Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:52.496Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:52.496Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d52827be5e4fbfee804b"
+  },
+  "parent": {
+    "$oid": "6864d52827be5e4fbfee8049"
+  },
+  "version": {
+    "title": "world mental health day",
+    "meta": {},
+    "slug": "world-mental-health-day",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:52.718Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:52.718Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:52.756Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:52.756Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d52927be5e4fbfee8075"
+  },
+  "parent": {
+    "$oid": "6864d52927be5e4fbfee8073"
+  },
+  "version": {
+    "title": "employee depression",
+    "meta": {},
+    "slug": "employee-depression",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:53.559Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:53.559Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:53.600Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:53.600Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d52a27be5e4fbfee808b"
+  },
+  "parent": {
+    "$oid": "6864d52a27be5e4fbfee8089"
+  },
+  "version": {
+    "title": "understanding depression",
+    "meta": {},
+    "slug": "understanding-depression",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:54.060Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:54.060Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:54.094Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:54.094Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d52a27be5e4fbfee8095"
+  },
+  "parent": {
+    "$oid": "6864d52a27be5e4fbfee8093"
+  },
+  "version": {
+    "title": "workplace anxiety",
+    "meta": {},
+    "slug": "workplace-anxiety",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:54.367Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:54.367Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:54.401Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:54.401Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d52b27be5e4fbfee80d7"
+  },
+  "parent": {
+    "$oid": "6864d52b27be5e4fbfee80d5"
+  },
+  "version": {
+    "title": "understanding employee wellness",
+    "meta": {},
+    "slug": "understanding-employee-wellness",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:55.605Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:55.605Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:55.639Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:55.639Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d52c27be5e4fbfee80f1"
+  },
+  "parent": {
+    "$oid": "6864d52c27be5e4fbfee80ef"
+  },
+  "version": {
+    "title": "everyday mental health tips",
+    "meta": {},
+    "slug": "everyday-mental-health-tips",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:56.142Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:56.142Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:56.177Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:56.177Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d52c27be5e4fbfee8115"
+  },
+  "parent": {
+    "$oid": "6864d52c27be5e4fbfee8113"
+  },
+  "version": {
+    "title": "financial anxiety",
+    "meta": {},
+    "slug": "financial-anxiety",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:56.861Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:56.861Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:56.899Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:56.899Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d52d27be5e4fbfee8121"
+  },
+  "parent": {
+    "$oid": "6864d52d27be5e4fbfee811f"
+  },
+  "version": {
+    "title": "employee productivity",
+    "meta": {},
+    "slug": "employee-productivity",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:57.158Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:57.158Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:57.194Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:57.194Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d52e27be5e4fbfee8177"
+  },
+  "parent": {
+    "$oid": "6864d52e27be5e4fbfee8175"
+  },
+  "version": {
+    "title": "text therapy",
+    "meta": {},
+    "slug": "text-therapy",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:58.769Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:58.769Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:58.803Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:58.803Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d52f27be5e4fbfee818f"
+  },
+  "parent": {
+    "$oid": "6864d52f27be5e4fbfee818d"
+  },
+  "version": {
+    "title": "mental health apps",
+    "meta": {},
+    "slug": "mental-health-apps",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:59.270Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:59.270Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:59.304Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:59.304Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d52f27be5e4fbfee81ad"
+  },
+  "parent": {
+    "$oid": "6864d52f27be5e4fbfee81ab"
+  },
+  "version": {
+    "title": "online therapy",
+    "meta": {},
+    "slug": "online-therapy",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:43:59.877Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:59.877Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:43:59.911Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:43:59.911Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53027be5e4fbfee81e5"
+  },
+  "parent": {
+    "$oid": "6864d53027be5e4fbfee81e3"
+  },
+  "version": {
+    "title": "NHS",
+    "meta": {},
+    "slug": "nhs",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:00.943Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:00.943Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:00.977Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:00.977Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53127be5e4fbfee81f5"
+  },
+  "parent": {
+    "$oid": "6864d53127be5e4fbfee81f3"
+  },
+  "version": {
+    "title": "abuse",
+    "meta": {},
+    "slug": "abuse",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:01.305Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:01.305Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:01.339Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:01.339Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53127be5e4fbfee81fd"
+  },
+  "parent": {
+    "$oid": "6864d53127be5e4fbfee81fb"
+  },
+  "version": {
+    "title": "NPD",
+    "meta": {},
+    "slug": "npd",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:01.525Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:01.525Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:01.559Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:01.559Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53127be5e4fbfee8205"
+  },
+  "parent": {
+    "$oid": "6864d53127be5e4fbfee8203"
+  },
+  "version": {
+    "title": "recovery",
+    "meta": {},
+    "slug": "recovery",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:01.747Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:01.747Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:01.782Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:01.782Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53227be5e4fbfee8217"
+  },
+  "parent": {
+    "$oid": "6864d53227be5e4fbfee8215"
+  },
+  "version": {
+    "title": "company culture",
+    "meta": {},
+    "slug": "company-culture",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:02.144Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:02.144Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:02.178Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:02.178Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53327be5e4fbfee824b"
+  },
+  "parent": {
+    "$oid": "6864d53327be5e4fbfee8249"
+  },
+  "version": {
+    "title": "narcissism",
+    "meta": {},
+    "slug": "narcissism",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:03.146Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:03.146Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:03.181Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:03.181Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53327be5e4fbfee8261"
+  },
+  "parent": {
+    "$oid": "6864d53327be5e4fbfee825f"
+  },
+  "version": {
+    "title": "anonymous online therapy",
+    "meta": {},
+    "slug": "anonymous-online-therapy",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:03.805Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:03.805Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:03.840Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:03.840Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53427be5e4fbfee8269"
+  },
+  "parent": {
+    "$oid": "6864d53427be5e4fbfee8267"
+  },
+  "version": {
+    "title": "anonymous therapy",
+    "meta": {},
+    "slug": "anonymous-therapy",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:04.027Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:04.027Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:04.061Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:04.061Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53527be5e4fbfee82a3"
+  },
+  "parent": {
+    "$oid": "6864d53527be5e4fbfee82a1"
+  },
+  "version": {
+    "title": "workplace diversity",
+    "meta": {},
+    "slug": "workplace-diversity",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:05.131Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:05.131Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:05.166Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:05.166Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53527be5e4fbfee82ab"
+  },
+  "parent": {
+    "$oid": "6864d53527be5e4fbfee82a9"
+  },
+  "version": {
+    "title": "attachment style",
+    "meta": {},
+    "slug": "attachment-style",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:05.353Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:05.353Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:05.387Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:05.387Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53627be5e4fbfee82e9"
+  },
+  "parent": {
+    "$oid": "6864d53627be5e4fbfee82e7"
+  },
+  "version": {
+    "title": "affirmations",
+    "meta": {},
+    "slug": "affirmations",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:06.528Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:06.528Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:06.562Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:06.562Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53627be5e4fbfee82f1"
+  },
+  "parent": {
+    "$oid": "6864d53627be5e4fbfee82ef"
+  },
+  "version": {
+    "title": "affirmations for anxiety",
+    "meta": {},
+    "slug": "affirmations-for-anxiety",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:06.748Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:06.748Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:06.783Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:06.783Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53727be5e4fbfee832b"
+  },
+  "parent": {
+    "$oid": "6864d53727be5e4fbfee8329"
+  },
+  "version": {
+    "title": "user testimonials",
+    "meta": {},
+    "slug": "user-testimonials",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:07.857Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:07.857Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:07.892Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:07.892Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53827be5e4fbfee8333"
+  },
+  "parent": {
+    "$oid": "6864d53827be5e4fbfee8331"
+  },
+  "version": {
+    "title": "wysa app reviews",
+    "meta": {},
+    "slug": "wysa-app-reviews",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:08.083Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:08.083Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:08.117Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:08.117Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53827be5e4fbfee833b"
+  },
+  "parent": {
+    "$oid": "6864d53827be5e4fbfee8339"
+  },
+  "version": {
+    "title": "wysa reviews",
+    "meta": {},
+    "slug": "wysa-reviews",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:08.304Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:08.304Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:08.338Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:08.338Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53a27be5e4fbfee83ad"
+  },
+  "parent": {
+    "$oid": "6864d53a27be5e4fbfee83ab"
+  },
+  "version": {
+    "title": "mind and body",
+    "meta": {},
+    "slug": "mind-and-body",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:10.392Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:10.392Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:10.426Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:10.426Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53a27be5e4fbfee83c7"
+  },
+  "parent": {
+    "$oid": "6864d53a27be5e4fbfee83c5"
+  },
+  "version": {
+    "title": "Gen Z",
+    "meta": {},
+    "slug": "gen-z",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:10.923Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:10.923Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:10.957Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:10.957Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53b27be5e4fbfee83cf"
+  },
+  "parent": {
+    "$oid": "6864d53b27be5e4fbfee83cd"
+  },
+  "version": {
+    "title": "gen z mental health",
+    "meta": {},
+    "slug": "gen-z-mental-health",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:11.144Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:11.144Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:11.178Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:11.178Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53c27be5e4fbfee8407"
+  },
+  "parent": {
+    "$oid": "6864d53c27be5e4fbfee8405"
+  },
+  "version": {
+    "title": "australai",
+    "meta": {},
+    "slug": "australai",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:12.226Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:12.226Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:12.260Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:12.260Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53c27be5e4fbfee8415"
+  },
+  "parent": {
+    "$oid": "6864d53c27be5e4fbfee8413"
+  },
+  "version": {
+    "title": "mental health",
+    "meta": {},
+    "slug": "mental-health",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:12.547Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:12.547Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:12.581Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:12.581Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53d27be5e4fbfee842d"
+  },
+  "parent": {
+    "$oid": "6864d53d27be5e4fbfee842b"
+  },
+  "version": {
+    "title": "parental mental health",
+    "meta": {},
+    "slug": "parental-mental-health",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:13.054Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:13.054Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:13.089Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:13.089Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53d27be5e4fbfee8437"
+  },
+  "parent": {
+    "$oid": "6864d53d27be5e4fbfee8435"
+  },
+  "version": {
+    "title": "parents",
+    "meta": {},
+    "slug": "parents",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:13.308Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:13.308Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:13.342Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:13.342Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53d27be5e4fbfee843f"
+  },
+  "parent": {
+    "$oid": "6864d53d27be5e4fbfee843d"
+  },
+  "version": {
+    "title": "parents mental health",
+    "meta": {},
+    "slug": "parents-mental-health",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:13.527Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:13.527Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:13.562Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:13.562Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53d27be5e4fbfee8451"
+  },
+  "parent": {
+    "$oid": "6864d53d27be5e4fbfee844f"
+  },
+  "version": {
+    "title": "schools",
+    "meta": {},
+    "slug": "schools",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:13.921Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:13.921Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:13.955Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:13.955Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53e27be5e4fbfee8459"
+  },
+  "parent": {
+    "$oid": "6864d53e27be5e4fbfee8457"
+  },
+  "version": {
+    "title": "student mental health",
+    "meta": {},
+    "slug": "student-mental-health",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:14.143Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:14.143Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:14.176Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:14.176Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53e27be5e4fbfee8461"
+  },
+  "parent": {
+    "$oid": "6864d53e27be5e4fbfee845f"
+  },
+  "version": {
+    "title": "students",
+    "meta": {},
+    "slug": "students",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:14.404Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:14.404Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:14.438Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:14.438Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53e27be5e4fbfee8469"
+  },
+  "parent": {
+    "$oid": "6864d53e27be5e4fbfee8467"
+  },
+  "version": {
+    "title": "teen mental health",
+    "meta": {},
+    "slug": "teen-mental-health",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:14.621Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:14.621Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:14.655Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:14.655Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53f27be5e4fbfee847d"
+  },
+  "parent": {
+    "$oid": "6864d53f27be5e4fbfee847b"
+  },
+  "version": {
+    "title": "small business",
+    "meta": {},
+    "slug": "small-business",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:15.047Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:15.047Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:15.081Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:15.081Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53f27be5e4fbfee8487"
+  },
+  "parent": {
+    "$oid": "6864d53f27be5e4fbfee8485"
+  },
+  "version": {
+    "title": "atypical",
+    "meta": {},
+    "slug": "atypical",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:15.305Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:15.305Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:15.339Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:15.339Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53f27be5e4fbfee8491"
+  },
+  "parent": {
+    "$oid": "6864d53f27be5e4fbfee848f"
+  },
+  "version": {
+    "title": "neurodivergent",
+    "meta": {},
+    "slug": "neurodivergent",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:15.569Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:15.569Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:15.604Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:15.604Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d53f27be5e4fbfee8499"
+  },
+  "parent": {
+    "$oid": "6864d53f27be5e4fbfee8497"
+  },
+  "version": {
+    "title": "neurodiversity",
+    "meta": {},
+    "slug": "neurodiversity",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:15.788Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:15.788Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:15.823Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:15.823Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d54027be5e4fbfee84c3"
+  },
+  "parent": {
+    "$oid": "6864d54027be5e4fbfee84c1"
+  },
+  "version": {
+    "title": "uer testimonial",
+    "meta": {},
+    "slug": "uer-testimonial",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:16.606Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:16.606Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:16.642Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:16.642Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d54227be5e4fbfee8501"
+  },
+  "parent": {
+    "$oid": "6864d54127be5e4fbfee84ff"
+  },
+  "version": {
+    "title": "mens mental health",
+    "meta": {},
+    "slug": "mens-mental-health",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:17.984Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:17.984Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:18.018Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:18.018Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d54227be5e4fbfee8519"
+  },
+  "parent": {
+    "$oid": "6864d54227be5e4fbfee8517"
+  },
+  "version": {
+    "title": "Christmas",
+    "meta": {},
+    "slug": "christmas",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:18.485Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:18.485Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:18.519Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:18.519Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d54227be5e4fbfee8525"
+  },
+  "parent": {
+    "$oid": "6864d54227be5e4fbfee8523"
+  },
+  "version": {
+    "title": "Holidays",
+    "meta": {},
+    "slug": "holidays",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:18.953Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:18.953Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:18.987Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:18.987Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d54327be5e4fbfee852f"
+  },
+  "parent": {
+    "$oid": "6864d54327be5e4fbfee852d"
+  },
+  "version": {
+    "title": "Seasonal",
+    "meta": {},
+    "slug": "seasonal",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:19.209Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:19.209Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:19.243Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:19.243Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d54427be5e4fbfee8559"
+  },
+  "parent": {
+    "$oid": "6864d54427be5e4fbfee8557"
+  },
+  "version": {
+    "title": "workplace bullying",
+    "meta": {},
+    "slug": "workplace-bullying",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:20.012Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:20.012Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:20.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:20.046Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d54427be5e4fbfee8563"
+  },
+  "parent": {
+    "$oid": "6864d54427be5e4fbfee8561"
+  },
+  "version": {
+    "title": "employee assistance program",
+    "meta": {},
+    "slug": "employee-assistance-program",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:20.268Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:20.268Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:20.302Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:20.302Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d54427be5e4fbfee8575"
+  },
+  "parent": {
+    "$oid": "6864d54427be5e4fbfee8573"
+  },
+  "version": {
+    "title": "online coaching",
+    "meta": {},
+    "slug": "online-coaching",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:20.657Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:20.657Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:20.692Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:20.692Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d54427be5e4fbfee8581"
+  },
+  "parent": {
+    "$oid": "6864d54427be5e4fbfee857f"
+  },
+  "version": {
+    "title": "text-based coaching",
+    "meta": {},
+    "slug": "text-based-coaching",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:20.947Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:20.947Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:20.981Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:20.981Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d54527be5e4fbfee8589"
+  },
+  "parent": {
+    "$oid": "6864d54527be5e4fbfee8587"
+  },
+  "version": {
+    "title": "text-based therapy",
+    "meta": {},
+    "slug": "text-based-therapy",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:21.164Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:21.164Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:21.200Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:21.200Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d54527be5e4fbfee85a1"
+  },
+  "parent": {
+    "$oid": "6864d54527be5e4fbfee859f"
+  },
+  "version": {
+    "title": "happiness",
+    "meta": {},
+    "slug": "happiness",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:21.660Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:21.660Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:21.695Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:21.695Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d54627be5e4fbfee85af"
+  },
+  "parent": {
+    "$oid": "6864d54527be5e4fbfee85ad"
+  },
+  "version": {
+    "title": "ai",
+    "meta": {},
+    "slug": "ai",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:21.990Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:21.990Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:22.024Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:22.024Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d54627be5e4fbfee85bb"
+  },
+  "parent": {
+    "$oid": "6864d54627be5e4fbfee85b9"
+  },
+  "version": {
+    "title": "panic attack",
+    "meta": {},
+    "slug": "panic-attack",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:22.278Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:22.278Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:22.315Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:22.315Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d54627be5e4fbfee85db"
+  },
+  "parent": {
+    "$oid": "6864d54627be5e4fbfee85d9"
+  },
+  "version": {
+    "title": "eating disorder",
+    "meta": {},
+    "slug": "eating-disorder",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:22.921Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:22.921Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:22.955Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:22.955Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d54727be5e4fbfee85fd"
+  },
+  "parent": {
+    "$oid": "6864d54727be5e4fbfee85fb"
+  },
+  "version": {
+    "title": "Artificial Intelligence",
+    "meta": {},
+    "slug": "artificial-intelligence",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:23.606Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:23.606Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:23.641Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:23.641Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d54727be5e4fbfee8607"
+  },
+  "parent": {
+    "$oid": "6864d54727be5e4fbfee8605"
+  },
+  "version": {
+    "title": "Job Security",
+    "meta": {},
+    "slug": "job-security",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:23.866Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:23.866Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:23.900Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:23.900Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d54827be5e4fbfee8613"
+  },
+  "parent": {
+    "$oid": "6864d54827be5e4fbfee8611"
+  },
+  "version": {
+    "title": "Workers",
+    "meta": {},
+    "slug": "workers",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:24.157Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:24.157Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:24.191Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:24.191Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d54827be5e4fbfee8623"
+  },
+  "parent": {
+    "$oid": "6864d54827be5e4fbfee8621"
+  },
+  "version": {
+    "title": "procrastination",
+    "meta": {},
+    "slug": "procrastination",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:24.517Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:24.517Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:24.551Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:24.551Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d54827be5e4fbfee862f"
+  },
+  "parent": {
+    "$oid": "6864d54827be5e4fbfee862d"
+  },
+  "version": {
+    "title": "job",
+    "meta": {},
+    "slug": "job",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:24.808Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:24.808Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:24.841Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:24.841Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d54927be5e4fbfee8637"
+  },
+  "parent": {
+    "$oid": "6864d54927be5e4fbfee8635"
+  },
+  "version": {
+    "title": "Money",
+    "meta": {},
+    "slug": "money",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:25.027Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:25.027Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:25.061Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:25.061Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d54927be5e4fbfee8645"
+  },
+  "parent": {
+    "$oid": "6864d54927be5e4fbfee8643"
+  },
+  "version": {
+    "title": "Hindi",
+    "meta": {},
+    "slug": "hindi",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:25.351Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:25.351Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:25.385Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:25.385Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d54927be5e4fbfee864d"
+  },
+  "parent": {
+    "$oid": "6864d54927be5e4fbfee864b"
+  },
+  "version": {
+    "title": "languages",
+    "meta": {},
+    "slug": "languages",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:25.574Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:25.574Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:25.608Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:25.608Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d54a27be5e4fbfee8663"
+  },
+  "parent": {
+    "$oid": "6864d54a27be5e4fbfee8661"
+  },
+  "version": {
+    "title": "millennials",
+    "meta": {},
+    "slug": "millennials",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:26.035Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:26.035Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:26.069Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:26.069Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d54b27be5e4fbfee86b5"
+  },
+  "parent": {
+    "$oid": "6864d54b27be5e4fbfee86b3"
+  },
+  "version": {
+    "title": "user testimonial",
+    "meta": {},
+    "slug": "user-testimonial",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:27.547Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:27.547Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:27.581Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:27.581Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d54b27be5e4fbfee86bd"
+  },
+  "parent": {
+    "$oid": "6864d54b27be5e4fbfee86bb"
+  },
+  "version": {
+    "title": "America",
+    "meta": {},
+    "slug": "america",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:27.771Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:27.771Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:27.805Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:27.805Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d54c27be5e4fbfee86c7"
+  },
+  "parent": {
+    "$oid": "6864d54c27be5e4fbfee86c5"
+  },
+  "version": {
+    "title": "hybrid work",
+    "meta": {},
+    "slug": "hybrid-work",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:28.028Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:28.028Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:28.063Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:28.063Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d54d27be5e4fbfee86fd"
+  },
+  "parent": {
+    "$oid": "6864d54d27be5e4fbfee86fb"
+  },
+  "version": {
+    "title": "talking therapy",
+    "meta": {},
+    "slug": "talking-therapy",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:44:29.060Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:44:29.060Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:44:29.094Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:29.094Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d7354b69bda74dcdacb2"
+  },
+  "parent": {
+    "$oid": "6864d7354b69bda74dcdacb0"
+  },
+  "version": {
+    "title": "Lonliness",
+    "meta": {},
+    "slug": "lonliness",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-02T06:52:37.762Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:52:37.762Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:52:37.800Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:52:37.800Z"
+  },
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6875ff3a7a39b8fd3615be97"
+  },
+  "parent": {
+    "$oid": "6875ff3a7a39b8fd3615be94"
+  },
+  "version": {
+    "meta": {},
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-15T07:11:54.220Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-15T07:11:54.220Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-15T07:11:54.257Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-15T07:11:54.257Z"
+  },
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6875ff3b7a39b8fd3615beb1"
+  },
+  "parent": {
+    "$oid": "6875ff3a7a39b8fd3615be94"
+  },
+  "version": {
+    "title": "Sleep Issues can cause long term health effects",
+    "meta": {
+      "title": "Sleep Issues can cause long term health effects  | Wysa",
+      "image": {
+        "$oid": "686434aad1564c25b24c8f99"
+      },
+      "description": ""
+    },
+    "publishedAt": {
+      "$date": "2025-07-15T07:16:32.431Z"
+    },
+    "publisher": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    },
+    "slug": "sleep-issues-can-cause-long-term-health-effects",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-08-26T05:35:48.841Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-15T07:11:54.220Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-15T07:11:55.177Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T05:35:48.841Z"
+  },
+  "autosave": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68763f0a7a39b8fd3615eec8"
+  },
+  "parent": {
+    "$oid": "6864d51f27be5e4fbfee7e77"
+  },
+  "version": {
+    "title": "B2B Partnerships",
+    "meta": {
+      "title": "B2B Partnerships | Wysa",
+      "image": {
+        "$oid": "687614647a39b8fd3615c8a3"
+      }
+    },
+    "publishedAt": {
+      "$date": "2025-07-15T11:44:15.136Z"
+    },
+    "slug": "b2b-partnerships",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-07-15T11:44:15.136Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:43:43.021Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-07-15T11:44:10.506Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-15T11:44:15.136Z"
+  },
+  "latest": true,
+  "autosave": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ad47b6979c29c1e9dab2a6"
+  },
+  "parent": {
+    "$oid": "6875ff3a7a39b8fd3615be94"
+  },
+  "version": {
+    "title": "Sleep Issues can cause long term health effects",
+    "meta": {
+      "title": "Sleep Issues can cause long term health effects  | Wysa",
+      "image": {
+        "$oid": "686434aad1564c25b24c8f99"
+      },
+      "description": ""
+    },
+    "publishedAt": {
+      "$date": "2025-07-15T07:16:32.431Z"
+    },
+    "publisher": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    },
+    "slug": "sleep-issues-can-cause-long-term-health-effects",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-08-26T05:35:50.041Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-15T07:11:54.220Z"
+    },
+    "_status": "published"
+  },
+  "createdAt": {
+    "$date": "2025-08-26T05:35:50.082Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T05:35:50.082Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ad92f7f8cb56099672ebc7"
+  },
+  "parent": {
+    "$oid": "6864d7354b69bda74dcdacb0"
+  },
+  "version": {
+    "title": "Lonliness",
+    "meta": {},
+    "publishedAt": {
+      "$date": "2025-08-26T10:56:55.901Z"
+    },
+    "publisher": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    },
+    "slug": "lonliness",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-08-26T10:56:55.901Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:52:37.762Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-08-26T10:56:55.229Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T10:56:55.901Z"
+  },
+  "autosave": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ad92f9f8cb56099672ebdd"
+  },
+  "parent": {
+    "$oid": "6864d7354b69bda74dcdacb0"
+  },
+  "version": {
+    "title": "Lonliness",
+    "meta": {},
+    "publishedAt": {
+      "$date": "2025-08-26T10:56:57.056Z"
+    },
+    "publisher": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    },
+    "slug": "lonliness",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-08-26T10:56:57.058Z"
+    },
+    "createdAt": {
+      "$date": "2025-07-02T06:52:37.762Z"
+    },
+    "_status": "published"
+  },
+  "createdAt": {
+    "$date": "2025-08-26T10:56:57.091Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T10:56:57.091Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ad93bcf8cb56099672ef0e"
+  },
+  "parent": {
+    "$oid": "68ad93bcf8cb56099672ef0b"
+  },
+  "version": {
+    "meta": {},
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-08-26T11:00:12.787Z"
+    },
+    "createdAt": {
+      "$date": "2025-08-26T11:00:12.787Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-08-26T11:00:12.820Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T11:00:12.820Z"
+  },
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ad93bef8cb56099672ef36"
+  },
+  "parent": {
+    "$oid": "68ad93bcf8cb56099672ef0b"
+  },
+  "version": {
+    "meta": {},
+    "publishedAt": {
+      "$date": "2025-08-26T11:00:14.702Z"
+    },
+    "publisher": {
+      "$oid": "68ac405d546f7650e15982db"
+    },
+    "slug": "",
+    "slugLock": true,
+    "updatedAt": {
+      "$date": "2025-08-26T11:00:14.702Z"
+    },
+    "createdAt": {
+      "$date": "2025-08-26T11:00:12.787Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-08-26T11:00:14.053Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T11:00:14.702Z"
+  },
+  "latest": true,
+  "autosave": true,
+  "__v": 0
+}]

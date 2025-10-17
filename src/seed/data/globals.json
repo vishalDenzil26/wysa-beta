@@ -1,0 +1,319 @@
+[{
+  "_id": {
+    "$oid": "66fcc07041312b82c8c4f06f"
+  },
+  "navLogo": {
+    "$oid": "6789da503a643084179eb72c"
+  },
+  "navItems": [
+    {
+      "link": {
+        "type": "custom",
+        "url": "https://www.wysa.com/",
+        "label": "Wysa Home"
+      },
+      "id": "684bec39527ec203f23707cb"
+    },
+    {
+      "link": {
+        "type": "custom",
+        "reference": {
+          "relationTo": "pages",
+          "value": {
+            "$oid": "683fcc4edf47cca34a685bed"
+          }
+        },
+        "url": "/",
+        "label": "Blogs"
+      },
+      "id": "684bec08527ec203f23707c9"
+    }
+  ],
+  "link": {
+    "type": "custom",
+    "newTab": true,
+    "reference": {
+      "relationTo": "pages",
+      "value": {
+        "$oid": "66fd29a37e456149bee764eb"
+      }
+    },
+    "url": "https://play.google.com/store/apps/details?id=bot.touchkin",
+    "label": "Download App",
+    "appearance": "primary"
+  },
+  "globalType": "header",
+  "createdAt": {
+    "$date": "2024-10-02T03:39:28.834Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T11:36:08.013Z"
+  },
+  "__v": 0,
+  "form": "670b7ab7b9c3800150b40e2b"
+},
+{
+  "_id": {
+    "$oid": "670b5f56b9c3800150b4071d"
+  },
+  "navLogo": {
+    "$oid": "6789da503a643084179eb72c"
+  },
+  "navGroups": [
+    {
+      "groupName": "Company",
+      "navItems": [
+        {
+          "link": {
+            "type": "custom",
+            "url": "#",
+            "label": "Careers"
+          },
+          "id": "670b5e6279896a5781054440"
+        },
+        {
+          "link": {
+            "type": "reference",
+            "reference": {
+              "relationTo": "pages",
+              "value": {
+                "$oid": "6709070654d2e767601e62eb"
+              }
+            },
+            "label": "FAQs"
+          },
+          "id": "670b5ec101ccae578196d685"
+        },
+        {
+          "link": {
+            "type": "custom",
+            "reference": {
+              "relationTo": "pages",
+              "value": {
+                "$oid": "66fd29a37e456149bee764eb"
+              }
+            },
+            "url": "#",
+            "label": "Demo"
+          },
+          "id": "670b5ed001ccae578196d686"
+        }
+      ],
+      "id": "670b5e6079896a578105443f"
+    },
+    {
+      "groupName": "Wysa",
+      "navItems": [
+        {
+          "link": {
+            "type": "custom",
+            "url": "#",
+            "label": "Login"
+          },
+          "id": "670b5eed01ccae578196d688"
+        },
+        {
+          "link": {
+            "type": "custom",
+            "url": "#",
+            "label": "SM Handles"
+          },
+          "id": "670b5ef801ccae578196d689"
+        },
+        {
+          "link": {
+            "type": "custom",
+            "url": "#",
+            "label": "Wysa web"
+          },
+          "id": "670b5f0801ccae578196d68a"
+        },
+        {
+          "link": {
+            "type": "custom",
+            "url": "#",
+            "label": "Analytics"
+          },
+          "id": "670b5f1301ccae578196d68b"
+        }
+      ],
+      "id": "670b5ee201ccae578196d687"
+    },
+    {
+      "groupName": "Resources",
+      "navItems": [
+        {
+          "link": {
+            "type": "custom",
+            "url": "#",
+            "label": "cCBT Web"
+          },
+          "id": "670b5f2601ccae578196d68d"
+        },
+        {
+          "link": {
+            "type": "custom",
+            "url": "#",
+            "label": "NHS TC"
+          },
+          "id": "670b5f3201ccae578196d68e"
+        }
+      ],
+      "id": "670b5f2101ccae578196d68c"
+    }
+  ],
+  "socialMediaPlatforms": [
+    {
+      "url": "#",
+      "platform": "facebook",
+      "id": "670b6061eebb4b5781c1b48e"
+    },
+    {
+      "url": "#",
+      "platform": "instagram",
+      "id": "670b60ca89c4265781d0c768"
+    },
+    {
+      "url": "#",
+      "platform": "twitter",
+      "id": "670b60d089c4265781d0c769"
+    },
+    {
+      "url": "#",
+      "platform": "linkedin",
+      "id": "670b60d789c4265781d0c76a"
+    },
+    {
+      "url": "#",
+      "platform": "youtube",
+      "id": "670b60dd89c4265781d0c76b"
+    }
+  ],
+  "globalType": "footer",
+  "createdAt": {
+    "$date": "2024-10-13T05:49:10.255Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-19T06:49:36.501Z"
+  },
+  "__v": 0,
+  "misc": {
+    "termsAndConditions": {
+      "link": {
+        "type": "reference",
+        "reference": {
+          "relationTo": "pages",
+          "value": {
+            "$oid": "670900b654d2e767601e58be"
+          }
+        },
+        "label": "Terms & Conditions"
+      }
+    },
+    "privacyPolicy": {
+      "link": {
+        "type": "reference",
+        "reference": {
+          "relationTo": "pages",
+          "value": {
+            "$oid": "67596941423eb66fa18ec7d6"
+          }
+        },
+        "label": "Privacy Policy"
+      }
+    }
+  },
+  "form": {
+    "$oid": "670b7ab7b9c3800150b40e2b"
+  }
+},
+{
+  "_id": {
+    "$oid": "683ed6f0e0c06e86823a7436"
+  },
+  "createdAt": {
+    "$date": "2025-06-03T11:05:20.013Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-04T09:38:10.726Z"
+  },
+  "globalType": "blogNav",
+  "showBlogNav": true,
+  "categories": [
+    {
+      "category": {
+        "$oid": "683e7b177615f4d3fd44df14"
+      },
+      "id": "683fd0581138c70b49630bdd"
+    },
+    {
+      "category": {
+        "$oid": "6864d50027be5e4fbfee7962"
+      },
+      "id": "68661c4b46be4b97052f11af"
+    },
+    {
+      "category": {
+        "$oid": "683e891c339471684d19954e"
+      },
+      "id": "683fd05b1138c70b49630bdf"
+    },
+    {
+      "category": {
+        "$oid": "6864d50b27be5e4fbfee7b25"
+      },
+      "id": "68661c7846be4b97052f11b4"
+    },
+    {
+      "category": {
+        "$oid": "6864d50e27be5e4fbfee7b81"
+      },
+      "id": "6867a0a74b291316d6ead5b2"
+    },
+    {
+      "category": {
+        "$oid": "6864d50527be5e4fbfee7a27"
+      },
+      "id": "68661c6d46be4b97052f11b3"
+    },
+    {
+      "category": {
+        "$oid": "6864d50327be5e4fbfee79e3"
+      },
+      "id": "68661c6146be4b97052f11b2"
+    },
+    {
+      "category": {
+        "$oid": "6864d50227be5e4fbfee79a3"
+      },
+      "id": "68661c5246be4b97052f11b0"
+    },
+    {
+      "category": {
+        "$oid": "6864d50427be5e4fbfee79fd"
+      },
+      "id": "6867a0f14b291316d6ead5b3"
+    },
+    {
+      "category": {
+        "$oid": "6864d51427be5e4fbfee7c81"
+      },
+      "id": "6867a0fa4b291316d6ead5b4"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684912f9df0822fd10978b17"
+  },
+  "createdAt": {
+    "$date": "2025-06-11T05:24:09.970Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T05:24:33.275Z"
+  },
+  "globalType": "globalscriptsandcss",
+  "customScripts": "",
+  "__v": 0
+}]

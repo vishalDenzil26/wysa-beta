@@ -1,0 +1,8517 @@
+[{
+  "_id": {
+    "$oid": "66fcc815b348768e3cf9024f"
+  },
+  "key": "collection-pages-66fcc62c41312b82c8c4f147",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-02T04:12:05.461Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T10:47:23.670Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 1
+      },
+      "layout.0": {
+        "tabIndex": 0
+      },
+      "layout.0.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.0.gridItems": {
+        "collapsed": [
+          "678ca2869f63338211ea8f62",
+          "678ca28c9f63338211ea8f6c",
+          "678ca2909f63338211ea8f76",
+          "678ca2929f63338211ea8f80"
+        ]
+      },
+      "layout.0.gridItems.1.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout": {
+        "collapsed": [
+          "67b1c527c9ac337269c68848",
+          "671e75c5d3f39c7e89c9b1d5",
+          "670bf251033d1e067acf78ba"
+        ]
+      },
+      "layout.2": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems.0.gridItemGroup": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems": {
+        "collapsed": [
+          "671e77906c077afbe18a9f57",
+          "6759684a7d1c1600279ced48"
+        ]
+      },
+      "layout.2.gridItems.1.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.2.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.3.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.3": {
+        "tabIndex": 1
+      },
+      "layout.3.gridItems.0.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.3.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.3.gridItems.1.gridItemGroup": {
+        "tabIndex": 1
+      },
+      "layout.3.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.3.gridItems": {
+        "collapsed": [
+          "671e77906c077afbe18a9f57",
+          "671e78ec983a517e89a552de",
+          "671e7a721f0abc7e89f09593"
+        ]
+      },
+      "layout.3.gridItems.2.gridItemGroup": {
+        "tabIndex": 1
+      },
+      "layout.3.gridItems.3.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.3.gridItems.4.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.4.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "671e75e8d3f39c7e89c9b1dc"
+        ]
+      },
+      "layout.2.gridItems.5.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.0.gridItems.0.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.0.gridItems.2.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.0.gridItems.4.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.0.gridItems.3.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "_index-1": {
+        "tabIndex": 2
+      },
+      "layout.0._index-0": {
+        "tabIndex": 1
+      },
+      "layout.2._index-0": {
+        "tabIndex": 1
+      },
+      "layout.0.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 1
+      },
+      "layout.0.gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.5.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.2.gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.1._index-0": {
+        "tabIndex": 1
+      },
+      "layout.1.gridItems": {
+        "collapsed": [
+          "66fcced851f203154aebc6e4",
+          "678ca2869f63338211ea8f62",
+          "678ca28c9f63338211ea8f6c",
+          "678ca2909f63338211ea8f76",
+          "678ca2929f63338211ea8f80"
+        ]
+      },
+      "layout.2.gridItems.3.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.5.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.2.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.2.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.2.gridItems.4.gridItemGroup._index-0": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66e51880cac79be149aac812"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "collection-pages-66e5186acac79be149aac7be",
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 1
+      },
+      "layout.2": {
+        "tabIndex": 0
+      },
+      "layout.0": {
+        "tabIndex": 1
+      },
+      "layout.0.grid-items.0": {
+        "tabIndex": 0
+      },
+      "layout.0.grid-items.0.grid-item": {
+        "collapsed": [
+          "66ee5b4f20dcda479a151c5d"
+        ]
+      },
+      "layout.0.grid-items": {
+        "tabIndex": 0
+      },
+      "layout.2.grid-items.dsadas": {
+        "tabIndex": 0
+      },
+      "layout.2.grid-items.0.grid-item-group": {
+        "tabIndex": 0
+      },
+      "layout": {
+        "collapsed": [
+          "66ee63c0cb968c479ad13db3",
+          "66e7d69778b22d38ccfa3e36"
+        ]
+      },
+      "layout.0.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "66ee6f2beefd07c66573b1bb"
+        ]
+      },
+      "layout.0.gridItems": {
+        "collapsed": []
+      },
+      "layout.0.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.2.gridItems.0.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.0.gridItems.0.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.0.gridItems.1.gridItemGroup": {
+        "tabIndex": 1
+      },
+      "layout.0.gridItems.2.gridItemGroup": {
+        "tabIndex": 1
+      },
+      "layout.0.gridItems.3.gridItemGroup": {
+        "tabIndex": 1
+      },
+      "layout.0.gridItems.4.gridItemGroup": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems": {
+        "collapsed": [
+          "66ee7fbbdd4da9c665faf970",
+          "66eff49e1a67104c04532b0b",
+          "66efe97a98c5c39f229f934c",
+          "66efe97498c5c39f229f9346",
+          "66eff5381a67104c04532b17",
+          "66eff5f51a67104c04532b1d"
+        ]
+      },
+      "layout.2.gridItems.1.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.2.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.5.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.4.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.3.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.2.gridItems.2.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.2.gridItems.6.gridItemGroup": {
+        "tabIndex": 1
+      }
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-14T05:00:48.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T03:45:35.652Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eeaed8fa8594facdfc02f2"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": "66e51849cac79be149aac78e"
+  },
+  "key": "collection-pages-66eeae3dfa8594facdfc01bd",
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 0
+      },
+      "layout": {
+        "collapsed": [
+          "66f02be116dc0fc99b697a6a",
+          "66f01dc1aa3ca159f0a0200d",
+          "66f64649748593a2247d62d6",
+          "66f65c7aa44f98bd60ea8143"
+        ]
+      },
+      "layout.1": {
+        "tabIndex": 1
+      },
+      "layout.1.gridItems": {
+        "collapsed": []
+      },
+      "layout.1.gridItems.0.gridItemGroup.gridItemBlock.0.links": {
+        "collapsed": [
+          "66f0164fe9bfade0c9e0dca1"
+        ]
+      },
+      "layout.3": {
+        "tabIndex": 1
+      },
+      "layout.3.gridItems.0.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.4.feedBackContent": {
+        "collapsed": [
+          "66f04fc787f07953935e8fd4",
+          "66f04feb5a213a3584a2fcd2",
+          "66f04ff05a213a3584a2fcd8",
+          "66f04ff15a213a3584a2fcde",
+          "66f04ff35a213a3584a2fce4"
+        ]
+      },
+      "layout.5": {
+        "tabIndex": 1
+      },
+      "layout.4": {
+        "tabIndex": 1
+      }
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-21T11:32:40.214Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-27T09:21:33.525Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f006ecfc3514e28fcb8dc0"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": "66e51849cac79be149aac78e"
+  },
+  "key": "collapsed-Globals-groups",
+  "value": [],
+  "createdAt": {
+    "$date": "2024-09-22T12:00:44.369Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-22T12:00:44.369Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fb6237b348768e3c4edabc"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "collection-pages-66fb61c0c938f66b2c5fcfd7",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-01T02:45:09.199Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T06:22:20.014Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66fcd85db348768e3c0c393e"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "collection-pages-66fcd7ff41312b82c8c4fcdc",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-02T05:21:33.445Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-06T10:23:34.714Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": [
+          "66fcd86298904e07f710b5c3",
+          "670c8f0fadde2dec40cab0e2",
+          "670c8f86adde2dec40cab100",
+          "670c9001adde2dec40cab115"
+        ]
+      },
+      "layout.1": {
+        "tabIndex": 1
+      },
+      "layout.1.gridItems": {
+        "collapsed": []
+      },
+      "layout.1.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.2.feedBackContent": {
+        "collapsed": []
+      },
+      "layout.1.gridItems.2.gridItemGroup.gridItemBlock.0.feedBackContent": {
+        "collapsed": [
+          "6725ac6fabdc89ae75c5fd4a",
+          "6725ac71abdc89ae75c5fd50",
+          "6725ac75abdc89ae75c5fd56"
+        ]
+      },
+      "layout.1.gridItems.2.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.1.gridItems.0.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.1.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.1.gridItems.1.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout.1._index-0": {
+        "tabIndex": 1
+      },
+      "layout.1.gridItems.2.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.1.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.1.gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2._index-0": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.2.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems": {
+        "collapsed": [
+          "67d0056571db5f198b20cf70",
+          "67d0061271db5f198b20cf7a",
+          "67d007ca71db5f198b20cf80"
+        ]
+      },
+      "layout.5.imageGroup": {
+        "collapsed": [
+          "67d00af071db5f198b20cfc9"
+        ]
+      },
+      "layout.1.gridItems.2.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "6725ac3ac8ce1c2edfaf9b80"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66fcf4e6b348768e3c2fb170"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "collection-pages-66fcf387550c17c860639d1c",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-02T07:23:18.293Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T07:11:02.888Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 2
+      },
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": []
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67022dbc2331e75dde2030c4"
+  },
+  "key": "collection-forms-66fce3e441312b82c8c504a3",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-06T06:27:08.787Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-26T10:09:21.848Z"
+  },
+  "value": {
+    "fields": {
+      "fields": {
+        "collapsed": []
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "670794f5c57d0dbd3bd40e30"
+  },
+  "key": "media-list",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-10T08:48:53.635Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-06T08:31:52.415Z"
+  },
+  "value": {
+    "limit": 25,
+    "sort": null,
+    "preset": null
+  }
+},
+{
+  "_id": {
+    "$oid": "6707acd5c57d0dbd3bf66c5d"
+  },
+  "key": "collection-pages-6707ac6ab62dadd206fd7e83",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-10T10:30:46.085Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-24T04:24:24.977Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": [
+          "6707acdeb1918b6174d60d62",
+          "6707f84a39ac89787c857399",
+          "6708032541c7157a4b0076f0",
+          "6708044741c7157a4b00773b"
+        ]
+      },
+      "layout.1": {
+        "tabIndex": 0
+      },
+      "layout.1.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "6707ad3ab1918b6174d60d72"
+        ]
+      },
+      "layout.1.gridItems": {
+        "collapsed": []
+      },
+      "layout.1.gridItems.1.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.2": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems": {
+        "collapsed": []
+      },
+      "layout.2.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.4": {
+        "tabIndex": 1
+      },
+      "layout.4.gridItems.0.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.4.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.4.gridItems.1.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.4.gridItems": {
+        "collapsed": []
+      },
+      "layout.5": {
+        "tabIndex": 0
+      },
+      "layout.5.gridItems": {
+        "collapsed": []
+      },
+      "layout.2.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "6707fb6b39ac89787c85739f"
+        ]
+      },
+      "layout.4.gridItems.2.gridItemGroup": {
+        "tabIndex": 1
+      },
+      "layout.5.gridItems.1.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout.1._index-0": {
+        "tabIndex": 0
+      },
+      "layout.1.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.4._index-0": {
+        "tabIndex": 0
+      },
+      "layout.5._index-0": {
+        "tabIndex": 0
+      },
+      "layout.1.gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.5.gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.3.links": {
+        "collapsed": [
+          "670803d341c7157a4b007728"
+        ]
+      },
+      "layout.4.gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 1
+      },
+      "layout.5.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.4.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.1.gridItems.0.gridItemGroup.gridItemBlock.0.imageGroup": {
+        "collapsed": [
+          "67beeb2f82f86c21664e51b2"
+        ]
+      },
+      "layout.5.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.4.gridItems.2.gridItemGroup._index-0": {
+        "tabIndex": 1
+      },
+      "layout.4.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.4.gridItems.2.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.1.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "670808efc57d0dbd3b6c94d0"
+  },
+  "key": "collection-pages-6708089cf77304323962c44f",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-10T17:03:43.803Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-24T04:08:40.770Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 2
+      },
+      "layout": {
+        "collapsed": [
+          "6708097341c7157a4b0077b7",
+          "6708ffbda5ffc22492e4b546",
+          "6709001194918713aa5a2ba9"
+        ]
+      },
+      "layout.1": {
+        "tabIndex": 1
+      },
+      "layout.1.gridItems.0.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.1.gridItems": {
+        "collapsed": []
+      },
+      "layout.1.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.1.gridItems.1.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout.1._index-0": {
+        "tabIndex": 1
+      },
+      "layout.1.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.1.gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6709075362fbaf1d6fa249a9"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "collection-pages-6709070654d2e767601e62eb",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-11T11:09:04.585Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-08T10:07:23.169Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 3
+      },
+      "layout": {
+        "collapsed": [
+          "670907c8bac4a813aaa7cb70"
+        ]
+      },
+      "layout.1": {
+        "tabIndex": 1
+      },
+      "layout.1.faqsContent.faqItems": {
+        "collapsed": [
+          "6709082cbac4a813aaa7cb96",
+          "67090847bac4a813aaa7cba2",
+          "6709086dbac4a813aaa7cbaf",
+          "67090889bac4a813aaa7cbb7",
+          "670908d9bac4a813aaa7cbc4",
+          "670908f4bac4a813aaa7cbcd",
+          "6712275c1dff9c0027a7aad6",
+          "671227991dff9c0027a7aadf",
+          "671227bb1dff9c0027a7aae9",
+          "671227cf1dff9c0027a7aaf1",
+          "671228041dff9c0027a7aafe",
+          "6712281d1dff9c0027a7ab06",
+          "6712287b1dff9c0027a7ab0f",
+          "6712288c1dff9c0027a7ab18",
+          "671228a71dff9c0027a7ab20",
+          "671228bc1dff9c0027a7ab27",
+          "671228cd1dff9c0027a7ab2f",
+          "671228e51dff9c0027a7ab39",
+          "671228fa1dff9c0027a7ab42",
+          "671229111dff9c0027a7ab4a",
+          "6712292e1dff9c0027a7ab53",
+          "67122ffd1dff9c0027a7ab5f",
+          "6712301d1dff9c0027a7ab68",
+          "671230301dff9c0027a7ab70",
+          "671230471dff9c0027a7ab78",
+          "671230591dff9c0027a7ab80",
+          "671230751dff9c0027a7ab8b",
+          "671230bf1dff9c0027a7ab92",
+          "671230d61dff9c0027a7ab9a",
+          "671231121dff9c0027a7aba7",
+          "6712311d1dff9c0027a7abae",
+          "6712312f1dff9c0027a7abb7",
+          "671231441dff9c0027a7abbf",
+          "671231b01dff9c0027a7abca",
+          "671231c91dff9c0027a7abd2"
+        ]
+      },
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "breadcrumbs": {
+        "collapsed": []
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "670caa0814e17331954f9b40"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "collection-pages-670ca9a5fad5cbc6dcf247dd",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-14T05:20:05.747Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-08T08:35:50.221Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": [
+          "670caa0df4c9b7ec40bd8509",
+          "6725ff3629c27a7828f761b0",
+          "672070701a59c80027560472"
+        ]
+      },
+      "layout.1.feedBackContent": {
+        "collapsed": [
+          "6716149afd0d4f00272de9bb"
+        ]
+      },
+      "layout.2": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.0.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.0.gridItemGroup.gridItemBlock.0.feedBackContent": {
+        "collapsed": [
+          "6725ffc029c27a7828f76227",
+          "67260037722937106e98fbcb",
+          "67260035722937106e98fbc5",
+          "67260030722937106e98fbbf"
+        ]
+      },
+      "layout.2.gridItems": {
+        "collapsed": []
+      },
+      "layout.2.gridItems.1.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.2.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "breadcrumbs": {
+        "collapsed": []
+      },
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout.2._index-0": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems.2.gridItemGroup._index-0": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6709105662fbaf1d6fadd7f1"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "collection-newsArticle-67090fd9d1f1c3c4c093d1a3",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-11T11:47:31.596Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-11T11:47:31.596Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6709466d62fbaf1d6ff16307"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "collection-newsArticles-670946440566b35702e398f4",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-11T15:38:18.348Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-12T06:10:37.503Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "670900fa62fbaf1d6f99e4e1"
+  },
+  "key": "collection-pages-670900b654d2e767601e58be",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-11T10:41:58.959Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T09:41:25.079Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 1
+      },
+      "breadcrumbs": {
+        "collapsed": [
+          "670900b794918713aa5a2bd9"
+        ]
+      },
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": []
+      },
+      "layout.1._index-0": {
+        "tabIndex": 0
+      },
+      "layout.1.gridItems": {
+        "collapsed": []
+      },
+      "layout.1.gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.1.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67d7ce82c3d4547636bfd5a6"
+        ]
+      },
+      "layout.1.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "670aa3531bfb379b48a34e1f"
+  },
+  "key": "collection-newsArticles-670aa2b68474f9075980fb62",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-12T16:26:58.519Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-14T04:02:47.992Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "670accde1bfb379b48d5a827"
+  },
+  "key": "collection-newsArticles-670acccd8474f90759810823",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-12T19:24:14.969Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-12T19:24:14.969Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 2
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66f3dd8a7d1fc08ada89cc0e"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": "66e51849cac79be149aac78e"
+  },
+  "key": "collection-posts-66f3dd827d1fc08ada89cbbc",
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 0
+      }
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-25T09:53:14.267Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-25T09:53:36.871Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f6728df980e876f9d90c93"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": "66e51849cac79be149aac78e"
+  },
+  "key": "collection-pages-66f6726bf980e876f9d90bb8",
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 1
+      },
+      "layout.1.feedBackContent": {
+        "collapsed": [
+          "66f681b97fddd0da708db778"
+        ]
+      },
+      "layout": {
+        "collapsed": [
+          "66f67317d8f785da706c35ac",
+          "66f6863823be3bda703367cd",
+          "66f681867fddd0da708db777",
+          "66f7ac2fd10b5c134566a4dd"
+        ]
+      },
+      "layout.3": {
+        "tabIndex": 1
+      },
+      "layout.3.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "66f68c35244e50018a9b2b3a",
+          "66f68d2df5477853eb014d3a"
+        ]
+      },
+      "layout.3.gridItems.0.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "breadcrumbs": {
+        "collapsed": [
+          "66f7a877a10d9b1345e8c2aa"
+        ]
+      },
+      "layout.3.gridItems": {
+        "collapsed": [
+          "66f7ac31d10b5c134566a4e0"
+        ]
+      }
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-27T08:53:33.763Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-28T09:37:31.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f7dbeea50bf90cc109fa01"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "collection-pages-66f7da51a50bf90cc109f894",
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 0
+      },
+      "layout.1": {
+        "tabIndex": 1
+      },
+      "layout.1.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "66f7dcc97db13a340663ea2b"
+        ]
+      },
+      "layout": {
+        "collapsed": [
+          "66f7dbf27db13a340663ea1d",
+          "66f7dcb27db13a340663ea23",
+          "66f7deba7db13a340663ea43",
+          "66f7e2c37db13a340663ea8a",
+          "66f7e43cdf58fc3406317954",
+          "66f7e89c45c8d80bdf8b093c"
+        ]
+      },
+      "layout.2": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "66f7df697db13a340663ea4b"
+        ]
+      },
+      "layout.4": {
+        "tabIndex": 1
+      },
+      "layout.4.gridItems.0.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.4.gridItems.1.gridItemGroup": {
+        "tabIndex": 1
+      },
+      "layout.4.gridItems.2.gridItemGroup": {
+        "tabIndex": 1
+      },
+      "layout.5": {
+        "tabIndex": 1
+      },
+      "layout.5.gridItems": {
+        "collapsed": [
+          "66f7dcc47db13a340663ea29",
+          "66f7dd1a7db13a340663ea3b"
+        ]
+      }
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-28T10:35:26.014Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-29T17:26:31.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fd2aedb348768e3c71fc0c"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "collection-pages-66fd29a37e456149bee764eb",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-02T11:13:47.244Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-20T07:05:35.405Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 2
+      },
+      "layout": {
+        "collapsed": [
+          "66fd29a30b219206b001a3e9",
+          "67317df7b92e201cd2fe6136"
+        ]
+      },
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67078ab1c57d0dbd3bc6e269"
+  },
+  "key": "collection-pages-670786cec9be5b62da765590",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-10T08:05:05.402Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-24T05:00:58.781Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 1
+      },
+      "layout.2": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.0.gridItemGroup": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems.1.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems": {
+        "collapsed": [
+          "67079a1324f3204b154bfc35",
+          "6707952ac24f41397d5083bd",
+          "674dadd5efe804e4e61b8388"
+        ]
+      },
+      "layout.2.gridItems.0.gridItemGroup.gridItemBlock.0.feedBackContent": {
+        "collapsed": []
+      },
+      "layout.2.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.2.gridItems.2.gridItemGroup": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.3.gridItemGroup": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": [
+          "67078abf2b2af42ce4704b41",
+          "6707a9712507f46174ae7bf2",
+          "67078b91e525ad2ce4695fdf"
+        ]
+      },
+      "layout.2.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.2.gridItems.2.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.3": {
+        "tabIndex": 1
+      },
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout.2._index-0": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.2.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.3.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "674dadd9efe804e4e61b838b"
+        ]
+      },
+      "layout.2.gridItems.3.gridItemGroup._index-0": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "670a12c41bfb379b48f43042"
+  },
+  "key": "collection-newsArticles-670a0f6b307e1600121a2d48",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-12T06:10:10.488Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-12T06:10:16.950Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 2
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "670aa2551bfb379b48a222dc"
+  },
+  "key": "collection-newsArticles-670a1b8f307e1600121a35a2",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-12T16:22:44.331Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-12T16:22:44.331Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6719ea012bcb21366df961db"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "nav",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-24T06:32:33.082Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-11T10:04:33.968Z"
+  },
+  "value": {
+    "open": true
+  }
+},
+{
+  "_id": {
+    "$oid": "6729d453a6e3a2404797a417"
+  },
+  "key": "collapsed-Collections-groups",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-05T08:16:19.019Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T08:16:19.627Z"
+  },
+  "value": []
+},
+{
+  "_id": {
+    "$oid": "6729d454a6e3a2404797a4d2"
+  },
+  "key": "nav",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-05T08:16:20.423Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-03T10:47:53.532Z"
+  },
+  "value": {
+    "open": true
+  }
+},
+{
+  "_id": {
+    "$oid": "6738393fa6e3a240474198dc"
+  },
+  "key": "collection-resources-673839362e0f7d3d1cd612d5",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-16T06:18:36.886Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-12T04:55:11.480Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 1
+      },
+      "_index-1": {
+        "tabIndex": 2
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6738464ba6e3a24047450fd7"
+  },
+  "key": "collection-resources-673845cd2e0f7d3d1cd61867",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-16T07:14:16.712Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-20T11:33:49.896Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 1
+      },
+      "_index-1": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "674407db2d51a17c91bcd347"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "collapsed-Collections-groups",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-25T05:15:07.664Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-11T10:04:20.045Z"
+  },
+  "value": []
+},
+{
+  "_id": {
+    "$oid": "674a9858ce78600e6e094eae"
+  },
+  "key": "collection-resources-674a970b96a12fcf735ba11e",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-30T04:45:13.435Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T05:57:14.419Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 1
+      },
+      "_index-1": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "674ab38ece78600e6e094eaf"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "collection-resources-674a971396a12fcf735ba13e",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-30T06:41:19.747Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-27T11:35:16.328Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 1
+      },
+      "_index-1": {
+        "tabIndex": 2
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "674c0561ce78600e6e094ece"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "collection-news-674c0544819e91172719e779",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-12-01T06:42:44.378Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-08T09:39:12.335Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 0
+      },
+      "_index-1": {
+        "tabIndex": 2
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "674c0795ce78600e6e094ed2"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "collection-news-674c0781819e91172719ebae",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-12-01T06:52:07.603Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-08T10:37:54.550Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 0
+      },
+      "content": {
+        "collapsed": [],
+        "hello": "hi"
+      },
+      "breadcrumbs": {
+        "collapsed": []
+      },
+      "_index-1": {
+        "tabIndex": 2
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "674c0b64ce78600e6e094ed3"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "collection-reports-674c0b37819e91172719ede4",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-12-01T07:08:23.040Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-27T06:44:37.418Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 0
+      },
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67596944ce78600e6e094f46"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "collection-pages-67596941423eb66fa18ec7d6",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-12-11T10:28:20.852Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-21T03:59:21.011Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 1
+      },
+      "_index-1": {
+        "tabIndex": 0
+      },
+      "layout": {
+        "collapsed": [
+          "67c19c1f19e3f5498acbfb58"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67596b17ce78600e6e094f47"
+  },
+  "key": "collapsed-Collections-groups",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67596ae7423eb66fa18ec953"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-12-11T10:36:07.581Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-11T10:36:07.581Z"
+  },
+  "value": [
+    "Collections"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67596ba4ce78600e6e094f48"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67596aaf423eb66fa18ec90b"
+    }
+  },
+  "key": "collection-pages-670786cec9be5b62da765590",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-12-11T10:38:28.933Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-27T17:02:13.687Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 0
+      },
+      "_index-1": {
+        "tabIndex": 0
+      },
+      "layout.2._index-0": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": []
+      },
+      "description": {
+        "collapsed": [
+          "67e18765d2a0920a5a333a1d"
+        ],
+        "hello": "hi"
+      },
+      "layout.2.gridItems": {
+        "collapsed": []
+      },
+      "layout.3._index-0": {
+        "tabIndex": 1
+      },
+      "layout.3.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 1
+      },
+      "layout.3.gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.4.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.3.gridItems.2.gridItemGroup._index-0": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems.3.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.3.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.2.gridItems.2.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.5.gridItemGroup._index-0": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67596d05ce78600e6e094f49"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "global-footer",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-12-11T10:44:21.283Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-11T10:44:21.283Z"
+  },
+  "value": {
+    "fields": {
+      "navGroups.0.navItems": {
+        "collapsed": [
+          "670b5e6279896a5781054440",
+          "670b5ec101ccae578196d685",
+          "670b5ed001ccae578196d686"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6759830bce78600e6e094f4a"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67596aaf423eb66fa18ec90b"
+    }
+  },
+  "key": "collection-pages-670ca9a5fad5cbc6dcf247dd",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-12-11T12:18:19.837Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-27T10:04:08.170Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 1
+      },
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": [
+          "67e3e5950897d05ea8bcb9b1"
+        ]
+      },
+      "layout.2._index-0": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67598329ce78600e6e094f4b"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67596aaf423eb66fa18ec90b"
+    }
+  },
+  "key": "collection-pages-66fcc62c41312b82c8c4f147",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-12-11T12:18:49.637Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-28T15:30:18.521Z"
+  },
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 1
+      },
+      "layout.2": {
+        "tabIndex": 1
+      },
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout.2._index-0": {
+        "tabIndex": 1
+      },
+      "layout.0._index-0": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.2.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.2.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.2.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.3.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout": {
+        "collapsed": [
+          "67c67c66c38aba26f7057b69",
+          "67b1c527c9ac337269c68848"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67598343ce78600e6e094f4c"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67596aaf423eb66fa18ec90b"
+    }
+  },
+  "key": "nav",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-12-11T12:19:15.732Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-14T11:15:58.682Z"
+  },
+  "value": {
+    "open": true
+  }
+},
+{
+  "_id": {
+    "$oid": "679cb50aca79fd37ecac496e"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67596aaf423eb66fa18ec90b"
+    }
+  },
+  "key": "collection-pages-67596941423eb66fa18ec7d6",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-01-31T11:33:30.439Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T11:33:30.439Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67bff6103da6ca4507ae7e0a"
+  },
+  "key": "collection-news-67bff28d6e6e9bb8618b86a2",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-27T05:20:16.497Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-25T06:15:55.912Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "content": {
+        "collapsed": [
+          "67c026f38197dec8a0a6e5e9",
+          "67c024b98197dec8a0a6e5e8"
+        ],
+        "hello": "hi"
+      },
+      "_index-0": {
+        "tabIndex": 0
+      },
+      "gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67c025fe0983d85eaefb94f4"
+        ]
+      },
+      "gridItems": {
+        "collapsed": [
+          "67c01fd20983d85eaefb94ec",
+          "67c0200e0983d85eaefb94ee"
+        ]
+      },
+      "gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67c01fd90983d85eaefb94ed"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67bffd803da6ca4507ae7e0f"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "collection-news-67bffcbe48c41c3755ac05c6",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-27T05:52:00.832Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-25T06:12:01.353Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "_index-0": {
+        "tabIndex": 0
+      },
+      "gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "content": {
+        "collapsed": [
+          "67c034cd806ef62f8ce01da9"
+        ],
+        "hello": "hi"
+      },
+      "gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "gridItems": {
+        "collapsed": [
+          "67c03554a22158950ddfee93"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67c0071d3da6ca4507ae7e15"
+  },
+  "key": "collection-news-67c0071848c41c3755ac0ec0",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-27T06:33:01.141Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-25T06:15:31.145Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "_index-0": {
+        "tabIndex": 0
+      },
+      "gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "content": {
+        "collapsed": [
+          "67c02c66a485943a3cbbf7e3",
+          "67c02d4ba485943a3cbbf7e4"
+        ],
+        "hello": "hi"
+      },
+      "gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67c02c9f0d109b0e280f27bc"
+        ]
+      },
+      "gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "gridItems": {
+        "collapsed": []
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67c1325f3da6ca4507ae7eaf"
+  },
+  "key": "collection-reports-67c130d848c41c3755ac54d1",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-28T03:49:51.175Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-25T06:10:02.139Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "_index-0": {
+        "tabIndex": 0
+      },
+      "content": {
+        "collapsed": [
+          "67c132c53f3f352123a7e243",
+          "67c134603f3f352123a7e245"
+        ],
+        "hello": "hi"
+      },
+      "gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67c1330d90de57049a22be51"
+        ]
+      },
+      "gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67c1332990de57049a22be53"
+        ]
+      },
+      "gridItems": {
+        "collapsed": [
+          "67c1330790de57049a22be50",
+          "67c1332590de57049a22be52"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67c1362e3da6ca4507ae7eb7"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "collection-reports-67c1359d48c41c3755ac5f11",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-28T04:06:06.710Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-25T06:09:33.118Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "_index-0": {
+        "tabIndex": 0
+      },
+      "gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67c1370e5617dc886316b536"
+        ]
+      },
+      "gridItems": {
+        "collapsed": [
+          "67c138055617dc886316b53d"
+        ]
+      },
+      "gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "content": {
+        "collapsed": [
+          "67c137e08b611d9bfd567544"
+        ],
+        "hello": "hi"
+      },
+      "gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67c13d593da6ca4507ae7ebb"
+  },
+  "key": "collection-reports-67c13d0d48c41c3755ac6c1a",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-28T04:36:41.435Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-06T06:32:33.462Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "_index-0": {
+        "tabIndex": 1
+      },
+      "content": {
+        "collapsed": [
+          "67c143d08b611d9bfd567550"
+        ],
+        "hello": "hi"
+      },
+      "gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "gridItems": {
+        "collapsed": [
+          "67c145af5617dc886316b54b"
+        ]
+      },
+      "gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67ca8e6d6126a50e1d71c11a"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67ca8c3caa1afd4501b4bd40"
+    }
+  },
+  "key": "collection-pages-6707ac6ab62dadd206fd7e83",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-07T06:13:01.030Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-21T07:03:21.391Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": []
+      },
+      "breadcrumbs": {
+        "collapsed": []
+      },
+      "layout.2._index-0": {
+        "tabIndex": 1
+      },
+      "layout.1._index-0": {
+        "tabIndex": 1
+      },
+      "layout.4._index-0": {
+        "tabIndex": 1
+      },
+      "layout.5._index-0": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67ca90556126a50e1d71c12b"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67ca8c3caa1afd4501b4bd40"
+    }
+  },
+  "key": "collection-pages-66fcc62c41312b82c8c4f147",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-07T06:21:09.876Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-21T09:43:45.548Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": [
+          "67c67c66c38aba26f7057b69"
+        ]
+      },
+      "layout.2._index-0": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67cec9346126a50e1d71c80e"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67ca8c3caa1afd4501b4bd40"
+    }
+  },
+  "key": "collection-pages-67596941423eb66fa18ec7d6",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-10T11:12:52.863Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T06:34:52.736Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout.1._index-0": {
+        "tabIndex": 0
+      },
+      "layout.1.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": []
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67cfb6496126a50e1d71d353"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "key": "collection-pages-66fcc62c41312b82c8c4f147",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-11T04:04:26.539Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T18:50:44.059Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 0
+      },
+      "layout.2._index-0": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems.6.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout": {
+        "collapsed": [
+          "67c67c66c38aba26f7057b69",
+          "67b1c527c9ac337269c68848"
+        ]
+      },
+      "layout.2.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.2.gridItems": {
+        "collapsed": [
+          "671e75dbd3f39c7e89c9b1da",
+          "671ef3fdf94d33ea7fbff5a8",
+          "671e77906c077afbe18a9f57",
+          "671e7a721f0abc7e89f09593",
+          "671e7aaad8b17c62c24d4de8"
+        ]
+      },
+      "layout.2.gridItems.4.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.2.gridItems.3.gridItemGroup._index-0": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67cfb93a6126a50e1d71d36d"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "key": "collection-reports-67c13d0d48c41c3755ac6c1a",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-11T04:16:59.440Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-11T04:17:00.226Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67cfcb796126a50e1d71d3db"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "key": "collection-resources-674a971396a12fcf735ba13e",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-11T05:34:51.121Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-04T03:54:54.976Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67cff43c6126a50e1d71d41f"
+  },
+  "key": "collection-pages-66fcd7ff41312b82c8c4fcdc",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-11T08:28:44.015Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T08:19:02.295Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout.1._index-0": {
+        "tabIndex": 1
+      },
+      "layout.1.gridItems": {
+        "collapsed": []
+      },
+      "layout.3.links": {
+        "collapsed": [
+          "670c8fb9adde2dec40cab109"
+        ]
+      },
+      "layout": {
+        "collapsed": [
+          "66fcd86298904e07f710b5c3"
+        ]
+      },
+      "layout.1.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.1.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.1.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.1.gridItems.2.gridItemGroup._index-0": {
+        "tabIndex": 1
+      },
+      "layout.4.links": {
+        "collapsed": [
+          "670c9022adde2dec40cab11e"
+        ]
+      },
+      "layout.4.imageGroup": {
+        "collapsed": []
+      },
+      "layout.1.gridItems.0.gridItemGroup.gridItemBlock.0.links": {
+        "collapsed": []
+      },
+      "layout.1.gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67cff8006126a50e1d71d420"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "key": "collection-pages-670786cec9be5b62da765590",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-11T08:44:48.440Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T04:30:10.255Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": [
+          "67078abf2b2af42ce4704b41",
+          "67078b91e525ad2ce4695fdf"
+        ]
+      },
+      "layout.2._index-0": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.0.gridItemGroup.gridItemBlock.0.feedBackContent": {
+        "collapsed": [
+          "67079a8c5862d97293a910a8"
+        ]
+      },
+      "layout.2.gridItems": {
+        "collapsed": []
+      },
+      "layout.2.gridItems.3.gridItemGroup._index-0": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d0022f6126a50e1d71d432"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "key": "collection-pages-67596941423eb66fa18ec7d6",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-11T09:28:15.456Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-11T09:28:22.811Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": []
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d00bd86126a50e1d71d43f"
+  },
+  "key": "collection-pages-670ca9a5fad5cbc6dcf247dd",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-11T10:09:28.746Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-11T21:20:44.203Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": [
+          "670caa0df4c9b7ec40bd8509",
+          "672603df0c2a0178280fc98d"
+        ]
+      },
+      "layout.2._index-0": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems": {
+        "collapsed": [
+          "6725ff7f29c27a7828f761c5",
+          "6726004129c27a7828f7624e",
+          "672600af722937106e98fbd1"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d00cbb6126a50e1d71d440"
+  },
+  "key": "collection-pages-6709070654d2e767601e62eb",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-11T10:13:14.916Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T11:22:28.400Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": [
+          "6709075af584d713aa12caf5"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d00d516126a50e1d71d441"
+  },
+  "key": "collection-pages-670900b654d2e767601e58be",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-11T10:15:45.437Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-11T10:15:45.437Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d00d676126a50e1d71d442"
+  },
+  "key": "collection-pages-6708089cf77304323962c44f",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-11T10:16:07.059Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-11T21:20:53.540Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout.1._index-0": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": [
+          "6708097341c7157a4b0077b7"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d00e106126a50e1d71d443"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "key": "collection-pages-6707ac6ab62dadd206fd7e83",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-11T10:18:56.154Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T04:08:53.724Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout.5._index-0": {
+        "tabIndex": 1
+      },
+      "layout.4._index-0": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": [
+          "6707acdeb1918b6174d60d62",
+          "6707ad21b1918b6174d60d68",
+          "6707f84a39ac89787c857399",
+          "6708032541c7157a4b0076f0",
+          "6708044741c7157a4b00773b"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d00ed56126a50e1d71d445"
+  },
+  "key": "collection-pages-66fd29a37e456149bee764eb",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-11T10:22:13.494Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-11T10:22:13.494Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d00f546126a50e1d71d446"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "key": "collection-pages-66fcf387550c17c860639d1c",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-11T10:24:20.538Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-11T10:24:20.538Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d10ec26126a50e1d71d652"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "key": "collection-resources-673839362e0f7d3d1cd612d5",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-12T04:34:09.548Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-02T08:33:56.559Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d7b8012d75fd453f586a0e"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67ca8c3caa1afd4501b4bd40"
+    }
+  },
+  "key": "collection-resources-673839362e0f7d3d1cd612d5",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-17T05:49:53.273Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T05:53:11.192Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 2
+      },
+      "listingByPage": {
+        "collapsed": []
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d7b91c2d75fd453f586a12"
+  },
+  "key": "collection-news-67c0071848c41c3755ac0ec0",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67ca8c3caa1afd4501b4bd40"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-17T05:54:36.588Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-25T05:40:13.006Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "_index-0": {
+        "tabIndex": 1
+      },
+      "gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "gridItems": {
+        "collapsed": [
+          "67c03a65a22158950ddfee98"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d7c2e92d75fd453f586a25"
+  },
+  "key": "collection-pages-670ca9a5fad5cbc6dcf247dd",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67ca8c3caa1afd4501b4bd40"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-17T06:36:25.015Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T06:37:02.973Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout.2._index-0": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d7c3712d75fd453f586a27"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67ca8c3caa1afd4501b4bd40"
+    }
+  },
+  "key": "collection-pages-6709070654d2e767601e62eb",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-17T06:38:41.282Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-25T07:16:07.166Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 0
+      },
+      "layout.2._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d7c4ef2d75fd453f586a2f"
+  },
+  "key": "collection-pages-670900b654d2e767601e58be",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67ca8c3caa1afd4501b4bd40"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-17T06:45:03.276Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-21T04:24:10.553Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 0
+      },
+      "layout.1._index-0": {
+        "tabIndex": 1
+      },
+      "layout.1.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d7cb032d75fd453f586a3a"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67ca8c3caa1afd4501b4bd40"
+    }
+  },
+  "key": "collection-pages-6708089cf77304323962c44f",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-17T07:10:59.833Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-20T06:03:25.178Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout.1._index-0": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d7ede02d75fd453f586a83"
+  },
+  "key": "collection-pages-670786cec9be5b62da765590",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67ca8c3caa1afd4501b4bd40"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-17T09:39:44.404Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T09:39:44.404Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d7edff2d75fd453f586a84"
+  },
+  "key": "collection-pages-66fd29a37e456149bee764eb",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67ca8c3caa1afd4501b4bd40"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-17T09:40:15.451Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T09:42:19.075Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout.2._index-0": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems": {
+        "collapsed": [
+          "67d7ee77c3d4547636bfd5ae"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d7eeda2d75fd453f586a85"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67ca8c3caa1afd4501b4bd40"
+    }
+  },
+  "key": "collection-pages-66fcf387550c17c860639d1c",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-17T09:43:54.152Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-18T04:43:39.306Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d7eeed2d75fd453f586a87"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67ca8c3caa1afd4501b4bd40"
+    }
+  },
+  "key": "collection-pages-66fcd7ff41312b82c8c4fcdc",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-17T09:44:13.381Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-19T05:01:20.016Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout.1._index-0": {
+        "tabIndex": 1
+      },
+      "layout.1.gridItems.2.gridItemGroup._index-0": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d92178337b579d0b2712c4"
+  },
+  "key": "collection-reports-674c0b37819e91172719ede4",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67ca8c3caa1afd4501b4bd40"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-18T07:32:08.821Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-18T07:32:21.491Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 2
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d92242337b579d0b2712c9"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67ca8c3caa1afd4501b4bd40"
+    }
+  },
+  "key": "collection-news-674c0544819e91172719e779",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-18T07:35:30.109Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-18T07:35:30.109Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d92245337b579d0b2712ca"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67ca8c3caa1afd4501b4bd40"
+    }
+  },
+  "key": "collection-reports-67d92164d0488faffca7d9cb",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-18T07:35:33.544Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-18T09:17:58.794Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 3
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d92257337b579d0b2712cb"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67ca8c3caa1afd4501b4bd40"
+    }
+  },
+  "key": "collection-news-674c0781819e91172719ebae",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-18T07:35:51.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-18T07:35:51.767Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d9228c337b579d0b2712cc"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67ca8c3caa1afd4501b4bd40"
+    }
+  },
+  "key": "collection-news-67bff28d6e6e9bb8618b86a2",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-18T07:36:44.713Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-25T05:47:26.403Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d95918337b579d0b2712dd"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67ca8c3caa1afd4501b4bd40"
+    }
+  },
+  "key": "collection-reports-67c1359d48c41c3755ac5f11",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-18T11:29:27.974Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-21T04:37:07.734Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "_index-0": {
+        "tabIndex": 1
+      },
+      "gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67da8c33337b579d0b27151c"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67ca8c3caa1afd4501b4bd40"
+    }
+  },
+  "key": "collection-news-67bffcbe48c41c3755ac05c6",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-19T09:19:47.396Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-19T09:19:56.428Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "_index-0": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67da8e38337b579d0b271525"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67ca8c3caa1afd4501b4bd40"
+    }
+  },
+  "key": "collection-reports-67c130d848c41c3755ac54d1",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-19T09:28:24.309Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-19T09:55:33.096Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "_index-0": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67daad82337b579d0b271917"
+  },
+  "key": "collection-pages-66fcd7ff41312b82c8c4fcdc",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67596aaf423eb66fa18ec90b"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-19T11:41:54.694Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-28T10:58:35.492Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout.1._index-0": {
+        "tabIndex": 1
+      },
+      "layout.1.gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 1
+      },
+      "layout.1.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67dd0deb861fd431b2625a72"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67ca8c3caa1afd4501b4bd40"
+    }
+  },
+  "key": "collection-resources-674a970b96a12fcf735ba11e",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-21T06:57:47.109Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-21T06:57:53.946Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67dd0f49861fd431b2625a73"
+  },
+  "key": "nav",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67ca8c3caa1afd4501b4bd40"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-21T07:03:37.174Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-26T04:42:12.142Z"
+  },
+  "value": {
+    "open": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67dd39d2861fd431b2625a7e"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67ca8c3caa1afd4501b4bd40"
+    }
+  },
+  "key": "collection-reports-67c13d0d48c41c3755ac6c1a",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-21T10:05:06.459Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-21T10:05:22.806Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "_index-0": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67e2d827ce1e6ce80e2f42ec"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67596aaf423eb66fa18ec90b"
+    }
+  },
+  "key": "collection-pages-6707ac6ab62dadd206fd7e83",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-25T16:21:59.673Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-09T14:59:58.240Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout.1._index-0": {
+        "tabIndex": 1
+      },
+      "layout.2._index-0": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout": {
+        "collapsed": [
+          "6707ad21b1918b6174d60d68",
+          "6707f84a39ac89787c857399",
+          "6708032541c7157a4b0076f0",
+          "6708044741c7157a4b00773b",
+          "6708061d614905f3cbf4984f"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67e2d9b4ce1e6ce80e2f42ed"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67596aaf423eb66fa18ec90b"
+    }
+  },
+  "key": "collection-reports-67d92164d0488faffca7d9cb",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-25T16:28:36.507Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-25T16:31:03.339Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "_index-0": {
+        "tabIndex": 1
+      },
+      "gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67e2da66ce1e6ce80e2f42ee"
+  },
+  "key": "collection-pages-66fcf387550c17c860639d1c",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67596aaf423eb66fa18ec90b"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-25T16:31:34.443Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-25T16:31:34.443Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67e2dab2ce1e6ce80e2f42ef"
+  },
+  "key": "collection-pages-66fd29a37e456149bee764eb",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67596aaf423eb66fa18ec90b"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-25T16:32:50.510Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-25T16:32:50.510Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67e2dc23ce1e6ce80e2f42f0"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67596aaf423eb66fa18ec90b"
+    }
+  },
+  "key": "collection-resources-674a971396a12fcf735ba13e",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-25T16:38:59.479Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-25T16:38:59.479Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 2
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67e5843a24857c48b1938e1c"
+  },
+  "key": "collection-pages-67e5816bc71ad98809034e3c",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67596aaf423eb66fa18ec90b"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-27T17:00:42.428Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-28T12:11:29.207Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout.1._index-0": {
+        "tabIndex": 1
+      },
+      "layout.1.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.1.gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.1.gridItems.2.gridItemGroup._index-0": {
+        "tabIndex": 1
+      },
+      "layout.1.gridItems.3.gridItemGroup._index-0": {
+        "tabIndex": 1
+      },
+      "layout.1.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "description": {
+        "collapsed": [],
+        "hello": "hi"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67ee29f3714b27f09fb3139d"
+  },
+  "key": "collection-pages-67e5816bc71ad98809034e3c",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-03T06:25:55.360Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-09T13:09:28.028Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": [
+          "67e584406ca55b4053a17319",
+          "67f654b78ea76453b32a1446",
+          "67f51d4bbdf6151100f76e2d",
+          "67f658c98ea76453b32a1457",
+          "67f66015a12e8a829ba42731",
+          "67f661198ea76453b32a1464",
+          "67f663f5f5fed0ff2992e80f"
+        ]
+      },
+      "breadcrumbs": {
+        "collapsed": []
+      },
+      "layout.1._index-0": {
+        "tabIndex": 1
+      },
+      "layout.1.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.1.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f52189252b473cf6b9a0bd"
+        ]
+      },
+      "layout.1.gridItems": {
+        "collapsed": [
+          "67f51d74ecb6c0555217e87d"
+        ]
+      },
+      "layout.2._index-0": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems": {
+        "collapsed": [
+          "67f51d74ecb6c0555217e87d"
+        ]
+      },
+      "layout.3._index-0": {
+        "tabIndex": 1
+      },
+      "layout.3.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f52189252b473cf6b9a0bd",
+          "67f525e9252b473cf6b9a0be"
+        ]
+      },
+      "layout.3.gridItems": {
+        "collapsed": [
+          "67f6537e8ea76453b32a1444"
+        ]
+      },
+      "layout.3.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f52189252b473cf6b9a0bd",
+          "67f525e9252b473cf6b9a0be"
+        ]
+      },
+      "layout.2.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f52189252b473cf6b9a0bd"
+        ]
+      },
+      "layout.4._index-0": {
+        "tabIndex": 1
+      },
+      "layout.5._index-0": {
+        "tabIndex": 0
+      },
+      "layout.4.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.5.gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.4.gridItems": {
+        "collapsed": []
+      },
+      "layout.4.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.4.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f66015a12e8a829ba42739"
+        ]
+      },
+      "layout.7.imageGroup": {
+        "collapsed": [
+          "67f6655bf5fed0ff2992e813"
+        ]
+      },
+      "layout.7._index-0": {
+        "tabIndex": 1
+      },
+      "layout.9._index-0": {
+        "tabIndex": 1
+      },
+      "layout.9.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f66c1ef5fed0ff2992e817"
+        ]
+      },
+      "layout.9.gridItems": {
+        "collapsed": [
+          "67f66c11f5fed0ff2992e816"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67f2156811bb4cd253029046"
+  },
+  "createdAt": {
+    "$date": "2025-04-06T05:47:20.322Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-06T05:47:27.739Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "pages-list",
+  "value": {
+    "preset": null,
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f21af911bb4cd25302930f"
+  },
+  "createdAt": {
+    "$date": "2025-04-06T06:11:05.934Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-06T06:11:05.934Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "reports-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f4dc8032fd65503df2abf4"
+  },
+  "createdAt": {
+    "$date": "2025-04-08T08:21:20.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T04:33:26.967Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "resources-list",
+  "value": {
+    "preset": null,
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f4eeb632fd65503df2aeac"
+  },
+  "createdAt": {
+    "$date": "2025-04-08T09:39:02.114Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-08T10:11:44.788Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "news-list",
+  "value": {
+    "preset": null,
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f50d814fed3efc0d79fa99"
+  },
+  "createdAt": {
+    "$date": "2025-04-08T11:50:25.641Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-09T14:59:40.081Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67596aaf423eb66fa18ec90b"
+    }
+  },
+  "key": "pages-list",
+  "value": {
+    "preset": null,
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f514894fed3efc0d79fc7a"
+  },
+  "createdAt": {
+    "$date": "2025-04-08T12:20:25.379Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-08T12:25:07.061Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "key": "pages-list",
+  "value": {
+    "preset": null,
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f514cc4fed3efc0d79fd15"
+  },
+  "createdAt": {
+    "$date": "2025-04-08T12:21:32.536Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-08T12:21:32.536Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "key": "resources-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f514e34fed3efc0d79fd4f"
+  },
+  "createdAt": {
+    "$date": "2025-04-08T12:21:55.609Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-08T12:21:55.609Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "key": "news-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f5178b4fed3efc0d7a03ae"
+  },
+  "createdAt": {
+    "$date": "2025-04-08T12:33:15.649Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-08T12:33:15.649Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "key": "videos-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f5178d4fed3efc0d7a03b6"
+  },
+  "createdAt": {
+    "$date": "2025-04-08T12:33:17.308Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-08T12:33:17.308Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "key": "reports-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f517934fed3efc0d7a03be"
+  },
+  "createdAt": {
+    "$date": "2025-04-08T12:33:23.059Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-15T10:38:47.876Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "key": "media-list",
+  "value": {
+    "preset": null,
+    "limit": 100,
+    "sort": "-updatedAt"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f517964fed3efc0d7a03d8"
+  },
+  "createdAt": {
+    "$date": "2025-04-08T12:33:26.513Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-15T07:11:48.085Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "key": "categories-list",
+  "value": {
+    "preset": null,
+    "limit": 10,
+    "columns": [
+      {
+        "accessor": "title",
+        "active": true
+      },
+      {
+        "accessor": "parent",
+        "active": false
+      },
+      {
+        "accessor": "breadcrumbs",
+        "active": true
+      },
+      {
+        "accessor": "updatedAt",
+        "active": true
+      },
+      {
+        "accessor": "id",
+        "active": false
+      },
+      {
+        "accessor": "createdAt",
+        "active": false
+      }
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f517a34fed3efc0d7a03e3"
+  },
+  "createdAt": {
+    "$date": "2025-04-08T12:33:39.899Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-15T10:58:07.289Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "key": "users-list",
+  "value": {
+    "preset": null,
+    "limit": 100
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f517a64fed3efc0d7a03eb"
+  },
+  "createdAt": {
+    "$date": "2025-04-08T12:33:42.439Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-08T12:33:42.439Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "key": "redirects-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f517a84fed3efc0d7a03f3"
+  },
+  "createdAt": {
+    "$date": "2025-04-08T12:33:44.536Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-08T12:33:44.536Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "key": "forms-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f517ab4fed3efc0d7a03fb"
+  },
+  "createdAt": {
+    "$date": "2025-04-08T12:33:47.562Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-08T12:33:47.562Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "key": "form-submissions-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f518de8a38b7e5846cab5e"
+  },
+  "key": "collection-pages-66fcc62c41312b82c8c4f147",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-08T12:38:54.678Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T11:44:27.787Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": []
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67f520a18a38b7e5846cab79"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "key": "collection-pages-670ca9a5fad5cbc6dcf247dd",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-08T13:12:01.600Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-08T13:14:07.980Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout.2._index-0": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67f6677c6d2076d6e8f55cc5"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "key": "collection-pages-66fcd7ff41312b82c8c4fcdc",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-09T12:26:36.725Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T04:26:45.109Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": [
+          "66fcd86298904e07f710b5c3",
+          "670c8cb6adde2dec40cab08c",
+          "670c8f0fadde2dec40cab0e2",
+          "670c8f86adde2dec40cab100"
+        ]
+      },
+      "layout.1._index-0": {
+        "tabIndex": 1
+      },
+      "layout.1.gridItems.2.gridItemGroup._index-0": {
+        "tabIndex": 1
+      },
+      "layout.1.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67f6792d6d2076d6e8f55d01"
+  },
+  "key": "collection-pages-67f677554fed3efc0d7a698f",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-09T13:42:05.594Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T06:09:10.862Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": [
+          "67f679ddbefc7f48a3d12053",
+          "67f6809af4c4360f5bcfc356",
+          "67f6831f09a193082c6dbe70",
+          "67f686d5392fc6eca14d42a4",
+          "67f6899fea8e40ef2a27538d"
+        ]
+      },
+      "layout.2._index-0": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f683a9b9db1d9789eba501",
+          "67f684ffdb67192962111fc0"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67f685096d2076d6e8f55d29"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67596aaf423eb66fa18ec90b"
+    }
+  },
+  "key": "collection-pages-67f515674fed3efc0d79fe8f",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-09T14:32:41.367Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-09T14:32:41.367Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67f68f0f6d2076d6e8f55d34"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "key": "collection-pages-67f68df34fed3efc0d7a9a3c",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-09T15:15:27.695Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T07:34:56.969Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout.0._index-0": {
+        "tabIndex": 1
+      },
+      "layout.0.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f68f657896ac2fc305b931"
+        ]
+      },
+      "layout": {
+        "collapsed": [
+          "67f692d5c7a24e0cb5759eac",
+          "67f69398f0d09105735511f7",
+          "67f694f69ba52d58fcb1277d",
+          "67f694dfc655674809a5ead6"
+        ]
+      },
+      "breadcrumbs": {
+        "collapsed": []
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67f75629df2bb715fe8f523d"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "key": "collection-news-67c0071848c41c3755ac0ec0",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-10T05:24:57.156Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T05:25:40.669Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 2
+      },
+      "_index-0": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67f7582d7d5d99adbee05c1a"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "key": "collection-news-67bffcbe48c41c3755ac05c6",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-10T05:33:33.194Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T05:33:33.194Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67f760497d5d99adbee05c3b"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "collection-pages-67f677554fed3efc0d7a698f",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-10T06:08:09.332Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T06:10:07.191Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": [
+          "67f679ddbefc7f48a3d12053",
+          "67f6809af4c4360f5bcfc356",
+          "67f6831f09a193082c6dbe70",
+          "67f686d5392fc6eca14d42a4",
+          "67f6899fea8e40ef2a27538d"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67f77583744cb408e43da984"
+  },
+  "createdAt": {
+    "$date": "2025-04-10T07:38:43.382Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T09:01:09.661Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f774d6744cb408e43da95d"
+    }
+  },
+  "key": "pages-list",
+  "value": {
+    "preset": null,
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f777717d5d99adbee05c65"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f774d6744cb408e43da95d"
+    }
+  },
+  "key": "collection-pages-67f68df34fed3efc0d7a9a3c",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-10T07:46:57.351Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T09:55:43.494Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": [
+          "67f68f21ea8e40ef2a27538f",
+          "67f692d5c7a24e0cb5759eac",
+          "67f69398f0d09105735511f7",
+          "67f694f69ba52d58fcb1277d",
+          "67f694dfc655674809a5ead6"
+        ]
+      },
+      "layout.0._index-0": {
+        "tabIndex": 1
+      },
+      "layout.4.sliderImages": {
+        "collapsed": [
+          "67f695318e8ea75d2d103726"
+        ]
+      },
+      "layout.0.gridItems": {
+        "collapsed": [
+          "67f68f617896ac2fc305b930"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67f7777f744cb408e43daa23"
+  },
+  "createdAt": {
+    "$date": "2025-04-10T07:47:11.335Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T07:47:22.289Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f774d6744cb408e43da95d"
+    }
+  },
+  "key": "media-list",
+  "value": {
+    "preset": null,
+    "limit": 25
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f7880e7d5d99adbee05c8d"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f774d6744cb408e43da95d"
+    }
+  },
+  "key": "collection-pages-67f677554fed3efc0d7a698f",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-10T08:57:50.717Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T10:37:25.530Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": [
+          "67f679ddbefc7f48a3d12053",
+          "67f6809af4c4360f5bcfc356",
+          "67f6831f09a193082c6dbe70",
+          "67f686d5392fc6eca14d42a4",
+          "67f6899fea8e40ef2a27538d"
+        ]
+      },
+      "layout.5._index-0": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67f7896c744cb408e43dd058"
+  },
+  "createdAt": {
+    "$date": "2025-04-10T09:03:40.297Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T09:03:40.297Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f7748c744cb408e43da868"
+    }
+  },
+  "key": "pages-list",
+  "value": {
+    "limit": 10,
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f78b867d5d99adbee05cdc"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f774d6744cb408e43da95d"
+    }
+  },
+  "key": "collection-pages-67f78987744cb408e43dd08e",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-10T09:12:38.268Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T12:23:45.421Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 0
+      },
+      "layout": {
+        "collapsed": [
+          "67f78bb73531a19f3d92f794",
+          "67f78c1d767cec477d3dc3a9",
+          "67f78e172cb9c53b9aca7530",
+          "67f78f452cb9c53b9aca753b",
+          "67f7902a2cb9c53b9aca7546",
+          "67f79374a0c8177e325abcb6",
+          "67f7a4425d81993abe55c8dd",
+          "67f7a6ffc977723b31315dec",
+          "67f7a11b975794799745f24b",
+          "67f7a121975794799745f24c",
+          "67f7ac22de522bd811eab4ab",
+          "67f7ac26de522bd811eab4ba",
+          "67f7b21adeb929aa05dc33f9",
+          "67f7b2db42ef30aeebc6f0d2",
+          "67f7b411beb11e3182736cc4",
+          "67f7b443762285d00e68869e",
+          "67f7b7373fac04f8f950c607",
+          "67f7b76c47ee020780a2e8dd",
+          "67f7b7aacdf293ae8c0812f7"
+        ]
+      },
+      "layout.1._index-0": {
+        "tabIndex": 1
+      },
+      "layout.1.gridItems": {
+        "collapsed": [
+          "67f78c60db95b08b282e126b",
+          "67f78c842847d77f170f654a"
+        ]
+      },
+      "layout.1.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2._index-0": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems": {
+        "collapsed": [
+          "67f78e172cb9c53b9aca7536",
+          "67f78e172cb9c53b9aca7532"
+        ]
+      },
+      "layout.2.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f78e172cb9c53b9aca7538"
+        ]
+      },
+      "layout.2.gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f78e172cb9c53b9aca7534"
+        ]
+      },
+      "layout.1.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f78c7c2847d77f170f6549"
+        ]
+      },
+      "layout.1.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f78d47d800762d9e1b2ec4"
+        ]
+      },
+      "layout.3._index-0": {
+        "tabIndex": 1
+      },
+      "layout.3.gridItems": {
+        "collapsed": [
+          "67f78c842847d77f170f654a"
+        ]
+      },
+      "layout.3.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.6._index-0": {
+        "tabIndex": 0
+      },
+      "layout.6.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.6.gridItems": {
+        "collapsed": [
+          "67f7a4615d81993abe55c8de",
+          "67f7a4625d81993abe55c8df",
+          "67f7a4635d81993abe55c8e0"
+        ]
+      },
+      "layout.6.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f7ac61de522bd811eab4c8"
+        ]
+      },
+      "layout.7._index-0": {
+        "tabIndex": 1
+      },
+      "layout.7.gridItems": {
+        "collapsed": [
+          "67f7a762c977723b31315ded",
+          "67f7a763c977723b31315dee"
+        ]
+      },
+      "layout.8._index-0": {
+        "tabIndex": 1
+      },
+      "layout.9._index-0": {
+        "tabIndex": 1
+      },
+      "layout.9.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f7a77ede522bd811eab4a7"
+        ]
+      },
+      "layout.9.gridItems": {
+        "collapsed": []
+      },
+      "layout.8.gridItems": {
+        "collapsed": [
+          "67f7a4615d81993abe55c8de",
+          "67f7a4625d81993abe55c8df",
+          "67f7a4635d81993abe55c8e0"
+        ]
+      },
+      "layout.8.gridItems.2.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f7a47ec977723b31315deb"
+        ]
+      },
+      "layout.8.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f7a47ac977723b31315dea"
+        ]
+      },
+      "layout.6.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f7ac845155adc669bc314e"
+        ]
+      },
+      "layout.6.gridItems.2.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f7aca41457b863275a2e4d"
+        ]
+      },
+      "layout.10._index-0": {
+        "tabIndex": 1
+      },
+      "layout.10.gridItems": {
+        "collapsed": [
+          "67f7ac22de522bd811eab4ad"
+        ]
+      },
+      "layout.7.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f7a77ede522bd811eab4a7"
+        ]
+      },
+      "layout.7.gridItems.2.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.7.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f7a782de522bd811eab4a8"
+        ]
+      },
+      "layout.15._index-0": {
+        "tabIndex": 0
+      },
+      "layout.15.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f7b49915f58a0e7b6dfa40"
+        ]
+      },
+      "layout.15.gridItems": {
+        "collapsed": [
+          "67f7b47e7f665412d2ed0b7f"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67f78dd17d5d99adbee05ce6"
+  },
+  "key": "collection-pages-67f78aa2744cb408e43dd3dd",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f7748c744cb408e43da868"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-10T09:22:25.814Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T11:04:34.619Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": []
+      },
+      "layout.0.imageGroup": {
+        "collapsed": []
+      },
+      "layout.0._index-0": {
+        "tabIndex": 1
+      },
+      "layout.0.gridItems": {
+        "collapsed": [
+          "67f79fedde55fcddc5ca6367"
+        ]
+      },
+      "layout.0.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f7a57ae7e7fc30dc9bd78d",
+          "67f7a57ee7e7fc30dc9bd78e"
+        ]
+      },
+      "layout.0.gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.0.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.0.gridItems.0.gridItemGroup.gridItemBlock.0.links": {
+        "collapsed": [
+          "67f7a026b6742c7962b319af"
+        ]
+      },
+      "layout.0.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67f78dee744cb408e43de23f"
+  },
+  "createdAt": {
+    "$date": "2025-04-10T09:22:54.668Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T09:22:54.668Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f7748c744cb408e43da868"
+    }
+  },
+  "key": "resources-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f78df1744cb408e43de24d"
+  },
+  "createdAt": {
+    "$date": "2025-04-10T09:22:57.758Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T09:22:57.758Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f7748c744cb408e43da868"
+    }
+  },
+  "key": "forms-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f78dfc744cb408e43de25d"
+  },
+  "createdAt": {
+    "$date": "2025-04-10T09:23:08.999Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T09:23:08.999Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f7748c744cb408e43da868"
+    }
+  },
+  "key": "form-submissions-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f7926d744cb408e43dfd8d"
+  },
+  "createdAt": {
+    "$date": "2025-04-10T09:42:05.587Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T09:42:05.587Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f774d6744cb408e43da95d"
+    }
+  },
+  "key": "resources-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f793347d5d99adbee05cf8"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f774d6744cb408e43da95d"
+    }
+  },
+  "key": "nav",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-10T09:45:24.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-28T10:50:37.373Z"
+  },
+  "value": {
+    "open": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67f7972a744cb408e43e0c81"
+  },
+  "createdAt": {
+    "$date": "2025-04-10T10:02:18.725Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T10:02:18.725Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f7748c744cb408e43da868"
+    }
+  },
+  "key": "media-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f7991a744cb408e43e120d"
+  },
+  "createdAt": {
+    "$date": "2025-04-10T10:10:34.193Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T10:10:34.193Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67596aaf423eb66fa18ec90b"
+    }
+  },
+  "key": "redirects-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f79942744cb408e43e12b7"
+  },
+  "createdAt": {
+    "$date": "2025-04-10T10:11:14.951Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T10:11:14.951Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f7748c744cb408e43da868"
+    }
+  },
+  "key": "categories-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f799e27d5d99adbee05d05"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67596aaf423eb66fa18ec90b"
+    }
+  },
+  "key": "collection-pages-67f677554fed3efc0d7a698f",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-10T10:13:54.505Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T10:13:54.505Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67f7ab3d7d5d99adbee05d32"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f7748c744cb408e43da868"
+    }
+  },
+  "key": "collection-pages-67f78987744cb408e43dd08e",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-10T11:27:57.631Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T11:28:20.121Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": [
+          "67f78bb73531a19f3d92f794",
+          "67f78e172cb9c53b9aca7530",
+          "67f78f452cb9c53b9aca753b",
+          "67f7902a2cb9c53b9aca7546",
+          "67f79374a0c8177e325abcb6",
+          "67f7a11b975794799745f24b",
+          "67f7a121975794799745f24c",
+          "67f7a4425d81993abe55c8dd",
+          "67f7a6ffc977723b31315dec"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67f7bef07d5d99adbee05d6b"
+  },
+  "key": "collection-pages-67f7bde8744cb408e43e8397",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f774d6744cb408e43da95d"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-10T12:52:00.567Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T05:23:45.918Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout.0._index-0": {
+        "tabIndex": 1
+      },
+      "layout.0.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.0.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.0.gridItems": {
+        "collapsed": [
+          "67f7c4eaac007dfede0817c3"
+        ]
+      },
+      "layout": {
+        "collapsed": [
+          "67f89bc1338ff6806fe925ad",
+          "67f89bc8338ff6806fe925bc",
+          "67f89e3092af671323c7c0f0",
+          "67f8a24f5ed1f252a2f50e35",
+          "67f8a2b40c56cd44b6465834",
+          "67f8a3e5a842d35207f2e9b2",
+          "67f8a4ff40e10f38b9525d97"
+        ]
+      },
+      "layout.0.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f7d0e00c5916a5157742d0"
+        ]
+      },
+      "layout.1._index-0": {
+        "tabIndex": 1
+      },
+      "layout.1.gridItems": {
+        "collapsed": [
+          "67f89bc1338ff6806fe925b5",
+          "67f89bc1338ff6806fe925af"
+        ]
+      },
+      "layout.1.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f89bc1338ff6806fe925b7"
+        ]
+      },
+      "layout.1.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.2._index-0": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems": {
+        "collapsed": [
+          "67f89bc8338ff6806fe925be"
+        ]
+      },
+      "layout.3._index-0": {
+        "tabIndex": 1
+      },
+      "layout.3.gridItems": {
+        "collapsed": [
+          "67f89bc1338ff6806fe925b5"
+        ]
+      },
+      "layout.3.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f89bc1338ff6806fe925b7"
+        ]
+      },
+      "layout.3.gridItems.1.gridItemGroup.gridItemBlock.0.links": {
+        "collapsed": [
+          "67f89bc1338ff6806fe925b3"
+        ]
+      },
+      "layout.3.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.5.sliderImages": {
+        "collapsed": [
+          "67f8a2bda842d35207f2e9af",
+          "67f8a2bea842d35207f2e9b0",
+          "67f8a2bfa842d35207f2e9b1"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67f892227d5d99adbee05e90"
+  },
+  "key": "collection-pages-67596941423eb66fa18ec7d6",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f774d6744cb408e43da95d"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-11T03:53:06.907Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T03:53:17.756Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67f894b47d5d99adbee05e94"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f774d6744cb408e43da95d"
+    }
+  },
+  "key": "collection-pages-66fcc62c41312b82c8c4f147",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-11T04:04:04.952Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-14T10:26:12.418Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": [
+          "67c67c66c38aba26f7057b69",
+          "67b1c527c9ac337269c68848",
+          "671e75c5d3f39c7e89c9b1d5",
+          "670bf251033d1e067acf78ba",
+          "67e3819522e013198848a67b"
+        ]
+      },
+      "layout.2._index-0": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems": {
+        "collapsed": [
+          "671ef3fdf94d33ea7fbff5a8",
+          "671e77906c077afbe18a9f57",
+          "671e78ec983a517e89a552de",
+          "671e7a721f0abc7e89f09593",
+          "671e7aaad8b17c62c24d4de8",
+          "6759684a7d1c1600279ced48"
+        ]
+      },
+      "layout.2.gridItems.1.gridItemGroup.gridItemBlock.0.links": {
+        "collapsed": [
+          "67f24d3d6a5ff31b2af9e67c"
+        ]
+      },
+      "layout.2.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "671e75e8d3f39c7e89c9b1dc"
+        ]
+      },
+      "layout.2.gridItems.4.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "671f032a9d802fbd12f216b4"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67f8c0617d5d99adbee05f86"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f774d6744cb408e43da95d"
+    }
+  },
+  "key": "collection-pages-67f8bef5744cb408e43ef053",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-11T07:10:25.675Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T11:31:20.730Z"
+  },
+  "value": {
+    "fields": {
+      "breadcrumbs": {
+        "collapsed": [
+          "67f8bf5fa5a6ba002780eb3c"
+        ]
+      },
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": [
+          "67f8c145d26a2e2c3ac5a1a6",
+          "67f8c1a8d26a2e2c3ac5a1a7",
+          "67f8c5edafed0adeabb01d17",
+          "67f8c7cb4719c36d79cdee5c",
+          "67f8c8409afcdf4dfdd88426",
+          "67f8e758a315c572caa1da38",
+          "67f8f0aa14f6b40987854b57",
+          "67f8f1a080396a32931f9150",
+          "67f8f35280396a32931f915d",
+          "67f8f35780396a32931f9160",
+          "67f8f4d380396a32931f916d",
+          "67f8f55080396a32931f9174",
+          "67f8f5d780396a32931f9176",
+          "67f8f7df70bf7a3360357be3",
+          "67f8f85c8758687810d8fcca",
+          "67f8f8af8758687810d8fccd",
+          "67f8fae3b2584b5d2e5a6589",
+          "67f8fb463d26114a3e9cbb77",
+          "67f8fb95d02b4b9f0f00c1b7",
+          "67f8fc3cd02b4b9f0f00c1b9",
+          "67f8fc82b2efc3aa84b60b53",
+          "67f8fc8ab2efc3aa84b60b66",
+          "67f8fc8eb2efc3aa84b60b79",
+          "67f8fd03b2efc3aa84b60b8c",
+          "67f8fd06b2efc3aa84b60b8f"
+        ]
+      },
+      "layout.1._index-0": {
+        "tabIndex": 0
+      },
+      "layout.1.gridItems.0.gridItemGroup.gridItemBlock.0.links": {
+        "collapsed": [
+          "67f8c2d1d26a2e2c3ac5a1ad"
+        ]
+      },
+      "layout.1.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f8c23dd26a2e2c3ac5a1ac"
+        ]
+      },
+      "layout.1.gridItems": {
+        "collapsed": [
+          "67f8c212d26a2e2c3ac5a1a8",
+          "67f8c37dafed0adeabb01d10"
+        ]
+      },
+      "layout.1.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f8c23dd26a2e2c3ac5a1ac"
+        ]
+      },
+      "layout.1.gridItems.1.gridItemGroup.gridItemBlock.0.links": {
+        "collapsed": []
+      },
+      "layout.2._index-0": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems": {
+        "collapsed": [
+          "67f8c63893096db4cec964ec"
+        ]
+      },
+      "layout.4._index-0": {
+        "tabIndex": 1
+      },
+      "layout.4.gridItems": {
+        "collapsed": [
+          "67f8c87a6395044d23811340",
+          "67f8c87c6395044d23811341"
+        ]
+      },
+      "layout.4.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f8c8931af048a41c3a3e55"
+        ]
+      },
+      "layout.5._index-0": {
+        "tabIndex": 1
+      },
+      "layout.6._index-0": {
+        "tabIndex": 0
+      },
+      "layout.6.gridItems": {
+        "collapsed": [
+          "67f8ec86be68dee2207a1958"
+        ]
+      },
+      "layout.6.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.7._index-0": {
+        "tabIndex": 1
+      },
+      "layout.7.gridItems": {
+        "collapsed": [
+          "67f8f1a080396a32931f9152"
+        ]
+      },
+      "layout.7.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.9._index-0": {
+        "tabIndex": 1
+      },
+      "layout.9.gridItems": {
+        "collapsed": [
+          "67f8c87a6395044d23811340",
+          "67f8c87c6395044d23811341"
+        ]
+      },
+      "layout.9.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.12._index-0": {
+        "tabIndex": 0
+      },
+      "layout.12.gridItems": {
+        "collapsed": [
+          "67f8f6225899d897a54b919f",
+          "67f8f6235899d897a54b91a0",
+          "67f8f6265899d897a54b91a1",
+          "67f8f6295899d897a54b91a2"
+        ]
+      },
+      "layout.20._index-0": {
+        "tabIndex": 0
+      },
+      "layout.20.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67f8f8af8758687810d8fcd1"
+        ]
+      },
+      "layout.20.gridItems": {
+        "collapsed": [
+          "67f8f8af8758687810d8fccf",
+          "67f8f8af8758687810d8fcd3",
+          "67f8f8af8758687810d8fcd7",
+          "67f8f8af8758687810d8fcdb"
+        ]
+      },
+      "layout.21._index-0": {
+        "tabIndex": 0
+      },
+      "layout.21.gridItems": {
+        "collapsed": [
+          "67f8f8af8758687810d8fccf",
+          "67f8f8af8758687810d8fcd3",
+          "67f8f8af8758687810d8fcd7",
+          "67f8f8af8758687810d8fcdb"
+        ]
+      },
+      "layout.22._index-0": {
+        "tabIndex": 1
+      },
+      "layout.22.gridItems": {
+        "collapsed": [
+          "67f8f8af8758687810d8fccf",
+          "67f8f8af8758687810d8fcd3",
+          "67f8f8af8758687810d8fcd7",
+          "67f8f8af8758687810d8fcdb"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67f8f6457d5d99adbee06030"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67596aaf423eb66fa18ec90b"
+    }
+  },
+  "key": "collection-pages-67f78987744cb408e43dd08e",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-11T11:00:21.315Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T11:00:55.174Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout.1._index-0": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67fce116a504172b74a1a4ba"
+  },
+  "key": "global-header",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f774d6744cb408e43da95d"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-14T10:19:02.399Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-14T10:19:02.399Z"
+  },
+  "value": {
+    "fields": {
+      "navItems": {
+        "collapsed": [
+          "66fcbff8af1e2907f7ef2794",
+          "66fcc00e0c323b2b6a278dfb",
+          "66fcc01c0c323b2b6a278e01",
+          "66fcc02b0c323b2b6a278e07",
+          "66fcc03e0c323b2b6a278e0d",
+          "66fcc04a0c323b2b6a278e13"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67fce2f81b093644e13f85f2"
+  },
+  "key": "collection-pages-67f8e96a744cb408e43f2dcb",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f774d6744cb408e43da95d"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-14T10:27:04.310Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-17T13:33:54.860Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": [
+          "67fce2fe7e0fea40fa77cafd",
+          "67fe50cba1ed23e871f0b283",
+          "67fde246d3b064dec935caf5",
+          "67fde2e01dedd992181e9d7d",
+          "67fde3ffd2d46c45fca79230",
+          "67fde47ceec6352fcf076b69",
+          "67fe5a0f837f77a73d341210",
+          "67fe5c23837f77a73d34121f",
+          "67fe5b9f837f77a73d34121e",
+          "67fe5e4d837f77a73d341225",
+          "67fe5e9f837f77a73d341226",
+          "67fe6522837f77a73d34122d",
+          "67fe66c6837f77a73d34122e",
+          "680101c444b03f00f78b0c54",
+          "680101c844b03f00f78b0c5f"
+        ]
+      },
+      "layout.1._index-0": {
+        "tabIndex": 1
+      },
+      "layout.1.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.1.gridItems": {
+        "collapsed": [
+          "67fd03cc40944020cf872aa5",
+          "67fd03d240944020cf872aaa",
+          "67fd03d440944020cf872aaf"
+        ]
+      },
+      "layout.1.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.2.links": {
+        "collapsed": [
+          "67fde278d5562b7db62b664b"
+        ]
+      },
+      "layout.3._index-0": {
+        "tabIndex": 1
+      },
+      "layout.3.gridItems": {
+        "collapsed": [
+          "67fde30886826ad987f96ebc"
+        ]
+      },
+      "layout.5._index-0": {
+        "tabIndex": 1
+      },
+      "layout.3.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67fde31d3e3c2d5bcc0ac934"
+        ]
+      },
+      "layout.3.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.5.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.5.gridItems": {
+        "collapsed": [
+          "67fe59ba9f1cd95e370f4732"
+        ]
+      },
+      "layout.6._index-0": {
+        "tabIndex": 1
+      },
+      "layout.6.gridItems": {
+        "collapsed": []
+      },
+      "layout.6.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67fe58ef9f1cd95e370f472f"
+        ]
+      },
+      "layout.6.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67fe59ba9f1cd95e370f4734"
+        ]
+      },
+      "layout.10._index-0": {
+        "tabIndex": 1
+      },
+      "layout.10.gridItems": {
+        "collapsed": [
+          "67fe5ec7837f77a73d341227",
+          "67fe5ece837f77a73d341228"
+        ]
+      },
+      "layout.10.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.10.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67fe5eda837f77a73d341229",
+          "67fe5f56837f77a73d34122a"
+        ]
+      },
+      "layout.12._index-0": {
+        "tabIndex": 1
+      },
+      "layout.12.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.12.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67fe66f6837f77a73d341231"
+        ]
+      },
+      "layout.12.gridItems": {
+        "collapsed": [
+          "67fe66ea837f77a73d34122f",
+          "67fe66ef837f77a73d341230"
+        ]
+      },
+      "layout.14._index-0": {
+        "tabIndex": 1
+      },
+      "layout.14.gridItems": {
+        "collapsed": [
+          "67fe66ea837f77a73d34122f",
+          "67fe66ef837f77a73d341230"
+        ]
+      },
+      "layout.14.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67fe66f6837f77a73d341231"
+        ]
+      },
+      "layout.13._index-0": {
+        "tabIndex": 1
+      },
+      "layout.13.gridItems": {
+        "collapsed": [
+          "67fe66ef837f77a73d341230",
+          "67fe66ea837f77a73d34122f"
+        ]
+      },
+      "layout.13.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.13.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.14.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67fe682c837f77a73d341232"
+        ]
+      },
+      "layout.12.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "67fe682c837f77a73d341232"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67fcee46744cb408e43f8c50"
+  },
+  "createdAt": {
+    "$date": "2025-04-14T11:15:18.851Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-14T11:15:18.851Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67596aaf423eb66fa18ec90b"
+    }
+  },
+  "key": "news-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67fcef00744cb408e43f8d4d"
+  },
+  "createdAt": {
+    "$date": "2025-04-14T11:18:24.031Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-29T13:54:48.884Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67596aaf423eb66fa18ec90b"
+    }
+  },
+  "key": "resources-list",
+  "value": {
+    "preset": null,
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67fe444e744cb408e43fa779"
+  },
+  "createdAt": {
+    "$date": "2025-04-15T11:34:38.948Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-15T11:34:38.948Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f774d6744cb408e43da95d"
+    }
+  },
+  "key": "forms-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6801071e6e6ef17ebe1e9cd8"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f774d6744cb408e43da95d"
+    }
+  },
+  "key": "collection-pages-680104ecdb6b6ffaf6e6de83",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-17T13:50:22.194Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-23T07:26:03.046Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": [
+          "6801074c44b03f00f78b0c6a",
+          "680107cb44b03f00f78b0c6b",
+          "68010a0844b03f00f78b0c71",
+          "68010b8844b03f00f78b0c78",
+          "68010b7a44b03f00f78b0c77",
+          "68010df344b03f00f78b0c7d",
+          "68010e5544b03f00f78b0c7f",
+          "68061fa3601aa9b4c0690977",
+          "68062302601aa9b4c0690982",
+          "68062646601aa9b4c0690999",
+          "68062309601aa9b4c069098d",
+          "68062832601aa9b4c069099c",
+          "680628a6601aa9b4c06909a6",
+          "680630b4601aa9b4c06909a8",
+          "680633d9601aa9b4c06909ae",
+          "6806348f601aa9b4c06909b0",
+          "68086ad564bff28f3e34dc8b",
+          "68086b3e64bff28f3e34dc8c",
+          "68086db0c91cb12369ab6ab3",
+          "68086e345550deecce50af4c",
+          "680872bf5550deecce50af4e",
+          "6808730a5550deecce50af4f"
+        ]
+      },
+      "layout.1._index-0": {
+        "tabIndex": 1
+      },
+      "layout.1.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.1.gridItems": {
+        "collapsed": []
+      },
+      "layout.4._index-0": {
+        "tabIndex": 1
+      },
+      "layout.4.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "68010c9344b03f00f78b0c7b"
+        ]
+      },
+      "layout.6._index-0": {
+        "tabIndex": 1
+      },
+      "layout.6.gridItems": {
+        "collapsed": []
+      },
+      "layout.6.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "680110ab44b03f00f78b0c83"
+        ]
+      },
+      "layout.7._index-0": {
+        "tabIndex": 1
+      },
+      "layout.7.gridItems": {
+        "collapsed": [
+          "680110a644b03f00f78b0c82"
+        ]
+      },
+      "layout.7.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.7.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.8._index-0": {
+        "tabIndex": 1
+      },
+      "layout.9._index-0": {
+        "tabIndex": 1
+      },
+      "layout.9.gridItems": {
+        "collapsed": []
+      },
+      "layout.10._index-0": {
+        "tabIndex": 0
+      },
+      "layout.10.gridItems": {
+        "collapsed": [
+          "680110a644b03f00f78b0c82",
+          "68010e7444b03f00f78b0c80"
+        ]
+      },
+      "layout.11._index-0": {
+        "tabIndex": 1
+      },
+      "layout.11.gridItems": {
+        "collapsed": [
+          "680110a644b03f00f78b0c82"
+        ]
+      },
+      "layout.13._index-0": {
+        "tabIndex": 1
+      },
+      "layout.13.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "68063164601aa9b4c06909ab"
+        ]
+      },
+      "layout.13.gridItems": {
+        "collapsed": [
+          "68063155601aa9b4c06909a9"
+        ]
+      },
+      "layout.15._index-0": {
+        "tabIndex": 1
+      },
+      "layout.17._index-0": {
+        "tabIndex": 1
+      },
+      "layout.17.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "68086b8464bff28f3e34dc8f"
+        ]
+      },
+      "layout.17.gridItems": {
+        "collapsed": [
+          "68086b8164bff28f3e34dc8e"
+        ]
+      },
+      "layout.18._index-0": {
+        "tabIndex": 1
+      },
+      "layout.18.gridItems": {
+        "collapsed": [
+          "68086b7f64bff28f3e34dc8d"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6805ea8249747cfaf5fa6ad3"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "key": "collection-pages-6805e3ccdb6b6ffaf6e6fe60",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-21T06:49:37.990Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-23T11:15:36.053Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": [
+          "6805eb5a190fba745ca8f4fe"
+        ]
+      },
+      "layout.1._index-0": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6806292349747cfaf5fa6e25"
+  },
+  "key": "collection-pages-67f8e96a744cb408e43f2dcb",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-21T11:16:51.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-28T11:06:47.739Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout.1._index-0": {
+        "tabIndex": 1
+      },
+      "layout.1.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.1.gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.6._index-0": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6806328f49747cfaf5fa6e95"
+  },
+  "key": "collection-pages-67f7bde8744cb408e43e8397",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-21T11:57:03.924Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-21T11:57:07.534Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout.2._index-0": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68077e6649747cfaf5fa714b"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "key": "collection-pages-67f78987744cb408e43dd08e",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-22T11:32:54.878Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-22T11:36:44.462Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout.1._index-0": {
+        "tabIndex": 0
+      },
+      "layout": {
+        "collapsed": [
+          "67f78c1d767cec477d3dc3a9",
+          "67f78e172cb9c53b9aca7530",
+          "67f78f452cb9c53b9aca753b",
+          "67f7902a2cb9c53b9aca7546",
+          "67f79374a0c8177e325abcb6"
+        ]
+      },
+      "layout.6._index-0": {
+        "tabIndex": 0
+      },
+      "layout.7._index-0": {
+        "tabIndex": 1
+      },
+      "layout.6.gridItems.0.gridItemGroup._index-0": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6808980149747cfaf5fa7483"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f774d6744cb408e43da95d"
+    }
+  },
+  "key": "collection-pages-680897f8db6b6ffaf6e74b62",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-23T07:34:25.221Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-23T07:35:12.199Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 0
+      },
+      "layout": {
+        "collapsed": [
+          "680897f757d2820027d80a0a",
+          "680897f757d2820027d80a0f",
+          "680897f757d2820027d80a11",
+          "680897f757d2820027d80a12",
+          "680897f757d2820027d80a17",
+          "680897f757d2820027d80a19",
+          "680897f757d2820027d80a1e",
+          "680897f757d2820027d80a23",
+          "680897f757d2820027d80a28",
+          "680897f757d2820027d80a2a",
+          "680897f757d2820027d80a2f",
+          "680897f757d2820027d80a34",
+          "680897f757d2820027d80a36",
+          "680897f757d2820027d80a3c",
+          "680897f757d2820027d80a3d",
+          "680897f757d2820027d80a42",
+          "680897f757d2820027d80a43",
+          "680897f757d2820027d80a49",
+          "680897f757d2820027d80a4f",
+          "680897f757d2820027d80a50",
+          "680897f757d2820027d80a51",
+          "680897f757d2820027d80a56",
+          "680897f757d2820027d80a58"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6808a0b149747cfaf5fa748c"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f774d6744cb408e43da95d"
+    }
+  },
+  "key": "collection-pages-68089fd9db6b6ffaf6e74ca5",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-23T08:11:29.040Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-23T12:32:45.473Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      },
+      "layout": {
+        "collapsed": [
+          "6808a13b5550deecce50af56",
+          "6808a16f5550deecce50af57",
+          "6808bc177fb15adb0651dc92",
+          "6808bd257fb15adb0651dc98",
+          "6808be4ad6e40073531549b8",
+          "6808be50d6e40073531549c3",
+          "6808bf39d6e40073531549cd",
+          "6808bfcad6e40073531549d0",
+          "6808bf8fd6e40073531549cf",
+          "6808c0bcd6e40073531549da",
+          "6808c3b1d6e4007353154a08",
+          "6808c4edd6e4007353154a0a",
+          "6808c7eed6e4007353154a0f",
+          "6808d29ad6e4007353154a11",
+          "6808d2b0d6e4007353154a12",
+          "6808d433d6e4007353154a19",
+          "6808d648d6e4007353154a25",
+          "6808db61d6e4007353154a27",
+          "6808dcd2d6e4007353154a28",
+          "6808dd5bd6e4007353154a2d",
+          "6808dd99d6e4007353154a2e"
+        ]
+      },
+      "layout.2._index-0": {
+        "tabIndex": 1
+      },
+      "layout.3._index-0": {
+        "tabIndex": 1
+      },
+      "layout.3.gridItems": {
+        "collapsed": [
+          "6808bd257fb15adb0651dc9e"
+        ]
+      },
+      "layout.4._index-0": {
+        "tabIndex": 1
+      },
+      "layout.4.gridItems": {
+        "collapsed": [
+          "6808bc5f7fb15adb0651dc93",
+          "6808bcd57fb15adb0651dc95"
+        ]
+      },
+      "layout.5._index-0": {
+        "tabIndex": 1
+      },
+      "layout.8._index-0": {
+        "tabIndex": 0
+      },
+      "layout.8.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "6808c04cd6e40073531549d5"
+        ]
+      },
+      "layout.8.gridItems": {
+        "collapsed": [
+          "6808c03fd6e40073531549d1",
+          "6808c044d6e40073531549d2",
+          "6808c047d6e40073531549d3",
+          "6808c049d6e40073531549d4"
+        ]
+      },
+      "layout.8.gridItems.2.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "6808c08bd6e40073531549d7"
+        ]
+      },
+      "layout.9._index-0": {
+        "tabIndex": 0
+      },
+      "layout.9.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "6808c149d6e40073531549ed",
+          "6808c227d6e40073531549f1",
+          "6808c223d6e40073531549ee"
+        ]
+      },
+      "layout.9.gridItems": {
+        "collapsed": [
+          "6808c13ed6e40073531549ec",
+          "6808c309d6e40073531549f9",
+          "6808c30dd6e40073531549fe",
+          "6808c311d6e4007353154a03"
+        ]
+      },
+      "layout.9.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "6808c149d6e40073531549ed"
+        ]
+      },
+      "layout.9.gridItems.2.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.9.gridItems.3.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.11._index-0": {
+        "tabIndex": 1
+      },
+      "layout.11.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "6808c51fd6e4007353154a0c"
+        ]
+      },
+      "layout.11.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "6808c55ad6e4007353154a0e"
+        ]
+      },
+      "layout.14._index-0": {
+        "tabIndex": 1
+      },
+      "layout.14.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "6808d2f1d6e4007353154a15"
+        ]
+      },
+      "layout.14.gridItems": {
+        "collapsed": [
+          "6808d2e9d6e4007353154a13",
+          "6808d2ecd6e4007353154a14"
+        ]
+      },
+      "layout.15._index-0": {
+        "tabIndex": 1
+      },
+      "layout.15.gridItems": {
+        "collapsed": [
+          "6808d2e9d6e4007353154a13",
+          "6808d2ecd6e4007353154a14"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6809c71649747cfaf5fa777a"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "collection-pages-68089fd9db6b6ffaf6e74ca5",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-24T05:07:34.076Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-24T05:07:34.076Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6809d26049747cfaf5fa7789"
+  },
+  "key": "collection-pages-6809c92bdb6b6ffaf6e781c8",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f774d6744cb408e43da95d"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-24T05:55:44.633Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-20T06:48:50.222Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 2
+      },
+      "layout": {
+        "collapsed": [
+          "6809d49878cff83a6d08d2f8",
+          "6809d82478cff83a6d08d2fa",
+          "6809e75e78cff83a6d08d300",
+          "6809e76178cff83a6d08d30b",
+          "6809edda78cff83a6d08d316",
+          "6809f3b478cff83a6d08d320",
+          "6809f3e378cff83a6d08d322",
+          "6809f3fc78cff83a6d08d323",
+          "6809f72f78cff83a6d08d328",
+          "6810563efa8d4e39756564bf",
+          "681056d6fa8d4e39756564c0",
+          "681058e6fa8d4e39756564d2",
+          "6810594afa8d4e39756564d4"
+        ]
+      },
+      "layout.1._index-0": {
+        "tabIndex": 1
+      },
+      "layout.1.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "6809d84e78cff83a6d08d2fc"
+        ]
+      },
+      "layout.1.gridItems": {
+        "collapsed": [
+          "6809e6de78cff83a6d08d2fd"
+        ]
+      },
+      "layout.2._index-0": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems": {
+        "collapsed": [
+          "6809e6de78cff83a6d08d2fd",
+          "6809d84978cff83a6d08d2fb"
+        ]
+      },
+      "layout.2.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.3._index-0": {
+        "tabIndex": 1
+      },
+      "layout.3.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.4._index-0": {
+        "tabIndex": 1
+      },
+      "layout.4.gridItems": {
+        "collapsed": [
+          "6809e6de78cff83a6d08d2fd",
+          "6809d84978cff83a6d08d2fb"
+        ]
+      },
+      "layout.10._index-0": {
+        "tabIndex": 0
+      },
+      "layout.10.gridItems": {
+        "collapsed": [
+          "68105713fa8d4e39756564c1",
+          "68105859fa8d4e39756564c3",
+          "68105860fa8d4e39756564cd",
+          "6810585dfa8d4e39756564c8"
+        ]
+      },
+      "layout.10.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "681057e4fa8d4e39756564c2"
+        ]
+      },
+      "layout.10.gridItems.2.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.12._index-0": {
+        "tabIndex": 1
+      },
+      "layout.12.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "6810597bfa8d4e39756564d6"
+        ]
+      },
+      "layout.12.gridItems": {
+        "collapsed": [
+          "68105976fa8d4e39756564d5"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "680f0453db6b6ffaf6e7a078"
+  },
+  "createdAt": {
+    "$date": "2025-04-28T04:30:11.092Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-28T05:12:57.446Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "key": "pages-list",
+  "value": {
+    "preset": null,
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680f09e4db6b6ffaf6e7a086"
+  },
+  "createdAt": {
+    "$date": "2025-04-28T04:53:56.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-28T04:53:56.045Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "forms-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680f0e80db6b6ffaf6e7a124"
+  },
+  "createdAt": {
+    "$date": "2025-04-28T05:13:36.878Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-28T05:13:36.878Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "key": "redirects-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680f5dac49747cfaf5fa84ca"
+  },
+  "key": "collection-pages-6805e3ccdb6b6ffaf6e6fe60",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f774d6744cb408e43da95d"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-28T10:51:24.730Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-28T10:52:34.396Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 0
+      },
+      "layout": {
+        "collapsed": [
+          "6805ead7190fba745ca8f4fd",
+          "680628f3190fba745ca8f4ff"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6810570ddb6b6ffaf6e7aca4"
+  },
+  "createdAt": {
+    "$date": "2025-04-29T04:35:25.486Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-29T04:35:25.486Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "redirects-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68105be549747cfaf5fa8b02"
+  },
+  "key": "collection-pages-68105b09db6b6ffaf6e7b541",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f774d6744cb408e43da95d"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-29T04:56:05.900Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-20T06:31:41.524Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 2
+      },
+      "layout": {
+        "collapsed": [
+          "68105c09fa8d4e39756564d9",
+          "68105c42fa8d4e39756564da",
+          "68105c80fa8d4e39756564db",
+          "68105e26fa8d4e39756564e2",
+          "68105ee0fa8d4e39756564fc",
+          "68105f6dfa8d4e3975656509",
+          "68105fb3fa8d4e397565650b",
+          "681060a9fa8d4e3975656517",
+          "681060f0fa8d4e3975656518",
+          "68106133fa8d4e3975656519",
+          "68106149fa8d4e397565651a",
+          "681061c2fa8d4e3975656520"
+        ]
+      },
+      "layout.2._index-0": {
+        "tabIndex": 1
+      },
+      "layout.2.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "68105cacfa8d4e39756564dd"
+        ]
+      },
+      "layout.2.gridItems": {
+        "collapsed": [
+          "68105ca1fa8d4e39756564dc",
+          "68105dd2fa8d4e39756564df"
+        ]
+      },
+      "layout.3._index-0": {
+        "tabIndex": 1
+      },
+      "layout.3.gridItems": {
+        "collapsed": [
+          "68105dd2fa8d4e39756564df"
+        ]
+      },
+      "layout.3.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      },
+      "layout.4._index-0": {
+        "tabIndex": 1
+      },
+      "layout.6._index-0": {
+        "tabIndex": 1
+      },
+      "layout.6.gridItems": {
+        "collapsed": [
+          "68105dd2fa8d4e39756564df"
+        ]
+      },
+      "layout.6.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": []
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6810660249747cfaf5fa8b2f"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f774d6744cb408e43da95d"
+    }
+  },
+  "key": "collection-pages-68106565db6b6ffaf6e7cf03",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-29T05:39:14.752Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-20T06:10:54.291Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 2
+      },
+      "layout": {
+        "collapsed": [
+          "6810661afa8d4e3975656521",
+          "6810662ffa8d4e3975656522",
+          "68106684fa8d4e3975656533",
+          "6810677bfa8d4e3975656539",
+          "681067cefa8d4e397565653a",
+          "681067e4fa8d4e397565653b",
+          "6810683dfa8d4e397565653e"
+        ]
+      },
+      "layout.1.sliderImages": {
+        "collapsed": [
+          "68106634fa8d4e3975656523"
+        ]
+      },
+      "layout.2._index-0": {
+        "tabIndex": 0
+      },
+      "layout.2.gridItems.0.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "681066b4fa8d4e3975656535"
+        ]
+      },
+      "layout.2.gridItems": {
+        "collapsed": [
+          "681066aafa8d4e3975656534",
+          "681066d2fa8d4e3975656536"
+        ]
+      },
+      "layout.6._index-0": {
+        "tabIndex": 0
+      },
+      "layout.6.gridItems": {
+        "collapsed": [
+          "681066aafa8d4e3975656534",
+          "681066d2fa8d4e3975656536"
+        ]
+      },
+      "layout.6.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "681066defa8d4e3975656537"
+        ]
+      },
+      "layout.7._index-0": {
+        "tabIndex": 1
+      },
+      "layout.7.gridItems": {
+        "collapsed": [
+          "6810690bfa8d4e397565654b"
+        ]
+      },
+      "layout.7.gridItems.1.gridItemGroup._index-0": {
+        "tabIndex": 0
+      },
+      "layout.7.gridItems.1.gridItemGroup.gridItemBlock": {
+        "collapsed": [
+          "6810697afa8d4e397565654f"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68106e8e49747cfaf5fa8b54"
+  },
+  "key": "collection-pages-68106566db6b6ffaf6e7cf12",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f774d6744cb408e43da95d"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-29T06:15:42.787Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-29T06:15:43.681Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6810c8a549747cfaf5fa92f5"
+  },
+  "key": "collection-resources-673845cd2e0f7d3d1cd61867",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67596aaf423eb66fa18ec90b"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-04-29T12:40:05.611Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-29T13:55:22.957Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68159e4e49747cfaf5faa6ea"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "collection-reports-67f759cf744cb408e43da051",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-05-03T04:40:45.923Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T04:40:45.923Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6824751002deb8121b5553e9"
+  },
+  "key": "collection-pages-670786cec9be5b62da765590",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67f774d6744cb408e43da95d"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-05-14T10:48:48.311Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-14T10:48:48.311Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "683d46f681f3d0bb6e5ba5ea"
+  },
+  "createdAt": {
+    "$date": "2025-06-02T06:38:46.420Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-02T06:38:46.420Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "key": "resources-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683d66f578b78df62544aaac"
+  },
+  "createdAt": {
+    "$date": "2025-06-02T08:55:17.929Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-02T09:00:26.579Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "key": "reports-list",
+  "value": {
+    "preset": null,
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683d69bf78b78df62544aaf2"
+  },
+  "createdAt": {
+    "$date": "2025-06-02T09:07:11.373Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-02T09:07:11.373Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "key": "news-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683d69c878b78df62544ab00"
+  },
+  "createdAt": {
+    "$date": "2025-06-02T09:07:20.721Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-02T09:07:20.721Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "key": "videos-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683e7b147615f4d3fd44df0e"
+  },
+  "createdAt": {
+    "$date": "2025-06-03T04:33:24.242Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-03T04:40:53.480Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "key": "blogCategories-list",
+  "value": {
+    "preset": null,
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683e8901339471684d199504"
+  },
+  "createdAt": {
+    "$date": "2025-06-03T05:32:49.574Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-03T07:07:29.558Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "key": "blog-list",
+  "value": {
+    "preset": null,
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683e895b339471684d199689"
+  },
+  "createdAt": {
+    "$date": "2025-06-03T05:34:19.149Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-03T07:07:47.882Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "key": "media-list",
+  "value": {
+    "preset": null,
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683fc97838a37642891e1a5c"
+  },
+  "key": "collection-pages-68106566db6b6ffaf6e7cf12",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-04T04:20:08.401Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-04T04:20:08.401Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "683fcc7d38a37642891e1a7e"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "key": "collection-pages-683fcc4edf47cca34a685bed",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-04T04:33:01.297Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-04T06:54:39.582Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "684bb5894211816b2c478f63"
+  },
+  "createdAt": {
+    "$date": "2025-06-13T05:22:17.081Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T05:22:30.090Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "blogCategories-list",
+  "value": {
+    "preset": null,
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bb6004211816b2c4790f1"
+  },
+  "createdAt": {
+    "$date": "2025-06-13T05:24:16.790Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T02:49:17.059Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "blog-list",
+  "value": {
+    "preset": null,
+    "limit": 100,
+    "columns": [
+      {
+        "accessor": "title",
+        "active": true
+      },
+      {
+        "accessor": "slug",
+        "active": true
+      },
+      {
+        "accessor": "updatedAt",
+        "active": true
+      },
+      {
+        "accessor": "id",
+        "active": false
+      },
+      {
+        "accessor": "thumbNail",
+        "active": true
+      },
+      {
+        "accessor": "bannerImage",
+        "active": false
+      },
+      {
+        "accessor": "breadcrumbColor",
+        "active": false
+      },
+      {
+        "accessor": "duration",
+        "active": false
+      },
+      {
+        "accessor": "abstract",
+        "active": false
+      },
+      {
+        "accessor": "content",
+        "active": false
+      },
+      {
+        "accessor": "relatedArticles",
+        "active": false
+      },
+      {
+        "accessor": "meta",
+        "active": false
+      },
+      {
+        "accessor": "publishedAt",
+        "active": true
+      },
+      {
+        "accessor": "category",
+        "active": false
+      },
+      {
+        "accessor": "author",
+        "active": false
+      },
+      {
+        "accessor": "slugLock",
+        "active": false
+      },
+      {
+        "accessor": "parent",
+        "active": false
+      },
+      {
+        "accessor": "customCSS",
+        "active": false
+      },
+      {
+        "accessor": "customScripts",
+        "active": false
+      },
+      {
+        "accessor": "createdAt",
+        "active": true
+      },
+      {
+        "accessor": "_status",
+        "active": false
+      }
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c02fe4211816b2c479eb1"
+  },
+  "createdAt": {
+    "$date": "2025-06-13T10:52:46.301Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T10:52:46.301Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "categories-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864ab4ba98ffc66abd32943"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T03:45:15.969Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T12:51:44.070Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "key": "collection-blog",
+  "value": {
+    "preset": null,
+    "limit": 100,
+    "columns": [
+      {
+        "accessor": "title",
+        "active": true
+      },
+      {
+        "accessor": "slug",
+        "active": true
+      },
+      {
+        "accessor": "updatedAt",
+        "active": true
+      },
+      {
+        "accessor": "id",
+        "active": false
+      },
+      {
+        "accessor": "thumbNail",
+        "active": false
+      },
+      {
+        "accessor": "bannerImage",
+        "active": false
+      },
+      {
+        "accessor": "breadcrumbColor",
+        "active": false
+      },
+      {
+        "accessor": "duration",
+        "active": false
+      },
+      {
+        "accessor": "abstract",
+        "active": false
+      },
+      {
+        "accessor": "content",
+        "active": false
+      },
+      {
+        "accessor": "relatedArticles",
+        "active": false
+      },
+      {
+        "accessor": "meta.overview",
+        "active": false
+      },
+      {
+        "accessor": "meta.title",
+        "active": false
+      },
+      {
+        "accessor": "meta.image",
+        "active": false
+      },
+      {
+        "accessor": "meta.description",
+        "active": false
+      },
+      {
+        "accessor": "meta.preview",
+        "active": false
+      },
+      {
+        "accessor": "publishedAt",
+        "active": false
+      },
+      {
+        "accessor": "category",
+        "active": false
+      },
+      {
+        "accessor": "author",
+        "active": false
+      },
+      {
+        "accessor": "slugLock",
+        "active": false
+      },
+      {
+        "accessor": "parent",
+        "active": false
+      },
+      {
+        "accessor": "customCSS",
+        "active": false
+      },
+      {
+        "accessor": "customScripts",
+        "active": false
+      },
+      {
+        "accessor": "createdAt",
+        "active": true
+      },
+      {
+        "accessor": "_status",
+        "active": true
+      }
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864ab6da98ffc66abd32982"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T03:45:49.129Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T03:45:49.129Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "key": "collection-media",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864d4bfa98ffc66abd32ab4"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T06:42:07.433Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T06:44:06.729Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "key": "collection-blogCategories",
+  "value": {
+    "preset": null,
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68653cbcb2d15d690d694686"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T14:05:48.412Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-02T14:05:48.412Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "key": "collection-pages",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68663462bbb6cc6a7c952602"
+  },
+  "key": "global-blogNav",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-03T07:42:25.973Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-03T07:42:25.973Z"
+  },
+  "value": {
+    "fields": {
+      "categories": {
+        "collapsed": [
+          "686634287f824e321fe7b310"
+        ]
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "686e30e97a39b8fd3615b145"
+  },
+  "createdAt": {
+    "$date": "2025-07-09T09:05:45.830Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-09T09:05:54.083Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67596aaf423eb66fa18ec90b"
+    }
+  },
+  "key": "blogCategories-list",
+  "value": {
+    "preset": null,
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686e31107a39b8fd3615b186"
+  },
+  "createdAt": {
+    "$date": "2025-07-09T09:06:24.786Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-09T09:06:24.786Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67596aaf423eb66fa18ec90b"
+    }
+  },
+  "key": "blog-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6875fe8e7a39b8fd3615bd1e"
+  },
+  "createdAt": {
+    "$date": "2025-07-15T07:09:02.326Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-07T05:17:29.294Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "key": "blog-list",
+  "value": {
+    "preset": null,
+    "columns": [
+      {
+        "accessor": "title",
+        "active": true
+      },
+      {
+        "accessor": "slug",
+        "active": false
+      },
+      {
+        "accessor": "updatedAt",
+        "active": false
+      },
+      {
+        "accessor": "id",
+        "active": false
+      },
+      {
+        "accessor": "thumbNail",
+        "active": false
+      },
+      {
+        "accessor": "bannerImage",
+        "active": false
+      },
+      {
+        "accessor": "breadcrumbColor",
+        "active": false
+      },
+      {
+        "accessor": "duration",
+        "active": false
+      },
+      {
+        "accessor": "abstract",
+        "active": false
+      },
+      {
+        "accessor": "content",
+        "active": false
+      },
+      {
+        "accessor": "relatedArticles",
+        "active": false
+      },
+      {
+        "accessor": "meta",
+        "active": false
+      },
+      {
+        "accessor": "publishedAt",
+        "active": false
+      },
+      {
+        "accessor": "category",
+        "active": false
+      },
+      {
+        "accessor": "author",
+        "active": true
+      },
+      {
+        "accessor": "slugLock",
+        "active": false
+      },
+      {
+        "accessor": "parent",
+        "active": false
+      },
+      {
+        "accessor": "customCSS",
+        "active": false
+      },
+      {
+        "accessor": "customScripts",
+        "active": false
+      },
+      {
+        "accessor": "createdAt",
+        "active": false
+      },
+      {
+        "accessor": "_status",
+        "active": false
+      }
+    ],
+    "limit": 10,
+    "sort": "category"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6875ff367a39b8fd3615be8e"
+  },
+  "createdAt": {
+    "$date": "2025-07-15T07:11:50.713Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-15T08:50:42.136Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "key": "blogCategories-list",
+  "value": {
+    "preset": null,
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6876003787b2e21dd0fd036a"
+  },
+  "key": "collection-blogCategories-6875ff3a7a39b8fd3615be94",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T07:16:07.036Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-15T07:16:07.036Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 0
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "689431f4c7281bd0c1383142"
+  },
+  "key": "collection-blog-6892daa0e2acdbf38b88aaa6",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-07T04:56:20.357Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-07T04:56:20.357Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68943632c7281bd0c1383147"
+  },
+  "key": "collection-blog-6892dacde2acdbf38b88b250",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-07T05:14:26.159Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-07T05:14:26.159Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68943723c7281bd0c138314b"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "key": "collection-blog-6892da81e2acdbf38b88a676",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-07T05:18:27.056Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-07T05:18:27.056Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6894394ac7281bd0c138314f"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "key": "collection-blog-6892da8ce2acdbf38b88a7c0",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-07T05:27:38.435Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-07T05:35:56.184Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68a59993ee4fe361077be160"
+  },
+  "createdAt": {
+    "$date": "2025-08-20T09:46:59.381Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-03T08:52:36.398Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "66e51849cac79be149aac78e"
+    }
+  },
+  "key": "users-list",
+  "value": {
+    "preset": null,
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ac3cb3546f7650e15980cd"
+  },
+  "createdAt": {
+    "$date": "2025-08-25T10:36:35.181Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T10:36:51.733Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "key": "users-list",
+  "value": {
+    "preset": null,
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ac4275546f7650e1598348"
+  },
+  "createdAt": {
+    "$date": "2025-08-25T11:01:10.006Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T11:15:46.199Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "68ac4074546f7650e15982f6"
+    }
+  },
+  "key": "users-list",
+  "value": {
+    "preset": null,
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ac42a1546f7650e159836c"
+  },
+  "createdAt": {
+    "$date": "2025-08-25T11:01:53.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T11:07:51.737Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "68ac405d546f7650e15982db"
+    }
+  },
+  "key": "users-list",
+  "value": {
+    "preset": null,
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ac4803546f7650e159852e"
+  },
+  "createdAt": {
+    "$date": "2025-08-25T11:24:51.089Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T11:24:51.089Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "68ac4074546f7650e15982f6"
+    }
+  },
+  "key": "blogCategories-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ac4804546f7650e1598536"
+  },
+  "createdAt": {
+    "$date": "2025-08-25T11:24:52.137Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T11:24:55.008Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "68ac4074546f7650e15982f6"
+    }
+  },
+  "key": "blog-list",
+  "value": {
+    "preset": null,
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68acc81c546f7650e1598640"
+  },
+  "createdAt": {
+    "$date": "2025-08-25T20:31:24.306Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T20:31:28.980Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "68ac4074546f7650e15982f6"
+    }
+  },
+  "key": "news-list",
+  "value": {
+    "preset": null,
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68acd4244ae6d5077de221a5"
+  },
+  "createdAt": {
+    "$date": "2025-08-25T21:22:44.900Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T21:22:44.900Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "68ac405d546f7650e15982db"
+    }
+  },
+  "key": "blog-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68acd9544ae6d5077de22384"
+  },
+  "createdAt": {
+    "$date": "2025-08-25T21:44:52.332Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T21:44:52.332Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "68ac405d546f7650e15982db"
+    }
+  },
+  "key": "media-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68acdb124ae6d5077de227ab"
+  },
+  "createdAt": {
+    "$date": "2025-08-25T21:52:18.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T22:01:30.671Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "68acdafa4ae6d5077de22786"
+    }
+  },
+  "key": "blog-list",
+  "value": {
+    "preset": null,
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ace596c45f0fd7330a232a"
+  },
+  "createdAt": {
+    "$date": "2025-08-25T22:37:10.542Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T22:37:10.542Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "68acdafa4ae6d5077de22786"
+    }
+  },
+  "key": "users-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ad45ca979c29c1e9daaee6"
+  },
+  "createdAt": {
+    "$date": "2025-08-26T05:27:39.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T05:28:02.615Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "68ad455e979c29c1e9daaec6"
+    }
+  },
+  "key": "blog-list",
+  "value": {
+    "preset": null,
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ad46ba979c29c1e9dab004"
+  },
+  "createdAt": {
+    "$date": "2025-08-26T05:31:38.370Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T05:31:38.370Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "68ad455e979c29c1e9daaec6"
+    }
+  },
+  "key": "media-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ad478f979c29c1e9dab242"
+  },
+  "createdAt": {
+    "$date": "2025-08-26T05:35:11.896Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T05:35:57.672Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "68ad455e979c29c1e9daaec6"
+    }
+  },
+  "key": "blogCategories-list",
+  "value": {
+    "preset": null,
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ad479c40c4ce4250e9f5d9"
+  },
+  "key": "nav",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "68ad455e979c29c1e9daaec6"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-26T05:35:24.492Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T05:35:25.520Z"
+  },
+  "value": {
+    "open": true
+  }
+},
+{
+  "_id": {
+    "$oid": "68ad47e1979c29c1e9dab2d4"
+  },
+  "createdAt": {
+    "$date": "2025-08-26T05:36:33.177Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T05:36:33.177Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "68ad455e979c29c1e9daaec6"
+    }
+  },
+  "key": "users-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ad4f2f979c29c1e9dab746"
+  },
+  "createdAt": {
+    "$date": "2025-08-26T06:07:43.017Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T06:07:43.017Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "68acdafa4ae6d5077de22786"
+    }
+  },
+  "key": "media-list",
+  "value": {
+    "preset": null
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ad86f6f8cb56099672d907"
+  },
+  "createdAt": {
+    "$date": "2025-08-26T10:05:42.915Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T10:21:19.148Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "68ac405d546f7650e15982db"
+    }
+  },
+  "key": "blogCategories-list",
+  "value": {
+    "preset": null,
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ad874ef8cb56099672db0f"
+  },
+  "createdAt": {
+    "$date": "2025-08-26T10:07:10.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T10:09:25.696Z"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "68acdafa4ae6d5077de22786"
+    }
+  },
+  "key": "blogCategories-list",
+  "value": {
+    "preset": null,
+    "limit": 10
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b5eacc3529ba69d5206013"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "67cf41e5f7cb33eb9eb2366a"
+    }
+  },
+  "key": "collection-blog-6892dae1e2acdbf38b88b588",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-01T18:49:48.051Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T18:49:48.051Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68b82bc31ad3b9f5481897eb"
+  },
+  "key": "collection-blog-6892da89e2acdbf38b88a740",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-03T11:51:31.211Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-03T11:51:31.211Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68b82c8b1ad3b9f5481897ee"
+  },
+  "key": "collection-blog-6892da8ce2acdbf38b88a7a8",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-03T11:54:51.735Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-03T11:55:05.776Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 3
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "68b97beb1ad3b9f54818a935"
+  },
+  "key": "collection-blog-6892da89e2acdbf38b88a756",
+  "user": {
+    "relationTo": "users",
+    "value": {
+      "$oid": "670f8958485cf9405abbd0e3"
+    }
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-04T11:45:47.193Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T11:46:06.089Z"
+  },
+  "value": {
+    "fields": {
+      "_index-1": {
+        "tabIndex": 1
+      }
+    }
+  }
+}]

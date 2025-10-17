@@ -1,0 +1,224 @@
+[{
+  "_id": {
+    "$oid": "674c29ccc1bc517b9b1036d4"
+  },
+  "title": "Test Video",
+  "articleId": "67397a4a5d8910d5070852fd",
+  "articleCollectionSlug": "videos",
+  "article": {
+    "relationTo": "videos",
+    "value": {
+      "$oid": "67397a4a5d8910d5070852fd"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-12-01T09:18:04.526Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-27T10:53:06.644Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674c2a15c1bc517b9b103812"
+  },
+  "title": "Article one",
+  "articleId": "674c0781819e91172719ebae",
+  "articleCollectionSlug": "news",
+  "article": {
+    "relationTo": "news",
+    "value": {
+      "$oid": "674c0781819e91172719ebae"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-12-01T09:19:17.487Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-08T10:38:10.336Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674c2a22c1bc517b9b103894"
+  },
+  "title": "Article two",
+  "articleId": "674c0544819e91172719e779",
+  "articleCollectionSlug": "news",
+  "article": {
+    "relationTo": "news",
+    "value": {
+      "$oid": "674c0544819e91172719e779"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-12-01T09:19:30.520Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-08T09:39:34.544Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674c2a3dc1bc517b9b1038fd"
+  },
+  "title": "Report One",
+  "articleId": "674c0b37819e91172719ede4",
+  "articleCollectionSlug": "reports",
+  "article": {
+    "relationTo": "reports",
+    "value": {
+      "$oid": "674c0b37819e91172719ede4"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-12-01T09:19:57.645Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T07:33:47.242Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bff79c48c41c3755abff45"
+  },
+  "articleId": "67bff28d6e6e9bb8618b86a2",
+  "articleCollectionSlug": "news",
+  "article": {
+    "relationTo": "news",
+    "value": {
+      "$oid": "67bff28d6e6e9bb8618b86a2"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-02-27T05:26:52.501Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-25T06:16:01.130Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c02e1848c41c3755ac3009"
+  },
+  "articleId": "67c0071848c41c3755ac0ec0",
+  "articleCollectionSlug": "news",
+  "article": {
+    "relationTo": "news",
+    "value": {
+      "$oid": "67c0071848c41c3755ac0ec0"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-02-27T09:19:20.078Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-02T02:19:11.368Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c035d348c41c3755ac3b79"
+  },
+  "articleId": "67bffcbe48c41c3755ac05c6",
+  "articleCollectionSlug": "news",
+  "article": {
+    "relationTo": "news",
+    "value": {
+      "$oid": "67bffcbe48c41c3755ac05c6"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-02-27T09:52:19.652Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-25T06:14:56.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1352048c41c3755ac5dd5"
+  },
+  "articleId": "67c130d848c41c3755ac54d1",
+  "articleCollectionSlug": "reports",
+  "article": {
+    "relationTo": "reports",
+    "value": {
+      "$oid": "67c130d848c41c3755ac54d1"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-02-28T04:01:36.959Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-25T06:17:04.321Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1385e48c41c3755ac66fd"
+  },
+  "articleId": "67c1359d48c41c3755ac5f11",
+  "articleCollectionSlug": "reports",
+  "article": {
+    "relationTo": "reports",
+    "value": {
+      "$oid": "67c1359d48c41c3755ac5f11"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-02-28T04:15:26.640Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-25T06:16:52.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c1463348c41c3755ac758e"
+  },
+  "articleId": "67c13d0d48c41c3755ac6c1a",
+  "articleCollectionSlug": "reports",
+  "article": {
+    "relationTo": "reports",
+    "value": {
+      "$oid": "67c13d0d48c41c3755ac6c1a"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-02-28T05:14:27.861Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-08T10:15:45.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d93aa2692ed0249b823ad2"
+  },
+  "articleId": "67d92164d0488faffca7d9cb",
+  "articleCollectionSlug": "reports",
+  "article": {
+    "relationTo": "reports",
+    "value": {
+      "$oid": "67d92164d0488faffca7d9cb"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-03-18T09:19:30.360Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-18T09:19:30.360Z"
+  },
+  "__v": 0
+}]

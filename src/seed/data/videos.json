@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "67397a4a5d8910d5070852fd"
+  },
+  "meta": {},
+  "slugLock": true,
+  "breadcrumbs": [
+    {
+      "doc": {
+        "$oid": "67397a4a5d8910d5070852fd"
+      },
+      "url": "/test-video",
+      "label": "Test Video",
+      "id": "67c044127d19e30028bbe020"
+    }
+  ],
+  "_status": "published",
+  "createdAt": {
+    "$date": "2024-11-17T05:08:26.456Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-27T10:53:06.442Z"
+  },
+  "__v": 0,
+  "publishedAt": {
+    "$date": "2024-11-17T05:09:19.954Z"
+  },
+  "slug": "test-video",
+  "sourceType": "fileUpload",
+  "sourceURL": "https://videos.pexels.com/video-files/1085978/1085978-hd_1920_1080_25fps.mp4",
+  "title": "Test Video",
+  "thumbNail": {
+    "$oid": "67befea56e6e9bb8618b6757"
+  },
+  "sourceFile": {
+    "$oid": "6789da193a643084179eb69c"
+  },
+  "duration": 3.4
+}]

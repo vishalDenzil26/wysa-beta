@@ -1,0 +1,15 @@
+build
+dist / media
+node_modules
+.DS_Store
+.env
+.next
+.vercel
+.dev.vars
+.worker-next
+.wrangler
+# Payload default media upload directory
+public/media/
+
+# Sentry Config File
+.env.sentry-build-plugin

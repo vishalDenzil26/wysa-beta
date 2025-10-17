@@ -1,0 +1,796 @@
+[{
+  "_id": {
+    "$oid": "67397a4a5d8910d5070852ff"
+  },
+  "parent": {
+    "$oid": "67397a4a5d8910d5070852fd"
+  },
+  "version": {
+    "meta": {},
+    "slugLock": true,
+    "breadcrumbs": [
+      {
+        "id": "67397a4ae63c5f55af95bc05"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2024-11-17T05:08:26.456Z"
+    },
+    "createdAt": {
+      "$date": "2024-11-17T05:08:26.456Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T05:08:26.456Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T05:08:26.456Z"
+  },
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67397a4b5d8910d507085308"
+  },
+  "parent": {
+    "$oid": "67397a4a5d8910d5070852fd"
+  },
+  "version": {
+    "meta": {},
+    "slugLock": true,
+    "breadcrumbs": [
+      {
+        "doc": "67397a4a5d8910d5070852fd",
+        "id": "67397a4be63c5f55af95bc06"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2024-11-17T05:08:26.456Z"
+    },
+    "createdAt": {
+      "$date": "2024-11-17T05:08:26.456Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T05:08:26.456Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T05:08:27.103Z"
+  },
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67397a4e5d8910d507085336"
+  },
+  "parent": {
+    "$oid": "67397a4a5d8910d5070852fd"
+  },
+  "version": {
+    "title": "Test Video",
+    "sourceType": "fileURL",
+    "sourceURL": "https://somve.mp4",
+    "meta": {},
+    "publishedAt": {
+      "$date": "2024-11-17T05:09:09.936Z"
+    },
+    "slug": "test-video",
+    "slugLock": true,
+    "breadcrumbs": [
+      {
+        "doc": "67397a4a5d8910d5070852fd",
+        "label": "Test Video",
+        "id": "67397a75e63c5f55af95bc21"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2024-11-17T05:08:27.103Z"
+    },
+    "createdAt": {
+      "$date": "2024-11-17T05:08:26.456Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T05:08:26.456Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T05:09:09.936Z"
+  },
+  "autosave": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67397a7f5d8910d507085548"
+  },
+  "parent": {
+    "$oid": "67397a4a5d8910d5070852fd"
+  },
+  "version": {
+    "title": "Test Video",
+    "sourceType": "fileURL",
+    "sourceURL": "https://somve.mp4",
+    "meta": {},
+    "publishedAt": {
+      "$date": "2024-11-17T05:09:19.954Z"
+    },
+    "slug": "test-video",
+    "slugLock": true,
+    "breadcrumbs": [
+      {
+        "doc": "67397a4a5d8910d5070852fd",
+        "label": "Test Video",
+        "id": "67397a7fe63c5f55af95bc22"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2024-11-17T05:09:19.957Z"
+    },
+    "createdAt": {
+      "$date": "2024-11-17T05:08:26.456Z"
+    },
+    "_status": "published"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T05:08:26.456Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T05:09:19.957Z"
+  },
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674b25e8541c4373eb589c88"
+  },
+  "parent": {
+    "$oid": "67397a4a5d8910d5070852fd"
+  },
+  "version": {
+    "title": "Test Video",
+    "thumbNail": {
+      "$oid": "67093f990566b35702e3964e"
+    },
+    "sourceType": "fileURL",
+    "sourceURL": "https://somve.mp4",
+    "meta": {},
+    "publishedAt": {
+      "$date": "2024-11-17T05:09:19.954Z"
+    },
+    "slug": "test-video",
+    "slugLock": true,
+    "breadcrumbs": [
+      {
+        "doc": "67397a4a5d8910d5070852fd",
+        "label": "Test Video",
+        "id": "674b25e8f07b32e2e44184c6"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2024-11-17T05:09:19.957Z"
+    },
+    "createdAt": {
+      "$date": "2024-11-17T05:08:26.456Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T05:08:26.456Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-30T14:49:12.518Z"
+  },
+  "autosave": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674b25ec541c4373eb589caa"
+  },
+  "parent": {
+    "$oid": "67397a4a5d8910d5070852fd"
+  },
+  "version": {
+    "title": "Test Video",
+    "thumbNail": {
+      "$oid": "67093f990566b35702e3964e"
+    },
+    "sourceType": "fileURL",
+    "sourceURL": "https://somve.mp4",
+    "meta": {},
+    "publishedAt": {
+      "$date": "2024-11-17T05:09:19.954Z"
+    },
+    "slug": "test-video",
+    "slugLock": true,
+    "breadcrumbs": [
+      {
+        "doc": "67397a4a5d8910d5070852fd",
+        "label": "Test Video",
+        "id": "674b25ecf07b32e2e44184c9"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2024-11-30T14:49:16.308Z"
+    },
+    "createdAt": {
+      "$date": "2024-11-17T05:08:26.456Z"
+    },
+    "_status": "published"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T05:08:26.456Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-30T14:49:16.308Z"
+  },
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674b2cc7a2a5f312b731067d"
+  },
+  "parent": {
+    "$oid": "67397a4a5d8910d5070852fd"
+  },
+  "version": {
+    "title": "Test Video",
+    "thumbNail": {
+      "$oid": "67093f990566b35702e3964e"
+    },
+    "sourceType": "fileURL",
+    "sourceURL": "https://videos.pexels.com/video-files/1085978/1085978-hd_1920_1080_25fps.mp4",
+    "meta": {},
+    "publishedAt": {
+      "$date": "2024-11-17T05:09:19.954Z"
+    },
+    "slug": "test-video",
+    "slugLock": true,
+    "breadcrumbs": [
+      {
+        "doc": "67397a4a5d8910d5070852fd",
+        "label": "Test Video",
+        "id": "674b2cc775b9356b6343f540"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2024-11-30T14:49:16.308Z"
+    },
+    "createdAt": {
+      "$date": "2024-11-17T05:08:26.456Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T05:08:26.456Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-30T15:18:31.532Z"
+  },
+  "autosave": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674b2cc9a2a5f312b73106a4"
+  },
+  "parent": {
+    "$oid": "67397a4a5d8910d5070852fd"
+  },
+  "version": {
+    "title": "Test Video",
+    "thumbNail": {
+      "$oid": "67093f990566b35702e3964e"
+    },
+    "sourceType": "fileURL",
+    "sourceURL": "https://videos.pexels.com/video-files/1085978/1085978-hd_1920_1080_25fps.mp4",
+    "meta": {},
+    "publishedAt": {
+      "$date": "2024-11-17T05:09:19.954Z"
+    },
+    "slug": "test-video",
+    "slugLock": true,
+    "breadcrumbs": [
+      {
+        "doc": "67397a4a5d8910d5070852fd",
+        "label": "Test Video",
+        "id": "674b2cc875b9356b6343f541"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2024-11-30T15:18:33.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-11-17T05:08:26.456Z"
+    },
+    "_status": "published"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T05:08:26.456Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-30T15:18:33.000Z"
+  },
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674bd3a5a2a5f312b7310967"
+  },
+  "parent": {
+    "$oid": "67397a4a5d8910d5070852fd"
+  },
+  "version": {
+    "title": "Test Video",
+    "thumbNail": {
+      "$oid": "67093f990566b35702e3964e"
+    },
+    "sourceType": "fileUpload",
+    "sourceURL": "https://videos.pexels.com/video-files/1085978/1085978-hd_1920_1080_25fps.mp4",
+    "sourceFile": {
+      "$oid": "674bd45fa2a5f312b7310a11"
+    },
+    "meta": {},
+    "publishedAt": {
+      "$date": "2024-11-17T05:09:19.954Z"
+    },
+    "slug": "test-video",
+    "slugLock": true,
+    "breadcrumbs": [
+      {
+        "doc": "67397a4a5d8910d5070852fd",
+        "label": "Test Video",
+        "id": "674bd4612da67d6b63f74d07"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2024-11-30T15:18:33.000Z"
+    },
+    "createdAt": {
+      "$date": "2024-11-17T05:08:26.456Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T05:08:26.456Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-01T03:13:37.147Z"
+  },
+  "autosave": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674bd466a2a5f312b7310a65"
+  },
+  "parent": {
+    "$oid": "67397a4a5d8910d5070852fd"
+  },
+  "version": {
+    "title": "Test Video",
+    "thumbNail": {
+      "$oid": "67093f990566b35702e3964e"
+    },
+    "sourceType": "fileUpload",
+    "sourceURL": "https://videos.pexels.com/video-files/1085978/1085978-hd_1920_1080_25fps.mp4",
+    "sourceFile": {
+      "$oid": "674bd45fa2a5f312b7310a11"
+    },
+    "meta": {},
+    "publishedAt": {
+      "$date": "2024-11-17T05:09:19.954Z"
+    },
+    "slug": "test-video",
+    "slugLock": true,
+    "breadcrumbs": [
+      {
+        "doc": "67397a4a5d8910d5070852fd",
+        "label": "Test Video",
+        "id": "674bd4662da67d6b63f74d08"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2024-12-01T03:13:42.251Z"
+    },
+    "createdAt": {
+      "$date": "2024-11-17T05:08:26.456Z"
+    },
+    "_status": "published"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T05:08:26.456Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-01T03:13:42.251Z"
+  },
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674bd690a2a5f312b7310b05"
+  },
+  "parent": {
+    "$oid": "67397a4a5d8910d5070852fd"
+  },
+  "version": {
+    "title": "Test Video",
+    "thumbNail": {
+      "$oid": "67093f990566b35702e3964e"
+    },
+    "sourceType": "fileUpload",
+    "sourceURL": "https://videos.pexels.com/video-files/1085978/1085978-hd_1920_1080_25fps.mp4",
+    "sourceFile": {
+      "$oid": "674bd6a1a2a5f312b7310b29"
+    },
+    "meta": {},
+    "publishedAt": {
+      "$date": "2024-11-17T05:09:19.954Z"
+    },
+    "slug": "test-video",
+    "slugLock": true,
+    "breadcrumbs": [
+      {
+        "doc": "67397a4a5d8910d5070852fd",
+        "label": "Test Video",
+        "id": "674bd6a2996afa6b6385fb7f"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2024-12-01T03:13:42.251Z"
+    },
+    "createdAt": {
+      "$date": "2024-11-17T05:08:26.456Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T05:08:26.456Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-01T03:23:14.461Z"
+  },
+  "autosave": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674bd6a4a2a5f312b7310b71"
+  },
+  "parent": {
+    "$oid": "67397a4a5d8910d5070852fd"
+  },
+  "version": {
+    "title": "Test Video",
+    "thumbNail": {
+      "$oid": "67093f990566b35702e3964e"
+    },
+    "sourceType": "fileUpload",
+    "sourceURL": "https://videos.pexels.com/video-files/1085978/1085978-hd_1920_1080_25fps.mp4",
+    "sourceFile": {
+      "$oid": "674bd6a1a2a5f312b7310b29"
+    },
+    "meta": {},
+    "publishedAt": {
+      "$date": "2024-11-17T05:09:19.954Z"
+    },
+    "slug": "test-video",
+    "slugLock": true,
+    "breadcrumbs": [
+      {
+        "doc": "67397a4a5d8910d5070852fd",
+        "label": "Test Video",
+        "id": "674bd6a4996afa6b6385fb80"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2024-12-01T03:23:16.036Z"
+    },
+    "createdAt": {
+      "$date": "2024-11-17T05:08:26.456Z"
+    },
+    "_status": "published"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T05:08:26.456Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-01T03:23:16.036Z"
+  },
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674c29cac1bc517b9b10369a"
+  },
+  "parent": {
+    "$oid": "67397a4a5d8910d5070852fd"
+  },
+  "version": {
+    "title": "Test Video",
+    "thumbNail": {
+      "$oid": "67093f990566b35702e3964e"
+    },
+    "sourceType": "fileUpload",
+    "sourceURL": "https://videos.pexels.com/video-files/1085978/1085978-hd_1920_1080_25fps.mp4",
+    "sourceFile": {
+      "$oid": "674bd6a1a2a5f312b7310b29"
+    },
+    "meta": {},
+    "publishedAt": {
+      "$date": "2024-11-17T05:09:19.954Z"
+    },
+    "slug": "test-video",
+    "slugLock": true,
+    "breadcrumbs": [
+      {
+        "doc": "67397a4a5d8910d5070852fd",
+        "label": "Test Video",
+        "id": "674c29cae0384d4ec416ce50"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2024-12-01T03:23:16.036Z"
+    },
+    "createdAt": {
+      "$date": "2024-11-17T05:08:26.456Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T05:08:26.456Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-01T09:18:02.657Z"
+  },
+  "autosave": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674c29ccc1bc517b9b1036ca"
+  },
+  "parent": {
+    "$oid": "67397a4a5d8910d5070852fd"
+  },
+  "version": {
+    "title": "Test Video",
+    "thumbNail": {
+      "$oid": "67093f990566b35702e3964e"
+    },
+    "sourceType": "fileUpload",
+    "sourceURL": "https://videos.pexels.com/video-files/1085978/1085978-hd_1920_1080_25fps.mp4",
+    "sourceFile": {
+      "$oid": "674bd6a1a2a5f312b7310b29"
+    },
+    "meta": {},
+    "publishedAt": {
+      "$date": "2024-11-17T05:09:19.954Z"
+    },
+    "slug": "test-video",
+    "slugLock": true,
+    "breadcrumbs": [
+      {
+        "doc": "67397a4a5d8910d5070852fd",
+        "label": "Test Video",
+        "id": "674c29cce0384d4ec416ce51"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2024-12-01T09:18:04.279Z"
+    },
+    "createdAt": {
+      "$date": "2024-11-17T05:08:26.456Z"
+    },
+    "_status": "published"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T05:08:26.456Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-01T09:18:04.279Z"
+  },
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674c414d30f6bbde722eb789"
+  },
+  "parent": {
+    "$oid": "67397a4a5d8910d5070852fd"
+  },
+  "version": {
+    "title": "Test Video",
+    "thumbNail": {
+      "$oid": "67093f990566b35702e3964e"
+    },
+    "duration": 3.4,
+    "sourceFile": {
+      "$oid": "674bd6a1a2a5f312b7310b29"
+    },
+    "meta": {},
+    "publishedAt": {
+      "$date": "2024-11-17T05:09:19.954Z"
+    },
+    "slug": "test-video",
+    "slugLock": true,
+    "breadcrumbs": [
+      {
+        "doc": "67397a4a5d8910d5070852fd",
+        "label": "Test Video",
+        "id": "674c414e152700638a7f4ce7"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2024-12-01T09:18:04.279Z"
+    },
+    "createdAt": {
+      "$date": "2024-11-17T05:08:26.456Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T05:08:26.456Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-01T10:58:22.200Z"
+  },
+  "autosave": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674c415330f6bbde722eb7b7"
+  },
+  "parent": {
+    "$oid": "67397a4a5d8910d5070852fd"
+  },
+  "version": {
+    "title": "Test Video",
+    "thumbNail": {
+      "$oid": "67093f990566b35702e3964e"
+    },
+    "duration": 3.4,
+    "sourceFile": {
+      "$oid": "674bd6a1a2a5f312b7310b29"
+    },
+    "meta": {},
+    "publishedAt": {
+      "$date": "2024-11-17T05:09:19.954Z"
+    },
+    "slug": "test-video",
+    "slugLock": true,
+    "breadcrumbs": [
+      {
+        "doc": "67397a4a5d8910d5070852fd",
+        "label": "Test Video",
+        "id": "674c4153152700638a7f4ce8"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2024-12-01T10:58:27.284Z"
+    },
+    "createdAt": {
+      "$date": "2024-11-17T05:08:26.456Z"
+    },
+    "_status": "published"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T05:08:26.456Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-01T10:58:27.284Z"
+  },
+  "autosave": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c043eb48c41c3755ac4a0f"
+  },
+  "parent": {
+    "$oid": "67397a4a5d8910d5070852fd"
+  },
+  "version": {
+    "title": "Test Video",
+    "thumbNail": {
+      "$oid": "67befea56e6e9bb8618b6757"
+    },
+    "duration": 3.4,
+    "sourceFile": {
+      "$oid": "6789da193a643084179eb69c"
+    },
+    "meta": {},
+    "publishedAt": {
+      "$date": "2024-11-17T05:09:19.954Z"
+    },
+    "slug": "test-video",
+    "slugLock": true,
+    "breadcrumbs": [
+      {
+        "doc": {
+          "$oid": "67397a4a5d8910d5070852fd"
+        },
+        "url": "/test-video",
+        "label": "Test Video",
+        "id": "67c043fa7d19e30028bbe01f"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2024-12-01T10:58:27.284Z"
+    },
+    "createdAt": {
+      "$date": "2024-11-17T05:08:26.456Z"
+    },
+    "_status": "draft"
+  },
+  "createdAt": {
+    "$date": "2025-02-27T10:52:27.323Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-27T10:52:42.787Z"
+  },
+  "autosave": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c0441248c41c3755ac4ab4"
+  },
+  "parent": {
+    "$oid": "67397a4a5d8910d5070852fd"
+  },
+  "version": {
+    "title": "Test Video",
+    "thumbNail": {
+      "$oid": "67befea56e6e9bb8618b6757"
+    },
+    "duration": 3.4,
+    "sourceFile": {
+      "$oid": "6789da193a643084179eb69c"
+    },
+    "meta": {},
+    "publishedAt": {
+      "$date": "2024-11-17T05:09:19.954Z"
+    },
+    "slug": "test-video",
+    "slugLock": true,
+    "breadcrumbs": [
+      {
+        "doc": {
+          "$oid": "67397a4a5d8910d5070852fd"
+        },
+        "url": "/test-video",
+        "label": "Test Video",
+        "id": "67c044127d19e30028bbe020"
+      }
+    ],
+    "updatedAt": {
+      "$date": "2025-02-27T10:53:06.442Z"
+    },
+    "createdAt": {
+      "$date": "2024-11-17T05:08:26.456Z"
+    },
+    "_status": "published"
+  },
+  "createdAt": {
+    "$date": "2025-02-27T10:53:06.461Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-27T10:53:06.461Z"
+  },
+  "latest": true,
+  "autosave": false,
+  "__v": 0
+}]

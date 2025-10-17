@@ -1,0 +1,351 @@
+[{
+  "_id": {
+    "$oid": "66fce3e441312b82c8c504a3"
+  },
+  "title": "Contact form",
+  "fields": [
+    {
+      "blockType": "text",
+      "name": "fullName",
+      "label": "Full Name",
+      "width": 100,
+      "placeholder": "Enter your full name",
+      "required": true,
+      "id": "66fce3e46bf98407f7fd5877"
+    },
+    {
+      "blockType": "email",
+      "name": "email",
+      "label": "Email",
+      "placeholder": "Enter your email address",
+      "width": 100,
+      "required": true,
+      "id": "66fce3e46bf98407f7fd5878"
+    },
+    {
+      "blockType": "tel",
+      "name": "phone",
+      "label": "Phone",
+      "width": 100,
+      "placeholder": "Enter your phone number",
+      "required": false,
+      "id": "67e10895f8e555ccede46e68"
+    },
+    {
+      "blockType": "select",
+      "name": "cause",
+      "label": "Why are you getting in touch?",
+      "width": 100,
+      "placeholder": "Please a select an option",
+      "options": [
+        {
+          "label": "Cause A",
+          "value": "a",
+          "id": "66fce3e46bf98407f7fd587b"
+        },
+        {
+          "label": "Cause B",
+          "value": "b",
+          "id": "66fce3e46bf98407f7fd587c"
+        },
+        {
+          "label": "Cause C",
+          "value": "c",
+          "id": "66fce3e46bf98407f7fd587d"
+        },
+        {
+          "label": "Cause D",
+          "value": "d",
+          "id": "66fce3e46bf98407f7fd587e"
+        }
+      ],
+      "required": true,
+      "id": "66fce3e46bf98407f7fd587a"
+    },
+    {
+      "blockType": "customMultiCheckboxes",
+      "name": "usedWysaApp",
+      "label": "Have you used Wysa app before?",
+      "checkboxes": [
+        {
+          "name": "yes",
+          "label": "Yes",
+          "id": "67022e15d581d29e4577d7a8"
+        },
+        {
+          "name": "no",
+          "label": "No",
+          "id": "67022e1bd581d29e4577d7a9"
+        },
+        {
+          "name": "notSure",
+          "label": "Not sure",
+          "id": "67022e25d581d29e4577d7aa"
+        }
+      ],
+      "width": 100,
+      "required": true,
+      "id": "67022dc7d581d29e4577d7a7"
+    },
+    {
+      "blockType": "textarea",
+      "name": "message",
+      "label": "Your message",
+      "width": 100,
+      "placeholder": "Please tell us a bit more about why you're getting in touch",
+      "required": true,
+      "id": "66fd0798faf7e62ed2068561"
+    },
+    {
+      "blockType": "customConsent",
+      "name": "privacyPolicy",
+      "label": "I have read and agree to the",
+      "consentURL": {
+        "link": {
+          "type": "custom",
+          "newTab": true,
+          "url": "#",
+          "label": "Privacy Policy",
+          "appearance": "secondary-ghost"
+        }
+      },
+      "required": true,
+      "id": "670177bf0ac495c23269cd31"
+    }
+  ],
+  "confirmationType": "message",
+  "confirmationMessage": {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Thank You for reaching out!",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "We will get back to you soon",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
+    }
+  },
+  "redirect": {
+    "url": "https"
+  },
+  "emails": [],
+  "createdAt": {
+    "$date": "2024-10-02T06:10:44.569Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-24T07:29:05.226Z"
+  },
+  "__v": 0,
+  "submitButtonLabel": "Submit"
+},
+{
+  "_id": {
+    "$oid": "670b7ab7b9c3800150b40e2b"
+  },
+  "title": "Newsletter",
+  "fields": [
+    {
+      "name": "email",
+      "label": "Sign up for the latest news and updates",
+      "placeholder": "Enter your email address",
+      "width": 100,
+      "required": true,
+      "id": "670b7ab7dcbfb6578178584a",
+      "blockType": "email"
+    }
+  ],
+  "submitButtonLabel": "Sign up",
+  "confirmationType": "message",
+  "redirect": {
+    "url": "#"
+  },
+  "emails": [],
+  "createdAt": {
+    "$date": "2024-10-13T07:45:59.525Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-02T05:37:53.426Z"
+  },
+  "__v": 0,
+  "confirmationMessage": {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Thank you for signing up to our newsletter.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67016a84aa8347535853b0c3"
+  },
+  "title": "Consultation form",
+  "fields": [
+    {
+      "name": "fullName",
+      "label": "Full name",
+      "width": 100,
+      "placeholder": "Enter your full name",
+      "required": true,
+      "id": "67016a849eca9ec23290d117",
+      "blockType": "text"
+    },
+    {
+      "name": "email",
+      "label": "Email Adress",
+      "placeholder": "Enter your email address",
+      "width": 100,
+      "required": true,
+      "id": "67016a849eca9ec23290d118",
+      "blockType": "email"
+    },
+    {
+      "name": "phone",
+      "label": "Phone",
+      "width": 100,
+      "placeholder": "Enter your phone number",
+      "id": "67016a849eca9ec23290d119",
+      "blockType": "text"
+    },
+    {
+      "name": "message",
+      "label": "Anything else we should know",
+      "width": 100,
+      "placeholder": "Please tell us a bit more about why you're booking your consultation",
+      "id": "67016a849eca9ec23290d11c",
+      "blockType": "textarea"
+    },
+    {
+      "name": "privacyPolicy",
+      "label": "I have read and agree to the",
+      "consentURL": {
+        "link": {
+          "type": "custom",
+          "newTab": true,
+          "reference": {
+            "relationTo": "pages",
+            "value": "670900b654d2e767601e58be"
+          },
+          "url": "#",
+          "label": "Privacy Policy",
+          "appearance": "secondary-ghost"
+        }
+      },
+      "required": true,
+      "id": "671e830b8aa0b77e89a52521",
+      "blockType": "customConsent"
+    }
+  ],
+  "submitButtonLabel": "Request Booking",
+  "confirmationType": "message",
+  "confirmationMessage": {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Thank you for requesting a Consultation with us!",
+              "type": "text",
+              "version": 1
+            },
+            {
+              "type": "linebreak",
+              "version": 1
+            },
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "We will get back to you soon",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "textFormat": 0,
+          "textStyle": ""
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
+    }
+  },
+  "redirect": {},
+  "emails": [],
+  "createdAt": {
+    "$date": "2024-10-05T16:34:12.625Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-02T05:08:12.626Z"
+  },
+  "__v": 0
+}]
